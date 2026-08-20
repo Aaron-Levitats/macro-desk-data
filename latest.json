@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T23:49:50Z",
+ "generated_at": "2026-08-20T06:04:41Z",
  "groups": [
   {
    "name": "Inflation",
@@ -371,7 +371,7 @@
      "prev": 3.5,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-08-19",
+     "asof": "2026-08-20",
      "history": [
       3.5,
       3.5,
@@ -420,8 +420,8 @@
      "pct_mtd": 0.0,
      "chg_ytd": -0.75,
      "pct_ytd": -17.65,
-     "hist_from": "2026-07-11",
-     "hist_to": "2026-08-19",
+     "hist_from": "2026-07-12",
+     "hist_to": "2026-08-20",
      "delta": "bp",
      "policy": true,
      "next_decision": "2026-09-01"
@@ -1200,13 +1200,12 @@
      "note": "BoI 1-year Makam (short T-bill) yield, gross \u2014 daily (SECDWH dataflow)",
      "link": "",
      "status": "ok",
-     "value": 3.239,
-     "prev": 3.218,
-     "change": 0.02,
-     "pct": 0.64,
-     "asof": "2026-08-18",
+     "value": 3.215,
+     "prev": 3.239,
+     "change": -0.024,
+     "pct": -0.74,
+     "asof": "2026-08-19",
      "history": [
-      3.228,
       3.215,
       3.213,
       3.2,
@@ -1245,16 +1244,17 @@
       3.236,
       3.222,
       3.218,
-      3.239
+      3.239,
+      3.215
      ],
-     "chg_1d": 0.02,
-     "pct_1d": 0.64,
-     "chg_mtd": -0.049,
-     "pct_mtd": -1.51,
-     "chg_ytd": -0.579,
-     "pct_ytd": -15.16,
-     "hist_from": "2026-06-22",
-     "hist_to": "2026-08-18",
+     "chg_1d": -0.024,
+     "pct_1d": -0.74,
+     "chg_mtd": -0.073,
+     "pct_mtd": -2.23,
+     "chg_ytd": -0.603,
+     "pct_ytd": -15.79,
+     "hist_from": "2026-06-23",
+     "hist_to": "2026-08-19",
      "delta": "bp"
     },
     {
@@ -1749,13 +1749,12 @@
      "note": "Yahoo index coverage for TASE is best-effort",
      "link": "",
      "status": "ok",
-     "value": 4040.87,
-     "prev": 4026.31,
-     "change": 14.56,
-     "pct": 0.36,
-     "asof": "2026-08-18",
+     "value": 4039.99,
+     "prev": 4040.87,
+     "change": -0.88,
+     "pct": -0.02,
+     "asof": "2026-08-19",
      "history": [
-      4061.34,
       4074.08,
       4023.06,
       3968.09,
@@ -1794,16 +1793,17 @@
       4087.3,
       4074.63,
       4026.31,
-      4040.87
+      4040.87,
+      4039.99
      ],
-     "chg_1d": 14.56,
-     "pct_1d": 0.36,
-     "chg_mtd": -30.89,
-     "pct_mtd": -0.76,
-     "chg_ytd": 385.93,
-     "pct_ytd": 10.56,
-     "hist_from": "2026-06-23",
-     "hist_to": "2026-08-18",
+     "chg_1d": -0.88,
+     "pct_1d": -0.02,
+     "chg_mtd": -31.77,
+     "pct_mtd": -0.78,
+     "chg_ytd": 385.05,
+     "pct_ytd": 10.54,
+     "hist_from": "2026-06-24",
+     "hist_to": "2026-08-19",
      "delta": "pct"
     },
     {
@@ -1817,13 +1817,12 @@
      "note": "Yahoo index coverage for TASE is best-effort",
      "link": "",
      "status": "ok",
-     "value": 4176.34,
-     "prev": 4174.52,
-     "change": 1.82,
-     "pct": 0.04,
-     "asof": "2026-08-18",
+     "value": 4167.91,
+     "prev": 4176.34,
+     "change": -8.43,
+     "pct": -0.2,
+     "asof": "2026-08-19",
      "history": [
-      4147.91,
       4143.61,
       4150.38,
       4099.4,
@@ -1862,16 +1861,17 @@
       4216.4,
       4202.63,
       4174.52,
-      4176.34
+      4176.34,
+      4167.91
      ],
-     "chg_1d": 1.82,
-     "pct_1d": 0.04,
-     "chg_mtd": 26.84,
-     "pct_mtd": 0.65,
-     "chg_ytd": 557.47,
-     "pct_ytd": 15.4,
-     "hist_from": "2026-06-22",
-     "hist_to": "2026-08-18",
+     "chg_1d": -8.43,
+     "pct_1d": -0.2,
+     "chg_mtd": 18.41,
+     "pct_mtd": 0.44,
+     "chg_ytd": 549.04,
+     "pct_ytd": 15.17,
+     "hist_from": "2026-06-23",
+     "hist_to": "2026-08-19",
      "delta": "pct"
     },
     {
@@ -1885,13 +1885,12 @@
      "note": "Yahoo index coverage for TASE is best-effort",
      "link": "",
      "status": "ok",
-     "value": 3622.28,
-     "prev": 3569.46,
-     "change": 52.82,
-     "pct": 1.48,
-     "asof": "2026-08-18",
+     "value": 3643.17,
+     "prev": 3622.28,
+     "change": 20.89,
+     "pct": 0.58,
+     "asof": "2026-08-19",
      "history": [
-      3803.95,
       3799.85,
       3819.98,
       3772.39,
@@ -1930,16 +1929,17 @@
       3677.55,
       3667.78,
       3569.46,
-      3622.28
+      3622.28,
+      3643.17
      ],
-     "chg_1d": 52.82,
-     "pct_1d": 1.48,
-     "chg_mtd": -211.59,
-     "pct_mtd": -5.52,
-     "chg_ytd": -191.55,
-     "pct_ytd": -5.02,
-     "hist_from": "2026-06-22",
-     "hist_to": "2026-08-18",
+     "chg_1d": 20.89,
+     "pct_1d": 0.58,
+     "chg_mtd": -190.7,
+     "pct_mtd": -4.97,
+     "chg_ytd": -170.66,
+     "pct_ytd": -4.47,
+     "hist_from": "2026-06-23",
+     "hist_to": "2026-08-19",
      "delta": "pct"
     }
    ]
@@ -2416,7 +2416,7 @@
        "y": 5.28
       }
      ],
-     "asof": "2026-08-19",
+     "asof": "2026-08-20",
      "status": "ok",
      "note": "FRED constant-maturity Treasuries"
     },
@@ -2428,11 +2428,11 @@
      "points": [
       {
        "m": "1M",
-       "y": 3.45
+       "y": 3.429
       },
       {
        "m": "3M",
-       "y": 3.337
+       "y": 3.331
       },
       {
        "m": "1Y",
@@ -2463,7 +2463,7 @@
        "y": 4.123
       }
      ],
-     "asof": "2026-08-19",
+     "asof": "2026-08-20",
      "status": "ok",
      "maxtenor": "15Y",
      "note": "BoI nominal zero-coupon (1Y-15Y); 1M/3M = daily Makam T-bill"
