@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T23:47:05Z",
+ "generated_at": "2026-08-25T06:04:02Z",
  "groups": [
   {
    "name": "Inflation",
@@ -1749,13 +1749,12 @@
      "note": "Yahoo index coverage for TASE is best-effort",
      "link": "",
      "status": "ok",
-     "value": 4059.4,
-     "prev": 4040.89,
-     "change": 18.51,
-     "pct": 0.46,
-     "asof": "2026-08-21",
+     "value": 4014.95,
+     "prev": 4059.4,
+     "change": -44.45,
+     "pct": -1.09,
+     "asof": "2026-08-24",
      "history": [
-      3968.09,
       3966.24,
       4010.85,
       4077.1,
@@ -1794,16 +1793,17 @@
       4040.87,
       4039.99,
       4040.89,
-      4059.4
+      4059.4,
+      4014.95
      ],
-     "chg_1d": 18.51,
-     "pct_1d": 0.46,
-     "chg_mtd": -12.36,
-     "pct_mtd": -0.3,
-     "chg_ytd": 404.46,
-     "pct_ytd": 11.07,
-     "hist_from": "2026-06-26",
-     "hist_to": "2026-08-21",
+     "chg_1d": -44.45,
+     "pct_1d": -1.09,
+     "chg_mtd": -56.81,
+     "pct_mtd": -1.4,
+     "chg_ytd": 360.01,
+     "pct_ytd": 9.85,
+     "hist_from": "2026-06-29",
+     "hist_to": "2026-08-24",
      "delta": "pct"
     },
     {
@@ -1817,13 +1817,12 @@
      "note": "Yahoo index coverage for TASE is best-effort",
      "link": "",
      "status": "ok",
-     "value": 4171.9,
-     "prev": 4155.83,
-     "change": 16.07,
-     "pct": 0.39,
-     "asof": "2026-08-21",
+     "value": 4126.55,
+     "prev": 4171.9,
+     "change": -45.35,
+     "pct": -1.09,
+     "asof": "2026-08-24",
      "history": [
-      4028.22,
       4014.51,
       4066.87,
       4121.73,
@@ -1862,16 +1861,17 @@
       4176.34,
       4167.91,
       4155.83,
-      4171.9
+      4171.9,
+      4126.55
      ],
-     "chg_1d": 16.07,
-     "pct_1d": 0.39,
-     "chg_mtd": 22.4,
-     "pct_mtd": 0.54,
-     "chg_ytd": 553.03,
-     "pct_ytd": 15.28,
-     "hist_from": "2026-06-26",
-     "hist_to": "2026-08-21",
+     "chg_1d": -45.35,
+     "pct_1d": -1.09,
+     "chg_mtd": -22.95,
+     "pct_mtd": -0.55,
+     "chg_ytd": 507.68,
+     "pct_ytd": 14.03,
+     "hist_from": "2026-06-29",
+     "hist_to": "2026-08-24",
      "delta": "pct"
     },
     {
@@ -1885,13 +1885,12 @@
      "note": "Yahoo index coverage for TASE is best-effort",
      "link": "",
      "status": "ok",
-     "value": 3698.56,
-     "prev": 3669.44,
-     "change": 29.12,
-     "pct": 0.79,
-     "asof": "2026-08-21",
+     "value": 3659.72,
+     "prev": 3698.56,
+     "change": -38.84,
+     "pct": -1.05,
+     "asof": "2026-08-24",
      "history": [
-      3760.33,
       3796.12,
       3818.96,
       3921.89,
@@ -1930,16 +1929,17 @@
       3622.28,
       3643.17,
       3669.44,
-      3698.56
+      3698.56,
+      3659.72
      ],
-     "chg_1d": 29.12,
-     "pct_1d": 0.79,
-     "chg_mtd": -135.31,
-     "pct_mtd": -3.53,
-     "chg_ytd": -115.27,
-     "pct_ytd": -3.02,
-     "hist_from": "2026-06-26",
-     "hist_to": "2026-08-21",
+     "chg_1d": -38.84,
+     "pct_1d": -1.05,
+     "chg_mtd": -174.15,
+     "pct_mtd": -4.54,
+     "chg_ytd": -154.11,
+     "pct_ytd": -4.04,
+     "hist_from": "2026-06-29",
+     "hist_to": "2026-08-24",
      "delta": "pct"
     }
    ]
@@ -2416,7 +2416,7 @@
        "y": 5.27
       }
      ],
-     "asof": "2026-08-24",
+     "asof": "2026-08-25",
      "status": "ok",
      "note": "FRED constant-maturity Treasuries"
     },
@@ -2463,7 +2463,7 @@
        "y": 4.123
       }
      ],
-     "asof": "2026-08-24",
+     "asof": "2026-08-25",
      "status": "ok",
      "maxtenor": "15Y",
      "note": "BoI nominal zero-coupon (1Y-15Y); 1M/3M = daily Makam T-bill"
