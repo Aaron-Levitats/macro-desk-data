@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T21:21:38Z",
+ "generated_at": "2026-08-28T23:04:00Z",
  "groups": [
   {
    "name": "Inflation",
@@ -2026,12 +2026,13 @@
      "note": "ETF proxy for the Bloomberg Global Aggregate",
      "link": "",
      "status": "ok",
-     "value": 4.31,
-     "prev": 4.33,
-     "change": -0.02,
-     "pct": -0.39,
-     "asof": "2026-08-28",
+     "value": 4.33,
+     "prev": 4.34,
+     "change": -0.01,
+     "pct": -0.22,
+     "asof": "2026-08-26",
      "history": [
+      4.39,
       4.38,
       4.38,
       4.37,
@@ -2070,17 +2071,16 @@
       4.32,
       4.32,
       4.34,
-      4.33,
-      4.31
+      4.33
      ],
-     "chg_1d": -0.02,
-     "pct_1d": -0.39,
-     "chg_mtd": 0.03,
-     "pct_mtd": 0.64,
-     "chg_ytd": -0.17,
-     "pct_ytd": -3.73,
-     "hist_from": "2026-07-03",
-     "hist_to": "2026-08-28",
+     "chg_1d": -0.01,
+     "pct_1d": -0.22,
+     "chg_mtd": 0.04,
+     "pct_mtd": 1.04,
+     "chg_ytd": -0.15,
+     "pct_ytd": -3.35,
+     "hist_from": "2026-07-02",
+     "hist_to": "2026-08-26",
      "delta": "pct"
     },
     {
