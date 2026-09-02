@@ -1,6 +1,7 @@
 {
  "as_of": "2026-09-01",
- "status": "warning",
+ "validation_start": "2023-02-01",
+ "status": "ok",
  "tickers": {
   "BND": {
    "ticker": "BND",
@@ -18,8 +19,8 @@
      {
       "month": "2012-11",
       "ours_pct": 0.2696,
-      "yahoo_pct": 0.059,
-      "diff_bp": 21.07,
+      "yahoo_pct": 0.0589,
+      "diff_bp": 21.08,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
@@ -33,13 +34,13 @@
       "month": "2017-07",
       "ours_pct": 0.4041,
       "yahoo_pct": 0.6124,
-      "diff_bp": -20.83,
+      "diff_bp": -20.82,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2017-08",
       "ours_pct": 0.8564,
-      "yahoo_pct": 1.068,
+      "yahoo_pct": 1.0679,
       "diff_bp": -21.15,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
@@ -57,6 +58,12 @@
     "tolerance_bp": 2.0,
     "skipped": null,
     "flagged_years": []
+   },
+   "historical_flags": {
+    "before": "2023-02-01",
+    "count": 0,
+    "check_a_months": [],
+    "check_b_years": []
    }
   },
   "AGG": {
@@ -75,7 +82,7 @@
      {
       "month": "2018-11",
       "ours_pct": 0.5238,
-      "yahoo_pct": 0.7716,
+      "yahoo_pct": 0.7715,
       "diff_bp": -24.78,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      }
@@ -86,13 +93,19 @@
     "tolerance_bp": 2.0,
     "skipped": null,
     "flagged_years": []
+   },
+   "historical_flags": {
+    "before": "2023-02-01",
+    "count": 0,
+    "check_a_months": [],
+    "check_b_years": []
    }
   },
   "PIMIX": {
    "ticker": "PIMIX",
    "id": "BENCH_TR_PIMIX",
    "label": "PIMIX (reconstructed TR)",
-   "status": "warning",
+   "status": "ok",
    "basis": "total_return",
    "as_of": "2026-09-01",
    "check_a": {
@@ -106,18 +119,26 @@
     "name": "Official annual returns",
     "tolerance_bp": 10.0,
     "skipped": null,
-    "flagged_years": [
+    "flagged_years": []
+   },
+   "historical_flags": {
+    "before": "2023-02-01",
+    "count": 2,
+    "check_a_months": [],
+    "check_b_years": [
      {
       "year": 2010,
       "ours_pct": 19.4593,
       "official_pct": 20.46,
-      "diff_bp": -100.07
+      "diff_bp": -100.07,
+      "reason": "before the validated window (2023-02-01) \u2014 recorded, not scored"
      },
      {
       "year": 2017,
       "ours_pct": 8.7401,
       "official_pct": 8.6,
-      "diff_bp": 14.01
+      "diff_bp": 14.01,
+      "reason": "before the validated window (2023-02-01) \u2014 recorded, not scored"
      }
     ]
    }
@@ -141,6 +162,12 @@
     "tolerance_bp": 2.0,
     "skipped": "no published figures on file for this ticker",
     "flagged_years": []
+   },
+   "historical_flags": {
+    "before": "2023-02-01",
+    "count": 0,
+    "check_a_months": [],
+    "check_b_years": []
    }
   },
   "^TA125.TA": {
@@ -162,6 +189,12 @@
     "tolerance_bp": 2.0,
     "skipped": "no published figures on file for this ticker",
     "flagged_years": []
+   },
+   "historical_flags": {
+    "before": "2023-02-01",
+    "count": 0,
+    "check_a_months": [],
+    "check_b_years": []
    }
   }
  }

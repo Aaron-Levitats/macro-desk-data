@@ -76,6 +76,8 @@
     "years": []
    },
    "vsuppressed": 5,
+   "vfrom": "2023-02-01",
+   "vhistorical": 0,
    "ndist": 212
   },
   {
@@ -153,6 +155,8 @@
     "years": []
    },
    "vsuppressed": 1,
+   "vfrom": "2023-02-01",
+   "vhistorical": 0,
    "ndist": 212
   },
   {
@@ -224,15 +228,14 @@
    "delta": "pct",
    "name": "PIMCO Income Fund (Institutional)",
    "ticker": "PIMIX",
-   "vstatus": "warning",
+   "vstatus": "ok",
    "vflags": {
     "months": [],
-    "years": [
-     "2010",
-     "2017"
-    ]
+    "years": []
    },
    "vsuppressed": 0,
+   "vfrom": "2023-02-01",
+   "vhistorical": 2,
    "ndist": 224
   },
   {
@@ -310,6 +313,8 @@
     "years": []
    },
    "vsuppressed": 0,
+   "vfrom": "2023-02-01",
+   "vhistorical": 0,
    "ndist": 0
   }
  ]

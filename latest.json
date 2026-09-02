@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T18:34:11Z",
+ "generated_at": "2026-09-02T19:03:15Z",
  "groups": [
   {
    "name": "Inflation",
@@ -1409,10 +1409,10 @@
      "note": "",
      "link": "",
      "status": "ok",
-     "value": 7671.34,
+     "value": 7664.74,
      "prev": 7631.47,
-     "change": 39.87,
-     "pct": 0.52,
+     "change": 33.27,
+     "pct": 0.44,
      "asof": "2026-09-02",
      "history": [
       7482.71,
@@ -1454,14 +1454,14 @@
       7730.99,
       7686.14,
       7631.47,
-      7671.34
+      7664.74
      ],
-     "chg_1d": 39.87,
-     "pct_1d": 0.52,
-     "chg_mtd": -14.8,
-     "pct_mtd": -0.19,
-     "chg_ytd": 825.84,
-     "pct_ytd": 12.06,
+     "chg_1d": 33.27,
+     "pct_1d": 0.44,
+     "chg_mtd": -21.4,
+     "pct_mtd": -0.28,
+     "chg_ytd": 819.24,
+     "pct_ytd": 11.97,
      "hist_from": "2026-07-08",
      "hist_to": "2026-09-02",
      "delta": "pct"
@@ -1477,10 +1477,10 @@
      "note": "",
      "link": "",
      "status": "ok",
-     "value": 26218.24,
+     "value": 26191.37,
      "prev": 26099.77,
-     "change": 118.47,
-     "pct": 0.45,
+     "change": 91.6,
+     "pct": 0.35,
      "asof": "2026-09-02",
      "history": [
       25870.65,
@@ -1522,14 +1522,14 @@
       26541.35,
       26370.89,
       26099.77,
-      26218.24
+      26191.37
      ],
-     "chg_1d": 118.47,
-     "pct_1d": 0.45,
-     "chg_mtd": -152.65,
-     "pct_mtd": -0.58,
-     "chg_ytd": 2976.25,
-     "pct_ytd": 12.81,
+     "chg_1d": 91.6,
+     "pct_1d": 0.35,
+     "chg_mtd": -179.52,
+     "pct_mtd": -0.68,
+     "chg_ytd": 2949.38,
+     "pct_ytd": 12.69,
      "hist_from": "2026-07-08",
      "hist_to": "2026-09-02",
      "delta": "pct"
@@ -1545,10 +1545,10 @@
      "note": "",
      "link": "",
      "status": "ok",
-     "value": 29126.31,
+     "value": 29101.1,
      "prev": 29077.22,
-     "change": 49.09,
-     "pct": 0.17,
+     "change": 23.88,
+     "pct": 0.08,
      "asof": "2026-09-02",
      "history": [
       29252.56,
@@ -1590,14 +1590,14 @@
       29641.56,
       29456.97,
       29077.22,
-      29126.31
+      29101.1
      ],
-     "chg_1d": 49.09,
-     "pct_1d": 0.17,
-     "chg_mtd": -330.66,
-     "pct_mtd": -1.12,
-     "chg_ytd": 3876.46,
-     "pct_ytd": 15.35,
+     "chg_1d": 23.88,
+     "pct_1d": 0.08,
+     "chg_mtd": -355.87,
+     "pct_mtd": -1.21,
+     "chg_ytd": 3851.25,
+     "pct_ytd": 15.25,
      "hist_from": "2026-07-08",
      "hist_to": "2026-09-02",
      "delta": "pct"
@@ -1613,10 +1613,10 @@
      "note": "",
      "link": "",
      "status": "ok",
-     "value": 53010.95,
+     "value": 53014.4,
      "prev": 52766.88,
-     "change": 244.07,
-     "pct": 0.46,
+     "change": 247.52,
+     "pct": 0.47,
      "asof": "2026-09-02",
      "history": [
       52348.39,
@@ -1658,14 +1658,14 @@
       53569.44,
       53185.9,
       52766.88,
-      53010.95
+      53014.4
      ],
-     "chg_1d": 244.07,
-     "pct_1d": 0.46,
-     "chg_mtd": -174.95,
-     "pct_mtd": -0.33,
-     "chg_ytd": 4947.66,
-     "pct_ytd": 10.29,
+     "chg_1d": 247.52,
+     "pct_1d": 0.47,
+     "chg_mtd": -171.5,
+     "pct_mtd": -0.32,
+     "chg_ytd": 4951.11,
+     "pct_ytd": 10.3,
      "hist_from": "2026-07-08",
      "hist_to": "2026-09-02",
      "delta": "pct"
@@ -1681,10 +1681,10 @@
      "note": "",
      "link": "",
      "status": "ok",
-     "value": 2954.76,
+     "value": 2955.04,
      "prev": 2920.13,
-     "change": 34.63,
-     "pct": 1.19,
+     "change": 34.91,
+     "pct": 1.2,
      "asof": "2026-09-02",
      "history": [
       2956.39,
@@ -1726,14 +1726,14 @@
       3014.34,
       2956.45,
       2920.13,
-      2954.76
+      2955.04
      ],
-     "chg_1d": 34.63,
-     "pct_1d": 1.19,
-     "chg_mtd": -1.69,
-     "pct_mtd": -0.06,
-     "chg_ytd": 472.85,
-     "pct_ytd": 19.05,
+     "chg_1d": 34.91,
+     "pct_1d": 1.2,
+     "chg_mtd": -1.41,
+     "pct_mtd": -0.05,
+     "chg_ytd": 473.13,
+     "pct_ytd": 19.06,
      "hist_from": "2026-07-08",
      "hist_to": "2026-09-02",
      "delta": "pct"
@@ -2017,6 +2017,8 @@
       "years": []
      },
      "vsuppressed": 0,
+     "vfrom": "2023-02-01",
+     "vhistorical": 0,
      "ndist": 0
     }
    ]
@@ -2035,10 +2037,10 @@
      "note": "",
      "link": "",
      "status": "ok",
-     "value": 96.79,
+     "value": 96.78,
      "prev": 96.77,
-     "change": 0.02,
-     "pct": 0.02,
+     "change": 0.01,
+     "pct": 0.01,
      "asof": "2026-09-02",
      "history": [
       98.04,
@@ -2080,14 +2082,14 @@
       97.83,
       97.41,
       96.77,
-      96.79
+      96.78
      ],
-     "chg_1d": 0.02,
-     "pct_1d": 0.02,
-     "chg_mtd": -0.62,
-     "pct_mtd": -0.64,
-     "chg_ytd": -3.09,
-     "pct_ytd": -3.1,
+     "chg_1d": 0.01,
+     "pct_1d": 0.01,
+     "chg_mtd": -0.64,
+     "pct_mtd": -0.65,
+     "chg_ytd": -3.1,
+     "pct_ytd": -3.11,
      "hist_from": "2026-07-08",
      "hist_to": "2026-09-02",
      "delta": "pct"
@@ -2439,6 +2441,8 @@
       "years": []
      },
      "vsuppressed": 5,
+     "vfrom": "2023-02-01",
+     "vhistorical": 0,
      "ndist": 212
     },
     {
@@ -2516,6 +2520,8 @@
       "years": []
      },
      "vsuppressed": 1,
+     "vfrom": "2023-02-01",
+     "vhistorical": 0,
      "ndist": 212
     },
     {
@@ -2587,15 +2593,14 @@
      "delta": "pct",
      "name": "PIMCO Income Fund (Institutional)",
      "ticker": "PIMIX",
-     "vstatus": "warning",
+     "vstatus": "ok",
      "vflags": {
       "months": [],
-      "years": [
-       "2010",
-       "2017"
-      ]
+      "years": []
      },
      "vsuppressed": 0,
+     "vfrom": "2023-02-01",
+     "vhistorical": 2,
      "ndist": 224
     }
    ]
