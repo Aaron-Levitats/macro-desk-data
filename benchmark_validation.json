@@ -20,7 +20,7 @@
       "month": "2012-11",
       "ours_pct": 0.2696,
       "yahoo_pct": 0.0589,
-      "diff_bp": 21.08,
+      "diff_bp": 21.07,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
@@ -33,14 +33,14 @@
      {
       "month": "2017-07",
       "ours_pct": 0.4041,
-      "yahoo_pct": 0.6123,
-      "diff_bp": -20.82,
+      "yahoo_pct": 0.6124,
+      "diff_bp": -20.83,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2017-08",
       "ours_pct": 0.8564,
-      "yahoo_pct": 1.068,
+      "yahoo_pct": 1.0679,
       "diff_bp": -21.15,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
