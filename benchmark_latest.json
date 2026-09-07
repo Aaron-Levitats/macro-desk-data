@@ -4,7 +4,7 @@
   {
    "id": "BENCH_TR_BND",
    "group": "Bond indices",
-   "label": "BND (reconstructed TR)",
+   "label": "BND",
    "unit": "",
    "dp": 2,
    "cadence": "daily",
@@ -13,7 +13,9 @@
    "link": "",
    "status": "ok",
    "link_label": "",
-   "footnote": "",
+   "footnote": [
+    "BND, AGG, PIMIX: total return with distributions reinvested, reconstructed from the raw close and corrected distributions (not the price level)."
+   ],
    "sources": [
     {
      "source": "Yahoo",
@@ -22,6 +24,14 @@
      "to": "2026-09-04"
     }
    ],
+   "coverage": {
+    "official_source": "Yahoo",
+    "official_through": "2026-09-04",
+    "provisional_source": null,
+    "provisional_from": null,
+    "provisional_days": null
+   },
+   "provisional_points": 0,
    "value": 71.95,
    "prev": 71.93,
    "change": 0.02,
@@ -78,7 +88,7 @@
    "chg_ytd": -0.16,
    "pct_ytd": -0.23,
    "delta": "pct",
-   "name": "Vanguard Total Bond Market ETF",
+   "name": "Vanguard Total Bond Market ETF \u2014 total return, distributions reinvested",
    "ticker": "BND",
    "vstatus": "ok",
    "vflags": {
@@ -93,7 +103,7 @@
   {
    "id": "BENCH_TR_AGG",
    "group": "Bond indices",
-   "label": "AGG (reconstructed TR)",
+   "label": "AGG",
    "unit": "",
    "dp": 2,
    "cadence": "daily",
@@ -102,7 +112,9 @@
    "link": "",
    "status": "ok",
    "link_label": "",
-   "footnote": "",
+   "footnote": [
+    "BND, AGG, PIMIX: total return with distributions reinvested, reconstructed from the raw close and corrected distributions (not the price level)."
+   ],
    "sources": [
     {
      "source": "Yahoo",
@@ -111,6 +123,14 @@
      "to": "2026-09-04"
     }
    ],
+   "coverage": {
+    "official_source": "Yahoo",
+    "official_through": "2026-09-04",
+    "provisional_source": null,
+    "provisional_from": null,
+    "provisional_days": null
+   },
+   "provisional_points": 0,
    "value": 97.0,
    "prev": 96.95,
    "change": 0.05,
@@ -167,7 +187,7 @@
    "chg_ytd": -0.24,
    "pct_ytd": -0.25,
    "delta": "pct",
-   "name": "iShares Core US Aggregate Bond ETF",
+   "name": "iShares Core US Aggregate Bond ETF \u2014 total return, distributions reinvested",
    "ticker": "AGG",
    "vstatus": "ok",
    "vflags": {
@@ -182,7 +202,7 @@
   {
    "id": "BENCH_TR_PIMIX",
    "group": "Bond indices",
-   "label": "PIMIX (reconstructed TR)",
+   "label": "PIMIX",
    "unit": "",
    "dp": 2,
    "cadence": "daily",
@@ -191,7 +211,10 @@
    "link": "https://www.pimco.com/us/en/investments/mutual-fund/pimco-income-fund/inst-usd",
    "status": "ok",
    "link_label": "PIMCO source",
-   "footnote": "PIMIX: NAV and distributions from PIMCO (pimco.com); Yahoo for the most recent days only.",
+   "footnote": [
+    "BND, AGG, PIMIX: total return with distributions reinvested, reconstructed from the raw close and corrected distributions (not the price level).",
+    "PIMIX: NAV and distributions from PIMCO (pimco.com); Yahoo for the most recent days only."
+   ],
    "sources": [
     {
      "source": "PIMCO",
@@ -204,6 +227,14 @@
      ]
     }
    ],
+   "coverage": {
+    "official_source": "PIMCO",
+    "official_through": "2026-09-04",
+    "provisional_source": null,
+    "provisional_from": null,
+    "provisional_days": null
+   },
+   "provisional_points": 0,
    "value": 10.7,
    "prev": 10.71,
    "change": -0.01,
@@ -260,7 +291,7 @@
    "chg_ytd": 0.1,
    "pct_ytd": 0.93,
    "delta": "pct",
-   "name": "PIMCO Income Fund (Institutional)",
+   "name": "PIMCO Income Fund (Institutional) \u2014 total return, distributions reinvested",
    "ticker": "PIMIX",
    "vstatus": "ok",
    "vflags": {
@@ -284,7 +315,9 @@
    "link": "",
    "status": "ok",
    "link_label": "",
-   "footnote": "",
+   "footnote": [
+    "S&P 500 total return: the provider's published total-return index level, passed through."
+   ],
    "sources": [
     {
      "source": "Yahoo",
@@ -293,6 +326,14 @@
      "to": "2026-09-04"
     }
    ],
+   "coverage": {
+    "official_source": "Yahoo",
+    "official_through": "2026-09-04",
+    "provisional_source": null,
+    "provisional_from": null,
+    "provisional_days": null
+   },
+   "provisional_points": 0,
    "value": 17298.34,
    "prev": 17360.91,
    "change": -62.57,
@@ -349,7 +390,7 @@
    "chg_ytd": 2077.89,
    "pct_ytd": 13.65,
    "delta": "pct",
-   "name": "S&P 500 Total Return Index",
+   "name": "S&P 500 Total Return Index \u2014 published total-return index level, passed through",
    "ticker": "^SP500TR",
    "vstatus": "ok",
    "vflags": {
