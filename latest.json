@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T19:03:20Z",
+ "generated_at": "2026-09-08T00:51:49Z",
  "groups": [
   {
    "name": "Inflation",
@@ -288,7 +288,7 @@
      "target_hi": 3.75,
      "target_kind": "target range",
      "next_decision": "2026-09-16",
-     "next_decision_days": 9,
+     "next_decision_days": 8,
      "next_decision_note": null
     },
     {
@@ -433,7 +433,7 @@
      "delta": "bp",
      "policy": true,
      "next_decision": "2026-10-21",
-     "next_decision_days": 44,
+     "next_decision_days": 43,
      "next_decision_note": null
     }
    ]
@@ -2356,10 +2356,11 @@
      "status": "ok",
      "value": 4.32,
      "prev": 4.32,
-     "change": -0.01,
-     "pct": -0.15,
-     "asof": "2026-09-07",
+     "change": 0.0,
+     "pct": 0.05,
+     "asof": "2026-09-04",
      "history": [
+      4.37,
       4.35,
       4.37,
       4.37,
@@ -2398,17 +2399,16 @@
       4.3,
       4.29,
       4.32,
-      4.32,
       4.32
      ],
-     "chg_1d": -0.01,
-     "pct_1d": -0.15,
-     "chg_mtd": 0.0,
-     "pct_mtd": 0.03,
-     "chg_ytd": -0.17,
-     "pct_ytd": -3.69,
-     "hist_from": "2026-07-13",
-     "hist_to": "2026-09-07",
+     "chg_1d": 0.0,
+     "pct_1d": 0.05,
+     "chg_mtd": 0.01,
+     "pct_mtd": 0.19,
+     "chg_ytd": -0.16,
+     "pct_ytd": -3.55,
+     "hist_from": "2026-07-10",
+     "hist_to": "2026-09-04",
      "delta": "pct"
     },
     {
@@ -2424,12 +2424,11 @@
      "link": "https://market.tase.co.il/en/market_data/index/709/major_data",
      "status": "ok",
      "value": 430.41,
-     "prev": 430.62,
-     "change": -0.21,
-     "pct": -0.05,
-     "asof": "2026-09-07",
+     "prev": 430.41,
+     "change": 0.0,
+     "pct": 0.0,
+     "asof": "2026-09-08",
      "history": [
-      428.11,
       428.39,
       428.33,
       428.31,
@@ -2468,16 +2467,17 @@
       430.68,
       430.62,
       430.62,
+      430.41,
       430.41
      ],
-     "chg_1d": -0.21,
-     "pct_1d": -0.05,
+     "chg_1d": 0.0,
+     "pct_1d": 0.0,
      "chg_mtd": 1.36,
      "pct_mtd": 0.32,
      "chg_ytd": 15.23,
      "pct_ytd": 3.67,
-     "hist_from": "2026-07-14",
-     "hist_to": "2026-09-07",
+     "hist_from": "2026-07-15",
+     "hist_to": "2026-09-08",
      "delta": "pct",
      "sources": [
       {
@@ -2493,7 +2493,7 @@
        "source": "TASE last rate",
        "what": "close",
        "from": "2026-09-05",
-       "to": "2026-09-07"
+       "to": "2026-09-08"
       }
      ],
      "coverage": {
@@ -2501,9 +2501,9 @@
       "official_through": "2026-09-04",
       "provisional_source": "TASE last rate",
       "provisional_from": "2026-09-05",
-      "provisional_days": 2
+      "provisional_days": 3
      },
-     "provisional_points": 2,
+     "provisional_points": 3,
      "link_label": "TASE source",
      "footnote": "Tel Bond-60 CPI Linked: closing levels from TASE (market.tase.co.il); TASE last rate for the most recent days only."
     },
@@ -2520,12 +2520,11 @@
      "link": "",
      "status": "ok",
      "value": 466.25,
-     "prev": 466.71,
-     "change": -0.46,
-     "pct": -0.1,
-     "asof": "2026-09-07",
+     "prev": 466.25,
+     "change": 0.0,
+     "pct": 0.0,
+     "asof": "2026-09-08",
      "history": [
-      465.18,
       464.41,
       464.22,
       463.62,
@@ -2564,16 +2563,17 @@
       466.39,
       466.72,
       466.71,
+      466.25,
       466.25
      ],
-     "chg_1d": -0.46,
-     "pct_1d": -0.1,
+     "chg_1d": 0.0,
+     "pct_1d": 0.0,
      "chg_mtd": -0.18,
      "pct_mtd": -0.04,
      "chg_ytd": 16.4,
      "pct_ytd": 3.65,
-     "hist_from": "2026-07-20",
-     "hist_to": "2026-09-07",
+     "hist_from": "2026-07-21",
+     "hist_to": "2026-09-08",
      "delta": "pct"
     },
     {
@@ -2589,12 +2589,11 @@
      "link": "",
      "status": "ok",
      "value": 534.12,
-     "prev": 535.56,
-     "change": -1.44,
-     "pct": -0.27,
-     "asof": "2026-09-07",
+     "prev": 534.12,
+     "change": 0.0,
+     "pct": 0.0,
+     "asof": "2026-09-08",
      "history": [
-      534.2,
       532.8,
       532.6,
       531.9,
@@ -2633,16 +2632,17 @@
       535.31,
       535.43,
       535.56,
+      534.12,
       534.12
      ],
-     "chg_1d": -1.44,
-     "pct_1d": -0.27,
+     "chg_1d": 0.0,
+     "pct_1d": 0.0,
      "chg_mtd": -2.37,
      "pct_mtd": -0.44,
      "chg_ytd": 15.12,
      "pct_ytd": 2.91,
-     "hist_from": "2026-07-17",
-     "hist_to": "2026-09-07",
+     "hist_from": "2026-07-20",
+     "hist_to": "2026-09-08",
      "delta": "pct"
     }
    ]
@@ -2775,7 +2775,7 @@
        "y": 5.25
       }
      ],
-     "asof": "2026-09-07",
+     "asof": "2026-09-08",
      "status": "ok",
      "note": "FRED constant-maturity Treasuries"
     },
@@ -2822,7 +2822,7 @@
        "y": 4.122
       }
      ],
-     "asof": "2026-09-07",
+     "asof": "2026-09-08",
      "status": "ok",
      "maxtenor": "15Y",
      "note": "BoI nominal zero-coupon (1Y-15Y); 1M/3M = daily Makam T-bill"
