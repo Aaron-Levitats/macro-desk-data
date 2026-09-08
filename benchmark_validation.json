@@ -44,15 +44,15 @@
      {
       "month": "2012-12",
       "ours_pct": -0.1767,
-      "yahoo_pct": -0.8766,
-      "diff_bp": 69.98,
+      "yahoo_pct": -0.8764,
+      "diff_bp": 69.97,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2017-07",
       "ours_pct": 0.4041,
-      "yahoo_pct": 0.6123,
-      "diff_bp": -20.82,
+      "yahoo_pct": 0.6124,
+      "diff_bp": -20.83,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
@@ -119,7 +119,7 @@
      {
       "month": "2018-11",
       "ours_pct": 0.5238,
-      "yahoo_pct": 0.7715,
+      "yahoo_pct": 0.7716,
       "diff_bp": -24.78,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      }
@@ -185,22 +185,22 @@
      {
       "month": "2010-01",
       "ours_pct": 2.9573,
-      "yahoo_pct": 3.0131,
-      "diff_bp": -5.58,
+      "yahoo_pct": 3.013,
+      "diff_bp": -5.57,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2010-04",
       "ours_pct": 3.046,
-      "yahoo_pct": 2.6449,
-      "diff_bp": 40.11,
+      "yahoo_pct": 2.6447,
+      "diff_bp": 40.13,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2010-05",
       "ours_pct": -0.074,
-      "yahoo_pct": -0.5313,
-      "diff_bp": 45.73,
+      "yahoo_pct": -0.5311,
+      "diff_bp": 45.71,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -213,15 +213,15 @@
      {
       "month": "2011-10",
       "ours_pct": 0.5665,
-      "yahoo_pct": 0.5984,
+      "yahoo_pct": 0.5985,
       "diff_bp": -3.19,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2012-01",
       "ours_pct": 2.6083,
-      "yahoo_pct": 2.639,
-      "diff_bp": -3.07,
+      "yahoo_pct": 2.6391,
+      "diff_bp": -3.08,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -255,15 +255,15 @@
      {
       "month": "2016-12",
       "ours_pct": 1.0467,
-      "yahoo_pct": 0.9696,
-      "diff_bp": 7.71,
+      "yahoo_pct": 0.9697,
+      "diff_bp": 7.7,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2017-01",
       "ours_pct": 0.8748,
-      "yahoo_pct": 0.9652,
-      "diff_bp": -9.04,
+      "yahoo_pct": 0.9651,
+      "diff_bp": -9.03,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -277,14 +277,14 @@
       "month": "2023-03",
       "ours_pct": 1.1068,
       "yahoo_pct": 1.2086,
-      "diff_bp": -10.18,
+      "diff_bp": -10.17,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2024-05",
       "ours_pct": 1.7857,
       "yahoo_pct": 1.5955,
-      "diff_bp": 19.02,
+      "diff_bp": 19.03,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -404,7 +404,7 @@
      "source": "Yahoo",
      "what": "close",
      "from": "2026-09-07",
-     "to": "2026-09-07"
+     "to": "2026-09-08"
     }
    ],
    "sponsor": {
