@@ -244,10 +244,10 @@
     "provisional_days": 7
    },
    "provisional_points": 7,
-   "value": 10.51,
+   "value": 10.5,
    "prev": 10.51,
-   "change": 0.0,
-   "pct": 0.0,
+   "change": -0.01,
+   "pct": -0.1,
    "asof": "2026-09-16",
    "history": [
     10.61,
@@ -289,16 +289,16 @@
     10.55,
     10.52,
     10.51,
-    10.51
+    10.5
    ],
    "hist_from": "2026-07-22",
    "hist_to": "2026-09-16",
-   "chg_1d": 0.0,
-   "pct_1d": 0.0,
-   "chg_mtd": -0.18,
-   "pct_mtd": -1.68,
-   "chg_ytd": -0.09,
-   "pct_ytd": -0.86,
+   "chg_1d": -0.01,
+   "pct_1d": -0.1,
+   "chg_mtd": -0.19,
+   "pct_mtd": -1.78,
+   "chg_ytd": -0.1,
+   "pct_ytd": -0.95,
    "delta": "pct",
    "name": "PIMCO Income Fund (Institutional) \u2014 total return, distributions reinvested",
    "ticker": "PIMIX",
@@ -333,7 +333,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-09-16"
+     "to": "2026-09-17"
     }
    ],
    "coverage": {
