@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T00:52:26Z",
+ "generated_at": "2026-09-21T10:34:48Z",
  "groups": [
   {
    "name": "Inflation",
@@ -300,7 +300,7 @@
      "target_hi": 4.0,
      "target_kind": "target range",
      "next_decision": "2026-10-28",
-     "next_decision_days": 39,
+     "next_decision_days": 37,
      "next_decision_note": null
     },
     {
@@ -322,10 +322,8 @@
      "prev": 4.0,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-18",
+     "asof": "2026-09-20",
      "history": [
-      3.75,
-      3.75,
       3.75,
       3.75,
       3.75,
@@ -363,6 +361,8 @@
       3.75,
       3.75,
       4.0,
+      4.0,
+      4.0,
       4.0
      ],
      "chg_1d": 0.0,
@@ -371,8 +371,8 @@
      "pct_mtd": 6.67,
      "chg_ytd": 0.25,
      "pct_ytd": 6.67,
-     "hist_from": "2026-08-10",
-     "hist_to": "2026-09-18",
+     "hist_from": "2026-08-12",
+     "hist_to": "2026-09-20",
      "delta": "bp",
      "range_lo": 3.75,
      "range_hi": 4.0,
@@ -397,7 +397,7 @@
      "prev": 3.25,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-18",
+     "asof": "2026-09-21",
      "history": [
       3.5,
       3.5,
@@ -420,9 +420,9 @@
       3.5,
       3.5,
       3.5,
-      3.5,
-      3.5,
-      3.5,
+      3.25,
+      3.25,
+      3.25,
       3.25,
       3.25,
       3.25,
@@ -446,12 +446,12 @@
      "pct_mtd": -7.14,
      "chg_ytd": -1.0,
      "pct_ytd": -23.53,
-     "hist_from": "2026-08-10",
-     "hist_to": "2026-09-18",
+     "hist_from": "2026-08-13",
+     "hist_to": "2026-09-21",
      "delta": "bp",
      "policy": true,
      "next_decision": "2026-10-21",
-     "next_decision_days": 32,
+     "next_decision_days": 30,
      "next_decision_note": null
     }
    ]
@@ -1492,11 +1492,11 @@
      "detail": "interpolated from the nearest quoted issues",
      "block": "Government yields (USD)",
      "status": "ok",
-     "value": 5.411,
-     "prev": 5.375,
-     "change": 0.036,
-     "pct": 0.67,
-     "asof": "2026-09-17",
+     "value": 5.487,
+     "prev": 5.411,
+     "change": 0.076,
+     "pct": 1.4,
+     "asof": "2026-09-18",
      "history": [
       5.223,
       5.16,
@@ -1506,16 +1506,17 @@
       5.339,
       5.373,
       5.375,
-      5.411
+      5.411,
+      5.487
      ],
-     "chg_1d": 0.036,
-     "pct_1d": 0.67,
+     "chg_1d": 0.076,
+     "pct_1d": 1.4,
      "chg_mtd": null,
      "pct_mtd": null,
      "chg_ytd": null,
      "pct_ytd": null,
      "hist_from": "2026-09-07",
-     "hist_to": "2026-09-17",
+     "hist_to": "2026-09-18",
      "delta": "bp"
     },
     {
@@ -1533,11 +1534,11 @@
      "detail": "interpolated from the nearest quoted issues",
      "block": "Government yields (USD)",
      "status": "ok",
-     "value": 5.908,
-     "prev": 5.941,
+     "value": 5.875,
+     "prev": 5.908,
      "change": -0.033,
-     "pct": -0.55,
-     "asof": "2026-09-17",
+     "pct": -0.56,
+     "asof": "2026-09-18",
      "history": [
       5.722,
       5.739,
@@ -1547,16 +1548,17 @@
       5.882,
       5.955,
       5.941,
-      5.908
+      5.908,
+      5.875
      ],
      "chg_1d": -0.033,
-     "pct_1d": -0.55,
+     "pct_1d": -0.56,
      "chg_mtd": null,
      "pct_mtd": null,
      "chg_ytd": null,
      "pct_ytd": null,
      "hist_from": "2026-09-07",
-     "hist_to": "2026-09-17",
+     "hist_to": "2026-09-18",
      "delta": "bp"
     },
     {
@@ -1574,11 +1576,11 @@
      "detail": "Israel USD 10-year minus US 10-year, in bp",
      "block": "Government yields (USD)",
      "status": "ok",
-     "value": 97.0,
-     "prev": 93.0,
-     "change": 4.0,
-     "pct": 3.97,
-     "asof": "2026-09-17",
+     "value": 94.0,
+     "prev": 97.0,
+     "change": -3.0,
+     "pct": -3.41,
+     "asof": "2026-09-18",
      "history": [
       94.0,
       94.0,
@@ -1588,16 +1590,17 @@
       91.0,
       96.0,
       93.0,
-      97.0
+      97.0,
+      94.0
      ],
-     "chg_1d": 4.0,
-     "pct_1d": 3.97,
+     "chg_1d": -3.0,
+     "pct_1d": -3.41,
      "chg_mtd": null,
      "pct_mtd": null,
      "chg_ytd": null,
      "pct_ytd": null,
      "hist_from": "2026-09-07",
-     "hist_to": "2026-09-17",
+     "hist_to": "2026-09-18",
      "delta": "bpraw"
     }
    ]
@@ -1937,12 +1940,11 @@
      "block": "",
      "status": "ok",
      "value": 2860.4,
-     "prev": 2874.63,
-     "change": -14.23,
-     "pct": -0.5,
-     "asof": "2026-09-18",
+     "prev": 2860.4,
+     "change": -0.0,
+     "pct": -0.0,
+     "asof": "2026-09-21",
      "history": [
-      2930.0,
       2948.04,
       2953.8,
       2906.31,
@@ -1981,16 +1983,17 @@
       2870.29,
       2858.81,
       2874.63,
+      2860.4,
       2860.4
      ],
-     "chg_1d": -14.23,
-     "pct_1d": -0.5,
+     "chg_1d": -0.0,
+     "pct_1d": -0.0,
      "chg_mtd": -96.05,
      "pct_mtd": -3.25,
      "chg_ytd": 378.49,
      "pct_ytd": 15.25,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-21",
      "delta": "pct"
     },
     {
@@ -2272,7 +2275,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2026-09-08",
-       "to": "2026-09-17"
+       "to": "2026-09-18"
       }
      ],
      "coverage": {
@@ -2372,7 +2375,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2009-01-02",
-       "to": "2026-09-17"
+       "to": "2026-09-18"
       }
      ],
      "coverage": {
@@ -2472,7 +2475,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2009-01-02",
-       "to": "2026-09-17"
+       "to": "2026-09-18"
       }
      ],
      "coverage": {
@@ -2567,13 +2570,11 @@
      "block": "",
      "status": "ok",
      "value": 4.27,
-     "prev": 4.27,
-     "change": -0.0,
-     "pct": -0.09,
-     "asof": "2026-09-17",
+     "prev": 4.26,
+     "change": 0.01,
+     "pct": 0.23,
+     "asof": "2026-09-21",
      "history": [
-      4.26,
-      4.27,
       4.27,
       4.28,
       4.27,
@@ -2611,16 +2612,18 @@
       4.28,
       4.27,
       4.27,
+      4.27,
+      4.26,
       4.27
      ],
-     "chg_1d": -0.0,
-     "pct_1d": -0.09,
+     "chg_1d": 0.01,
+     "pct_1d": 0.23,
      "chg_mtd": -0.04,
-     "pct_mtd": -1.02,
+     "pct_mtd": -1.01,
      "chg_ytd": -0.21,
-     "pct_ytd": -4.71,
-     "hist_from": "2026-07-23",
-     "hist_to": "2026-09-17",
+     "pct_ytd": -4.7,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-21",
      "delta": "pct"
     },
     {
@@ -2642,9 +2645,8 @@
      "prev": 429.81,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-19",
+     "asof": "2026-09-21",
      "history": [
-      427.03,
       427.82,
       427.93,
       428.42,
@@ -2683,6 +2685,7 @@
       429.66,
       429.61,
       429.81,
+      429.81,
       429.81
      ],
      "chg_1d": 0.0,
@@ -2691,8 +2694,8 @@
      "pct_mtd": 0.18,
      "chg_ytd": 14.63,
      "pct_ytd": 3.52,
-     "hist_from": "2026-07-30",
-     "hist_to": "2026-09-19",
+     "hist_from": "2026-07-31",
+     "hist_to": "2026-09-21",
      "delta": "pct",
      "sources": [
       {
@@ -2708,7 +2711,7 @@
        "source": "TASE last rate",
        "what": "close",
        "from": "2026-09-05",
-       "to": "2026-09-19"
+       "to": "2026-09-21"
       }
      ],
      "coverage": {
@@ -2716,9 +2719,9 @@
       "official_through": "2026-09-04",
       "provisional_source": "TASE last rate",
       "provisional_from": "2026-09-05",
-      "provisional_days": 13
+      "provisional_days": 14
      },
-     "provisional_points": 13,
+     "provisional_points": 14,
      "footnote": "Tel Bond-60 CPI Linked: closing levels from TASE (market.tase.co.il); TASE last rate for the most recent days only."
     },
     {
@@ -2740,9 +2743,8 @@
      "prev": 464.61,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-19",
+     "asof": "2026-09-21",
      "history": [
-      464.88,
       466.0,
       466.14,
       466.44,
@@ -2781,6 +2783,7 @@
       463.63,
       463.78,
       464.61,
+      464.61,
       464.61
      ],
      "chg_1d": 0.0,
@@ -2789,8 +2792,8 @@
      "pct_mtd": -0.39,
      "chg_ytd": 14.76,
      "pct_ytd": 3.28,
-     "hist_from": "2026-08-04",
-     "hist_to": "2026-09-19",
+     "hist_from": "2026-08-05",
+     "hist_to": "2026-09-21",
      "delta": "pct"
     },
     {
@@ -2812,9 +2815,8 @@
      "prev": 534.19,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-19",
+     "asof": "2026-09-21",
      "history": [
-      534.3,
       535.4,
       535.51,
       535.52,
@@ -2853,6 +2855,7 @@
       532.11,
       532.68,
       534.19,
+      534.19,
       534.19
      ],
      "chg_1d": 0.0,
@@ -2861,8 +2864,8 @@
      "pct_mtd": -0.43,
      "chg_ytd": 15.19,
      "pct_ytd": 2.93,
-     "hist_from": "2026-08-04",
-     "hist_to": "2026-09-19",
+     "hist_from": "2026-08-05",
+     "hist_to": "2026-09-21",
      "delta": "pct"
     }
    ]
@@ -2998,7 +3001,7 @@
        "y": 5.29
       }
      ],
-     "asof": "2026-09-19",
+     "asof": "2026-09-21",
      "status": "ok",
      "note": "FRED constant-maturity Treasuries"
     },
@@ -3045,7 +3048,7 @@
        "y": 4.122
       }
      ],
-     "asof": "2026-09-19",
+     "asof": "2026-09-21",
      "status": "ok",
      "maxtenor": "15Y",
      "note": "BoI nominal zero-coupon (1Y-15Y); 1M/3M = daily Makam T-bill"
@@ -3061,55 +3064,55 @@
      "points": [
       {
        "m": "2028",
-       "yr": 1.333,
-       "y": 5.412,
-       "asof": "2026-09-17",
+       "yr": 1.331,
+       "y": 5.594,
+       "asof": "2026-09-18",
        "isin": "US46513YJH27"
       },
       {
        "m": "2029",
-       "yr": 2.48,
-       "y": 5.41,
-       "asof": "2026-09-18",
+       "yr": 2.472,
+       "y": 5.446,
+       "asof": "2026-09-21",
        "isin": "US46514BRN90"
       },
       {
        "m": "2030",
-       "yr": 3.425,
-       "y": 5.498,
-       "asof": "2026-09-17",
+       "yr": 3.422,
+       "y": 5.584,
+       "asof": "2026-09-18",
        "isin": "US46514Y8A80"
       },
       {
        "m": "2034",
-       "yr": 7.483,
-       "y": 5.802,
-       "asof": "2026-09-17",
+       "yr": 7.48,
+       "y": 5.773,
+       "asof": "2026-09-18",
        "isin": "US46514BRL35"
       },
       {
        "m": "2036",
-       "yr": 9.322,
-       "y": 5.873,
-       "asof": "2026-09-17",
+       "yr": 9.32,
+       "y": 5.84,
+       "asof": "2026-09-18",
        "isin": "US46515CJZ86"
       },
       {
        "m": "2050",
-       "yr": 23.792,
-       "y": 6.63,
-       "asof": "2026-09-17",
+       "yr": 23.789,
+       "y": 6.583,
+       "asof": "2026-09-18",
        "isin": "US46513JB429"
       },
       {
        "m": "2056",
-       "yr": 29.322,
-       "y": 6.609,
-       "asof": "2026-09-17",
+       "yr": 29.32,
+       "y": 6.553,
+       "asof": "2026-09-18",
        "isin": "US46515CKR42"
       }
      ],
-     "asof": "2026-09-18",
+     "asof": "2026-09-21",
      "note": "yield to maturity of the quoted State of Israel USD globals (onvista, finanzen.net fallback) at their years to maturity"
     }
    ]
