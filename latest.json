@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T09:46:20Z",
+ "generated_at": "2026-09-23T01:08:21Z",
  "groups": [
   {
    "name": "Inflation",
@@ -244,11 +244,8 @@
      "prev": 3.88,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-18",
+     "asof": "2026-09-21",
      "history": [
-      3.63,
-      3.63,
-      3.63,
       3.63,
       3.63,
       3.63,
@@ -285,6 +282,9 @@
       3.63,
       3.63,
       3.88,
+      3.88,
+      3.88,
+      3.88,
       3.88
      ],
      "chg_1d": 0.0,
@@ -293,14 +293,14 @@
      "pct_mtd": 6.89,
      "chg_ytd": 0.24,
      "pct_ytd": 6.59,
-     "hist_from": "2026-08-10",
-     "hist_to": "2026-09-18",
+     "hist_from": "2026-08-13",
+     "hist_to": "2026-09-21",
      "delta": "bp",
      "target_lo": 3.75,
      "target_hi": 4.0,
      "target_kind": "target range",
      "next_decision": "2026-10-28",
-     "next_decision_days": 36,
+     "next_decision_days": 35,
      "next_decision_note": null
     },
     {
@@ -322,7 +322,7 @@
      "prev": 4.0,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-21",
+     "asof": "2026-09-22",
      "history": [
       3.75,
       3.75,
@@ -358,7 +358,7 @@
       3.75,
       3.75,
       3.75,
-      3.75,
+      4.0,
       4.0,
       4.0,
       4.0,
@@ -371,8 +371,8 @@
      "pct_mtd": 6.67,
      "chg_ytd": 0.25,
      "pct_ytd": 6.67,
-     "hist_from": "2026-08-13",
-     "hist_to": "2026-09-21",
+     "hist_from": "2026-08-14",
+     "hist_to": "2026-09-22",
      "delta": "bp",
      "range_lo": 3.75,
      "range_hi": 4.0,
@@ -451,7 +451,7 @@
      "delta": "bp",
      "policy": true,
      "next_decision": "2026-10-21",
-     "next_decision_days": 29,
+     "next_decision_days": 28,
      "next_decision_note": null
     }
    ]
@@ -474,13 +474,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 0.3303,
-     "prev": 0.3292,
-     "change": 0.0011,
-     "pct": 0.33,
-     "asof": "2026-09-18",
+     "value": 0.3315,
+     "prev": 0.3303,
+     "change": 0.0012,
+     "pct": 0.36,
+     "asof": "2026-09-22",
      "history": [
-      0.3266,
       0.3289,
       0.327,
       0.327,
@@ -519,16 +518,17 @@
       0.328,
       0.3297,
       0.3292,
-      0.3303
+      0.3303,
+      0.3315
      ],
-     "chg_1d": 0.0011,
-     "pct_1d": 0.33,
-     "chg_mtd": -0.0044,
-     "pct_mtd": -1.32,
-     "chg_ytd": 0.0168,
-     "pct_ytd": 5.35,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "chg_1d": 0.0012,
+     "pct_1d": 0.36,
+     "chg_mtd": -0.0032,
+     "pct_mtd": -0.96,
+     "chg_ytd": 0.018,
+     "pct_ytd": 5.73,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -546,13 +546,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 3.028,
-     "prev": 3.038,
-     "change": -0.01,
-     "pct": -0.33,
-     "asof": "2026-09-18",
+     "value": 3.017,
+     "prev": 3.028,
+     "change": -0.011,
+     "pct": -0.36,
+     "asof": "2026-09-22",
      "history": [
-      3.062,
       3.04,
       3.058,
       3.058,
@@ -591,16 +590,17 @@
       3.049,
       3.033,
       3.038,
-      3.028
+      3.028,
+      3.017
      ],
-     "chg_1d": -0.01,
-     "pct_1d": -0.33,
-     "chg_mtd": 0.04,
-     "pct_mtd": 1.34,
-     "chg_ytd": -0.162,
-     "pct_ytd": -5.08,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "chg_1d": -0.011,
+     "pct_1d": -0.36,
+     "chg_mtd": 0.029,
+     "pct_mtd": 0.97,
+     "chg_ytd": -0.173,
+     "pct_ytd": -5.42,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -618,13 +618,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 3.476,
-     "prev": 3.4853,
-     "change": -0.0093,
-     "pct": -0.27,
-     "asof": "2026-09-18",
+     "value": 3.4583,
+     "prev": 3.476,
+     "change": -0.0177,
+     "pct": -0.51,
+     "asof": "2026-09-22",
      "history": [
-      3.4863,
       3.4606,
       3.4755,
       3.4833,
@@ -663,16 +662,17 @@
       3.5169,
       3.4993,
       3.4853,
-      3.476
+      3.476,
+      3.4583
      ],
-     "chg_1d": -0.0093,
-     "pct_1d": -0.27,
-     "chg_mtd": 0.0102,
-     "pct_mtd": 0.29,
-     "chg_ytd": -0.2695,
-     "pct_ytd": -7.2,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "chg_1d": -0.0177,
+     "pct_1d": -0.51,
+     "chg_mtd": -0.0075,
+     "pct_mtd": -0.22,
+     "chg_ytd": -0.2872,
+     "pct_ytd": -7.67,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -690,13 +690,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 4.048,
-     "prev": 4.0605,
-     "change": -0.0125,
-     "pct": -0.31,
-     "asof": "2026-09-18",
+     "value": 4.0309,
+     "prev": 4.048,
+     "change": -0.0171,
+     "pct": -0.42,
+     "asof": "2026-09-22",
      "history": [
-      4.0789,
       4.046,
       4.0623,
       4.0649,
@@ -735,16 +734,17 @@
       4.1084,
       4.086,
       4.0605,
-      4.048
+      4.048,
+      4.0309
      ],
-     "chg_1d": -0.0125,
-     "pct_1d": -0.31,
-     "chg_mtd": 0.0017,
-     "pct_mtd": 0.04,
-     "chg_ytd": -0.242,
-     "pct_ytd": -5.64,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "chg_1d": -0.0171,
+     "pct_1d": -0.42,
+     "chg_mtd": -0.0154,
+     "pct_mtd": -0.38,
+     "chg_ytd": -0.2591,
+     "pct_ytd": -6.04,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -834,13 +834,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 62.39,
-     "prev": 62.57,
-     "change": -0.18,
-     "pct": -0.29,
-     "asof": "2026-09-18",
+     "value": 62.18,
+     "prev": 62.39,
+     "change": -0.21,
+     "pct": -0.34,
+     "asof": "2026-09-22",
      "history": [
-      62.86,
       62.42,
       62.73,
       62.77,
@@ -879,16 +878,17 @@
       62.97,
       62.64,
       62.57,
-      62.39
+      62.39,
+      62.18
      ],
-     "chg_1d": -0.18,
-     "pct_1d": -0.29,
-     "chg_mtd": 0.59,
-     "pct_mtd": 0.96,
-     "chg_ytd": -3.94,
-     "pct_ytd": -5.94,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "chg_1d": -0.21,
+     "pct_1d": -0.34,
+     "chg_mtd": 0.38,
+     "pct_mtd": 0.62,
+     "chg_ytd": -4.15,
+     "pct_ytd": -6.26,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     }
    ]
@@ -1060,13 +1060,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 4.14,
-     "prev": 4.12,
-     "change": 0.02,
-     "pct": 0.49,
-     "asof": "2026-09-18",
+     "value": 4.17,
+     "prev": 4.14,
+     "change": 0.03,
+     "pct": 0.72,
+     "asof": "2026-09-21",
      "history": [
-      3.96,
       3.96,
       3.9,
       3.83,
@@ -1105,16 +1104,17 @@
       4.11,
       4.14,
       4.12,
-      4.14
+      4.14,
+      4.17
      ],
-     "chg_1d": 0.02,
-     "pct_1d": 0.49,
-     "chg_mtd": 0.23,
-     "pct_mtd": 5.88,
-     "chg_ytd": 0.47,
-     "pct_ytd": 12.81,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "chg_1d": 0.03,
+     "pct_1d": 0.72,
+     "chg_mtd": 0.26,
+     "pct_mtd": 6.65,
+     "chg_ytd": 0.5,
+     "pct_ytd": 13.62,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-21",
      "delta": "bp"
     },
     {
@@ -1133,12 +1133,11 @@
      "block": "",
      "status": "ok",
      "value": 4.76,
-     "prev": 4.67,
-     "change": 0.09,
-     "pct": 1.93,
-     "asof": "2026-09-18",
+     "prev": 4.76,
+     "change": 0.0,
+     "pct": 0.0,
+     "asof": "2026-09-21",
      "history": [
-      4.33,
       4.31,
       4.26,
       4.22,
@@ -1177,16 +1176,17 @@
       4.67,
       4.74,
       4.67,
+      4.76,
       4.76
      ],
-     "chg_1d": 0.09,
-     "pct_1d": 1.93,
+     "chg_1d": 0.0,
+     "pct_1d": 0.0,
      "chg_mtd": 0.42,
      "pct_mtd": 9.68,
      "chg_ytd": 1.29,
      "pct_ytd": 37.18,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-21",
      "delta": "bp"
     },
     {
@@ -1204,13 +1204,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 5.01,
-     "prev": 4.94,
-     "change": 0.07,
-     "pct": 1.42,
-     "asof": "2026-09-18",
+     "value": 4.96,
+     "prev": 5.01,
+     "change": -0.05,
+     "pct": -1.0,
+     "asof": "2026-09-21",
      "history": [
-      4.69,
       4.65,
       4.61,
       4.67,
@@ -1249,16 +1248,17 @@
       5.0,
       5.01,
       4.94,
-      5.01
+      5.01,
+      4.96
      ],
-     "chg_1d": 0.07,
-     "pct_1d": 1.42,
-     "chg_mtd": 0.26,
-     "pct_mtd": 5.47,
-     "chg_ytd": 0.83,
-     "pct_ytd": 19.86,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-18",
+     "chg_1d": -0.05,
+     "pct_1d": -1.0,
+     "chg_mtd": 0.21,
+     "pct_mtd": 4.42,
+     "chg_ytd": 0.78,
+     "pct_ytd": 18.66,
+     "hist_from": "2026-07-27",
+     "hist_to": "2026-09-21",
      "delta": "bp"
     },
     {
@@ -1578,10 +1578,10 @@
      "detail": "Israel USD 10-year minus US 10-year, in bp",
      "block": "Government yields (USD)",
      "status": "ok",
-     "value": 91.0,
+     "value": 96.0,
      "prev": 86.0,
-     "change": 5.0,
-     "pct": 5.55,
+     "change": 10.0,
+     "pct": 11.33,
      "asof": "2026-09-21",
      "history": [
       94.0,
@@ -1594,10 +1594,10 @@
       93.0,
       97.0,
       86.0,
-      91.0
+      96.0
      ],
-     "chg_1d": 5.0,
-     "pct_1d": 5.55,
+     "chg_1d": 10.0,
+     "pct_1d": 11.33,
      "chg_mtd": null,
      "pct_mtd": null,
      "chg_ytd": null,
@@ -1632,7 +1632,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2009-01-02",
-       "to": "2026-09-21"
+       "to": "2026-09-22"
       }
      ],
      "coverage": {
@@ -1726,13 +1726,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 27122.09,
-     "prev": 26522.54,
-     "change": 599.55,
-     "pct": 2.26,
-     "asof": "2026-09-21",
+     "value": 27244.28,
+     "prev": 27122.09,
+     "change": 122.19,
+     "pct": 0.45,
+     "asof": "2026-09-22",
      "history": [
-      24932.08,
       24876.91,
       24442.94,
       25122.18,
@@ -1771,16 +1770,17 @@
       25978.43,
       26418.3,
       26522.54,
-      27122.09
+      27122.09,
+      27244.28
      ],
-     "chg_1d": 599.55,
-     "pct_1d": 2.26,
-     "chg_mtd": 751.2,
-     "pct_mtd": 2.85,
-     "chg_ytd": 3880.1,
-     "pct_ytd": 16.69,
-     "hist_from": "2026-07-27",
-     "hist_to": "2026-09-21",
+     "chg_1d": 122.19,
+     "pct_1d": 0.45,
+     "chg_mtd": 873.39,
+     "pct_mtd": 3.31,
+     "chg_ytd": 4002.29,
+     "pct_ytd": 17.22,
+     "hist_from": "2026-07-28",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -1798,13 +1798,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 30482.35,
-     "prev": 29644.17,
-     "change": 838.18,
-     "pct": 2.83,
-     "asof": "2026-09-21",
+     "value": 30732.4,
+     "prev": 30482.35,
+     "change": 250.05,
+     "pct": 0.82,
+     "asof": "2026-09-22",
      "history": [
-      28039.21,
       27763.13,
       27192.31,
       28106.35,
@@ -1843,16 +1842,17 @@
       28945.06,
       29446.98,
       29644.17,
-      30482.35
+      30482.35,
+      30732.4
      ],
-     "chg_1d": 838.18,
-     "pct_1d": 2.83,
-     "chg_mtd": 1025.38,
-     "pct_mtd": 3.48,
-     "chg_ytd": 5232.5,
-     "pct_ytd": 20.72,
-     "hist_from": "2026-07-27",
-     "hist_to": "2026-09-21",
+     "chg_1d": 250.05,
+     "pct_1d": 0.82,
+     "chg_mtd": 1275.43,
+     "pct_mtd": 4.33,
+     "chg_ytd": 5482.55,
+     "pct_ytd": 21.71,
+     "hist_from": "2026-07-28",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -1870,13 +1870,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 52048.83,
-     "prev": 51682.64,
-     "change": 366.19,
-     "pct": 0.71,
-     "asof": "2026-09-21",
+     "value": 51863.69,
+     "prev": 52048.83,
+     "change": -185.14,
+     "pct": -0.36,
+     "asof": "2026-09-22",
      "history": [
-      52210.08,
       52747.32,
       51594.14,
       52208.06,
@@ -1915,16 +1914,17 @@
       51461.9,
       51778.04,
       51682.64,
-      52048.83
+      52048.83,
+      51863.69
      ],
-     "chg_1d": 366.19,
-     "pct_1d": 0.71,
-     "chg_mtd": -1137.07,
-     "pct_mtd": -2.14,
-     "chg_ytd": 3985.54,
-     "pct_ytd": 8.29,
-     "hist_from": "2026-07-27",
-     "hist_to": "2026-09-21",
+     "chg_1d": -185.14,
+     "pct_1d": -0.36,
+     "chg_mtd": -1322.21,
+     "pct_mtd": -2.49,
+     "chg_ytd": 3800.4,
+     "pct_ytd": 7.91,
+     "hist_from": "2026-07-28",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -1942,13 +1942,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 2875.36,
-     "prev": 2860.4,
-     "change": 14.96,
-     "pct": 0.52,
-     "asof": "2026-09-21",
+     "value": 2889.92,
+     "prev": 2875.36,
+     "change": 14.56,
+     "pct": 0.51,
+     "asof": "2026-09-22",
      "history": [
-      2948.04,
       2953.8,
       2906.31,
       2946.1,
@@ -1987,16 +1986,17 @@
       2858.81,
       2874.63,
       2860.4,
-      2875.36
+      2875.36,
+      2889.92
      ],
-     "chg_1d": 14.96,
-     "pct_1d": 0.52,
-     "chg_mtd": -81.09,
-     "pct_mtd": -2.74,
-     "chg_ytd": 393.45,
-     "pct_ytd": 15.85,
-     "hist_from": "2026-07-27",
-     "hist_to": "2026-09-21",
+     "chg_1d": 14.56,
+     "pct_1d": 0.51,
+     "chg_mtd": -66.53,
+     "pct_mtd": -2.25,
+     "chg_ytd": 408.01,
+     "pct_ytd": 16.44,
+     "hist_from": "2026-07-28",
+     "hist_to": "2026-09-22",
      "delta": "pct"
     },
     {
@@ -2014,12 +2014,13 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 4192.47,
-     "prev": 4164.35,
-     "change": 28.12,
-     "pct": 0.68,
-     "asof": "2026-09-22",
+     "value": 4164.35,
+     "prev": 4125.35,
+     "change": 39.0,
+     "pct": 0.95,
+     "asof": "2026-09-17",
      "history": [
+      4156.91,
       4173.88,
       4095.62,
       4023.47,
@@ -2058,17 +2059,16 @@
       4125.98,
       4082.76,
       4125.35,
-      4164.35,
-      4192.47
+      4164.35
      ],
-     "chg_1d": 28.12,
-     "pct_1d": 0.68,
-     "chg_mtd": 135.87,
-     "pct_mtd": 3.35,
-     "chg_ytd": 528.93,
-     "pct_ytd": 14.44,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-22",
+     "chg_1d": 39.0,
+     "pct_1d": 0.95,
+     "chg_mtd": 107.75,
+     "pct_mtd": 2.66,
+     "chg_ytd": 500.81,
+     "pct_ytd": 13.67,
+     "hist_from": "2026-07-22",
+     "hist_to": "2026-09-17",
      "delta": "pct",
      "sources": [
       {
@@ -2084,7 +2084,7 @@
        "source": "Yahoo",
        "what": "close",
        "from": "2026-09-07",
-       "to": "2026-09-22"
+       "to": "2026-09-17"
       }
      ],
      "coverage": {
@@ -2094,7 +2094,7 @@
       "provisional_from": "2026-09-07",
       "provisional_days": null
      },
-     "provisional_points": 9,
+     "provisional_points": 8,
      "footnote": "TA-125: closing levels from TASE (market.tase.co.il); Yahoo for the most recent days only."
     },
     {
@@ -2112,12 +2112,13 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 4328.33,
-     "prev": 4289.98,
-     "change": 38.35,
-     "pct": 0.89,
-     "asof": "2026-09-22",
+     "value": 4289.98,
+     "prev": 4246.84,
+     "change": 43.14,
+     "pct": 1.02,
+     "asof": "2026-09-17",
      "history": [
+      4227.0,
       4253.08,
       4161.81,
       4086.59,
@@ -2156,17 +2157,16 @@
       4227.56,
       4191.46,
       4246.84,
-      4289.98,
-      4328.33
+      4289.98
      ],
-     "chg_1d": 38.35,
-     "pct_1d": 0.89,
-     "chg_mtd": 189.75,
-     "pct_mtd": 4.58,
-     "chg_ytd": 709.46,
-     "pct_ytd": 19.6,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-22",
+     "chg_1d": 43.14,
+     "pct_1d": 1.02,
+     "chg_mtd": 151.4,
+     "pct_mtd": 3.66,
+     "chg_ytd": 671.11,
+     "pct_ytd": 18.54,
+     "hist_from": "2026-07-22",
+     "hist_to": "2026-09-17",
      "delta": "pct"
     },
     {
@@ -2184,12 +2184,13 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 3789.96,
-     "prev": 3789.66,
-     "change": 0.3,
-     "pct": 0.01,
-     "asof": "2026-09-22",
+     "value": 3789.66,
+     "prev": 3771.52,
+     "change": 18.14,
+     "pct": 0.48,
+     "asof": "2026-09-17",
      "history": [
+      3922.88,
       3918.29,
       3867.84,
       3808.54,
@@ -2228,17 +2229,16 @@
       3827.05,
       3771.59,
       3771.52,
-      3789.66,
-      3789.96
+      3789.66
      ],
-     "chg_1d": 0.3,
-     "pct_1d": 0.01,
-     "chg_mtd": -4.91,
-     "pct_mtd": -0.13,
-     "chg_ytd": -23.87,
+     "chg_1d": 18.14,
+     "pct_1d": 0.48,
+     "chg_mtd": -5.21,
+     "pct_mtd": -0.14,
+     "chg_ytd": -24.17,
      "pct_ytd": -0.63,
-     "hist_from": "2026-07-24",
-     "hist_to": "2026-09-22",
+     "hist_from": "2026-07-22",
+     "hist_to": "2026-09-17",
      "delta": "pct"
     }
    ]
@@ -2575,8 +2575,8 @@
      "value": 4.27,
      "prev": 4.26,
      "change": 0.01,
-     "pct": 0.2,
-     "asof": "2026-09-22",
+     "pct": 0.26,
+     "asof": "2026-09-21",
      "history": [
       4.27,
       4.28,
@@ -2620,13 +2620,13 @@
       4.27
      ],
      "chg_1d": 0.01,
-     "pct_1d": 0.2,
-     "chg_mtd": -0.05,
-     "pct_mtd": -1.04,
+     "pct_1d": 0.26,
+     "chg_mtd": -0.04,
+     "pct_mtd": -0.99,
      "chg_ytd": -0.21,
-     "pct_ytd": -4.73,
+     "pct_ytd": -4.68,
      "hist_from": "2026-07-27",
-     "hist_to": "2026-09-22",
+     "hist_to": "2026-09-21",
      "delta": "pct"
     },
     {
@@ -2638,19 +2638,18 @@
      "dp": 2,
      "cadence": "daily",
      "source": "tase",
-     "note": "TASE end-of-day levels from the exchange's own history file; Data Hub last rate (index 709) for the days after it | live fetch failed: HTTPError; TASE data carried the series",
+     "note": "TASE end-of-day levels from the exchange's own history file; Data Hub last rate (index 709) for the days after it",
      "link": "https://market.tase.co.il/en/market_data/index/709/major_data",
      "link_label": "TASE source",
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 429.81,
+     "value": 430.26,
      "prev": 429.81,
-     "change": 0.0,
-     "pct": 0.0,
-     "asof": "2026-09-22",
+     "change": 0.45,
+     "pct": 0.1,
+     "asof": "2026-09-23",
      "history": [
-      427.93,
       428.42,
       428.96,
       429.21,
@@ -2689,16 +2688,17 @@
       429.81,
       429.81,
       429.81,
-      429.81
+      429.81,
+      430.26
      ],
-     "chg_1d": 0.0,
-     "pct_1d": 0.0,
-     "chg_mtd": 0.76,
-     "pct_mtd": 0.18,
-     "chg_ytd": 14.63,
-     "pct_ytd": 3.52,
-     "hist_from": "2026-08-03",
-     "hist_to": "2026-09-22",
+     "chg_1d": 0.45,
+     "pct_1d": 0.1,
+     "chg_mtd": 1.21,
+     "pct_mtd": 0.28,
+     "chg_ytd": 15.08,
+     "pct_ytd": 3.63,
+     "hist_from": "2026-08-04",
+     "hist_to": "2026-09-23",
      "delta": "pct",
      "sources": [
       {
@@ -2712,9 +2712,9 @@
       },
       {
        "source": "TASE last rate",
-       "what": "last rate",
+       "what": "close",
        "from": "2026-09-05",
-       "to": "2026-09-22"
+       "to": "2026-09-23"
       }
      ],
      "coverage": {
@@ -2722,9 +2722,9 @@
       "official_through": "2026-09-04",
       "provisional_source": "TASE last rate",
       "provisional_from": "2026-09-05",
-      "provisional_days": 15
+      "provisional_days": 16
      },
-     "provisional_points": 15,
+     "provisional_points": 16,
      "footnote": "Tel Bond-60 CPI Linked: closing levels from TASE (market.tase.co.il); TASE last rate for the most recent days only."
     },
     {
@@ -2736,19 +2736,18 @@
      "dp": 2,
      "cadence": "daily",
      "source": "tase",
-     "note": "TASE Data Hub, index 742 (Tel Bond Shekel 100, last rate); history seeded from Investing.com, accumulates per run | live fetch failed: HTTPError",
+     "note": "TASE Data Hub, index 742 (Tel Bond Shekel 100, last rate); history seeded from Investing.com, accumulates per run",
      "link": "",
      "link_label": "",
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 464.61,
+     "value": 464.94,
      "prev": 464.61,
-     "change": 0.0,
-     "pct": 0.0,
-     "asof": "2026-09-22",
+     "change": 0.33,
+     "pct": 0.07,
+     "asof": "2026-09-23",
      "history": [
-      466.14,
       466.44,
       466.58,
       466.8,
@@ -2787,16 +2786,17 @@
       464.61,
       464.61,
       464.61,
-      464.61
+      464.61,
+      464.94
      ],
-     "chg_1d": 0.0,
-     "pct_1d": 0.0,
-     "chg_mtd": -1.82,
-     "pct_mtd": -0.39,
-     "chg_ytd": 14.76,
-     "pct_ytd": 3.28,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-09-22",
+     "chg_1d": 0.33,
+     "pct_1d": 0.07,
+     "chg_mtd": -1.49,
+     "pct_mtd": -0.32,
+     "chg_ytd": 15.09,
+     "pct_ytd": 3.35,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-09-23",
      "delta": "pct"
     },
     {
@@ -2808,19 +2808,18 @@
      "dp": 2,
      "cadence": "daily",
      "source": "tase",
-     "note": "TASE Data Hub, index 700 (Tel Gov-Non-Linked, Fixed Interest \u2014 the government analogue of Tel Bond: all fixed-rate shekel govt bonds); history seeded from Investing.com, accumulates per run | live fetch failed: HTTPError",
+     "note": "TASE Data Hub, index 700 (Tel Gov-Non-Linked, Fixed Interest \u2014 the government analogue of Tel Bond: all fixed-rate shekel govt bonds); history seeded from Investing.com, accumulates per run",
      "link": "",
      "link_label": "",
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 534.19,
+     "value": 534.28,
      "prev": 534.19,
-     "change": 0.0,
-     "pct": 0.0,
-     "asof": "2026-09-22",
+     "change": 0.09,
+     "pct": 0.02,
+     "asof": "2026-09-23",
      "history": [
-      535.51,
       535.52,
       535.56,
       535.88,
@@ -2859,16 +2858,17 @@
       534.19,
       534.19,
       534.19,
-      534.19
+      534.19,
+      534.28
      ],
-     "chg_1d": 0.0,
-     "pct_1d": 0.0,
-     "chg_mtd": -2.3,
-     "pct_mtd": -0.43,
-     "chg_ytd": 15.19,
-     "pct_ytd": 2.93,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-09-22",
+     "chg_1d": 0.09,
+     "pct_1d": 0.02,
+     "chg_mtd": -2.21,
+     "pct_mtd": -0.41,
+     "chg_ytd": 15.28,
+     "pct_ytd": 2.94,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-09-23",
      "delta": "pct"
     }
    ]
@@ -2961,19 +2961,19 @@
      "points": [
       {
        "m": "1M",
-       "y": 3.97
+       "y": 3.96
       },
       {
        "m": "3M",
-       "y": 4.14
+       "y": 4.17
       },
       {
        "m": "6M",
-       "y": 4.24
+       "y": 4.27
       },
       {
        "m": "1Y",
-       "y": 4.44
+       "y": 4.45
       },
       {
        "m": "2Y",
@@ -2981,30 +2981,30 @@
       },
       {
        "m": "3Y",
-       "y": 4.83
+       "y": 4.82
       },
       {
        "m": "5Y",
-       "y": 4.86
+       "y": 4.83
       },
       {
        "m": "7Y",
-       "y": 4.93
+       "y": 4.89
       },
       {
        "m": "10Y",
-       "y": 5.01
+       "y": 4.96
       },
       {
        "m": "20Y",
-       "y": 5.38
+       "y": 5.33
       },
       {
        "m": "30Y",
-       "y": 5.34
+       "y": 5.29
       }
      ],
-     "asof": "2026-09-22",
+     "asof": "2026-09-23",
      "status": "ok",
      "note": "FRED constant-maturity Treasuries"
     },
@@ -3051,7 +3051,7 @@
        "y": 4.122
       }
      ],
-     "asof": "2026-09-22",
+     "asof": "2026-09-23",
      "status": "ok",
      "maxtenor": "15Y",
      "note": "BoI nominal zero-coupon (1Y-15Y); 1M/3M = daily Makam T-bill"
