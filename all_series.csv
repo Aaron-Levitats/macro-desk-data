@@ -17225,7 +17225,6 @@ US_RUSSELL,Russell 2000,2026-09-17,2874.6298828125
 US_RUSSELL,Russell 2000,2026-09-18,2860.39990234375
 US_RUSSELL,Russell 2000,2026-09-21,2875.360107421875
 US_RUSSELL,Russell 2000,2026-09-23,2838.659912109375
-IL_TA125,TA-125,2025-01-30,2500.6
 IL_TA125,TA-125,2025-02-02,2510.4
 IL_TA125,TA-125,2025-02-03,2501.86
 IL_TA125,TA-125,2025-02-04,2537.98
@@ -17625,7 +17624,7 @@ IL_TA125,TA-125,2026-09-15,4082.760009765625
 IL_TA125,TA-125,2026-09-16,4125.35009765625
 IL_TA125,TA-125,2026-09-17,4164.35009765625
 IL_TA125,TA-125,2026-09-23,4158.22998046875
-IL_TA35,TA-35,2024-11-12,2297.860107421875
+IL_TA125,TA-125,2026-09-24,4115.58984375
 IL_TA35,TA-35,2024-11-13,2303.110107421875
 IL_TA35,TA-35,2024-11-14,2267.590087890625
 IL_TA35,TA-35,2024-11-18,2247.580078125
@@ -18025,7 +18024,7 @@ IL_TA35,TA-35,2026-09-15,4191.4599609375
 IL_TA35,TA-35,2026-09-16,4246.83984375
 IL_TA35,TA-35,2026-09-17,4289.97998046875
 IL_TA35,TA-35,2026-09-23,4296.3798828125
-IL_TA90,TA-90,2024-11-12,2362.72998046875
+IL_TA35,TA-35,2026-09-24,4253.47998046875
 IL_TA90,TA-90,2024-11-13,2386.7099609375
 IL_TA90,TA-90,2024-11-14,2391.5
 IL_TA90,TA-90,2024-11-18,2427.050048828125
@@ -18425,7 +18424,7 @@ IL_TA90,TA-90,2026-09-15,3771.590087890625
 IL_TA90,TA-90,2026-09-16,3771.52001953125
 IL_TA90,TA-90,2026-09-17,3789.659912109375
 IL_TA90,TA-90,2026-09-23,3746.6201171875
-GLOBAL_AGG,Global Aggregate (AGGG.L),2025-02-21,4.260499954223633
+IL_TA90,TA-90,2026-09-24,3706.080078125
 GLOBAL_AGG,Global Aggregate (AGGG.L),2025-02-24,4.265500068664551
 GLOBAL_AGG,Global Aggregate (AGGG.L),2025-02-25,4.2779998779296875
 GLOBAL_AGG,Global Aggregate (AGGG.L),2025-02-26,4.2855000495910645
@@ -18825,6 +18824,7 @@ GLOBAL_AGG,Global Aggregate (AGGG.L),2026-09-17,4.269499778747559
 GLOBAL_AGG,Global Aggregate (AGGG.L),2026-09-18,4.260000228881836
 GLOBAL_AGG,Global Aggregate (AGGG.L),2026-09-21,4.270999908447266
 GLOBAL_AGG,Global Aggregate (AGGG.L),2026-09-22,4.264999866485596
+GLOBAL_AGG,Global Aggregate (AGGG.L),2026-09-24,4.235000133514404
 TELBOND60,Tel Bond-60 CPI Linked,2009-01-01,190.22
 TELBOND60,Tel Bond-60 CPI Linked,2009-01-04,190.69
 TELBOND60,Tel Bond-60 CPI Linked,2009-01-05,188.96
@@ -23177,7 +23177,7 @@ TELBOND60,Tel Bond-60 CPI Linked,2026-09-19,429.81
 TELBOND60,Tel Bond-60 CPI Linked,2026-09-21,429.81
 TELBOND60,Tel Bond-60 CPI Linked,2026-09-22,429.81
 TELBOND60,Tel Bond-60 CPI Linked,2026-09-23,430.2
-TELBOND60,Tel Bond-60 CPI Linked,2026-09-24,430.01
+TELBOND60,Tel Bond-60 CPI Linked,2026-09-24,429.33
 TELBOND_SHK,Tel Bond Shekel 100,2023-03-01,368.65
 TELBOND_SHK,Tel Bond Shekel 100,2023-03-02,367.38
 TELBOND_SHK,Tel Bond Shekel 100,2023-03-05,368.21
@@ -24071,7 +24071,7 @@ TELBOND_SHK,Tel Bond Shekel 100,2026-09-19,464.61
 TELBOND_SHK,Tel Bond Shekel 100,2026-09-21,464.61
 TELBOND_SHK,Tel Bond Shekel 100,2026-09-22,464.61
 TELBOND_SHK,Tel Bond Shekel 100,2026-09-23,465.03
-TELBOND_SHK,Tel Bond Shekel 100,2026-09-24,464.93
+TELBOND_SHK,Tel Bond Shekel 100,2026-09-24,463.97
 TELGOV_SHK,Tel Gov Shekel,2000-01-04,149.3
 TELGOV_SHK,Tel Gov Shekel,2000-01-05,149.2
 TELGOV_SHK,Tel Gov Shekel,2000-01-06,149.4
@@ -30620,7 +30620,7 @@ TELGOV_SHK,Tel Gov Shekel,2026-09-19,534.19
 TELGOV_SHK,Tel Gov Shekel,2026-09-21,534.19
 TELGOV_SHK,Tel Gov Shekel,2026-09-22,534.19
 TELGOV_SHK,Tel Gov Shekel,2026-09-23,532.65
-TELGOV_SHK,Tel Gov Shekel,2026-09-24,532.09
+TELGOV_SHK,Tel Gov Shekel,2026-09-24,531.0
 IL_FX_RESERVES,Israel FX reserves ($B),1996-Q1,9.6814
 IL_FX_RESERVES,Israel FX reserves ($B),1996-Q2,8.8524
 IL_FX_RESERVES,Israel FX reserves ($B),1996-Q3,10.2144
@@ -33991,7 +33991,6 @@ US_MOVE,MOVE,2026-09-17,76.22000122070312
 US_MOVE,MOVE,2026-09-18,80.63999938964844
 US_MOVE,MOVE,2026-09-21,81.19999694824219
 US_MOVE,MOVE,2026-09-23,95.44999694824219
-US_VIX,VIX,2025-02-21,18.209999084472656
 US_VIX,VIX,2025-02-24,18.979999542236328
 US_VIX,VIX,2025-02-25,19.43000030517578
 US_VIX,VIX,2025-02-26,19.100000381469727
@@ -34391,7 +34390,7 @@ US_VIX,VIX,2026-09-17,15.4399995803833
 US_VIX,VIX,2026-09-18,14.8100004196167
 US_VIX,VIX,2026-09-21,14.869999885559082
 US_VIX,VIX,2026-09-23,15.180000305175781
-US_MOVE_VIX,MOVE · VIX,2025-02-21,18.209999084472656
+US_VIX,VIX,2026-09-24,15.819999694824219
 US_MOVE_VIX,MOVE · VIX,2025-02-24,18.979999542236328
 US_MOVE_VIX,MOVE · VIX,2025-02-25,19.43000030517578
 US_MOVE_VIX,MOVE · VIX,2025-02-26,19.100000381469727
@@ -34791,6 +34790,606 @@ US_MOVE_VIX,MOVE · VIX,2026-09-17,15.4399995803833
 US_MOVE_VIX,MOVE · VIX,2026-09-18,14.8100004196167
 US_MOVE_VIX,MOVE · VIX,2026-09-21,14.869999885559082
 US_MOVE_VIX,MOVE · VIX,2026-09-23,15.180000305175781
+US_MOVE_VIX,MOVE · VIX,2026-09-24,15.819999694824219
+IL_CORP_SPREAD,Israel corporate spread,2009-12,288.39090909
+IL_CORP_SPREAD,Israel corporate spread,2010-01,249.53809524000002
+IL_CORP_SPREAD,Israel corporate spread,2010-02,190.93157895
+IL_CORP_SPREAD,Israel corporate spread,2010-03,189.10952380999998
+IL_CORP_SPREAD,Israel corporate spread,2010-04,162.3
+IL_CORP_SPREAD,Israel corporate spread,2010-05,188.45000000000002
+IL_CORP_SPREAD,Israel corporate spread,2010-06,171.84545455
+IL_CORP_SPREAD,Israel corporate spread,2010-07,162.5
+IL_CORP_SPREAD,Israel corporate spread,2010-08,133.03913043
+IL_CORP_SPREAD,Israel corporate spread,2010-09,135.175
+IL_CORP_SPREAD,Israel corporate spread,2010-10,135.77619048
+IL_CORP_SPREAD,Israel corporate spread,2010-11,132.57272727
+IL_CORP_SPREAD,Israel corporate spread,2010-12,145.06008636
+IL_CORP_SPREAD,Israel corporate spread,2011-01,132.08745436
+IL_CORP_SPREAD,Israel corporate spread,2011-02,124.9141907
+IL_CORP_SPREAD,Israel corporate spread,2011-03,124.37102595
+IL_CORP_SPREAD,Israel corporate spread,2011-04,117.63674318999999
+IL_CORP_SPREAD,Israel corporate spread,2011-05,129.44814180999998
+IL_CORP_SPREAD,Israel corporate spread,2011-06,144.7813549
+IL_CORP_SPREAD,Israel corporate spread,2011-07,144.70530229
+IL_CORP_SPREAD,Israel corporate spread,2011-08,200.45326005
+IL_CORP_SPREAD,Israel corporate spread,2011-09,222.57221489
+IL_CORP_SPREAD,Israel corporate spread,2011-10,183.48228289
+IL_CORP_SPREAD,Israel corporate spread,2011-11,199.16771495
+IL_CORP_SPREAD,Israel corporate spread,2011-12,218.56252105000002
+IL_CORP_SPREAD,Israel corporate spread,2012-01,191.72076461
+IL_CORP_SPREAD,Israel corporate spread,2012-02,190.63671268
+IL_CORP_SPREAD,Israel corporate spread,2012-03,190.62147199999998
+IL_CORP_SPREAD,Israel corporate spread,2012-04,193.65440747
+IL_CORP_SPREAD,Israel corporate spread,2012-05,244.56139573
+IL_CORP_SPREAD,Israel corporate spread,2012-06,293.10195325
+IL_CORP_SPREAD,Israel corporate spread,2012-07,300.811204
+IL_CORP_SPREAD,Israel corporate spread,2012-08,301.94025573
+IL_CORP_SPREAD,Israel corporate spread,2012-09,307.08001313
+IL_CORP_SPREAD,Israel corporate spread,2012-10,177.58198495
+IL_CORP_SPREAD,Israel corporate spread,2012-11,142.06948571
+IL_CORP_SPREAD,Israel corporate spread,2012-12,125.19003832
+IL_CORP_SPREAD,Israel corporate spread,2013-01,114.35304391000001
+IL_CORP_SPREAD,Israel corporate spread,2013-02,113.72348395
+IL_CORP_SPREAD,Israel corporate spread,2013-03,104.03263756000001
+IL_CORP_SPREAD,Israel corporate spread,2013-04,98.01623456
+IL_CORP_SPREAD,Israel corporate spread,2013-05,105.59657062000001
+IL_CORP_SPREAD,Israel corporate spread,2013-06,109.29242667000001
+IL_CORP_SPREAD,Israel corporate spread,2013-07,97.37030816
+IL_CORP_SPREAD,Israel corporate spread,2013-08,96.3399994
+IL_CORP_SPREAD,Israel corporate spread,2013-09,99.59747951
+IL_CORP_SPREAD,Israel corporate spread,2013-10,95.39488786
+IL_CORP_SPREAD,Israel corporate spread,2013-11,98.23013654
+IL_CORP_SPREAD,Israel corporate spread,2013-12,103.52235616
+IL_CORP_SPREAD,Israel corporate spread,2014-01,100.38388599000001
+IL_CORP_SPREAD,Israel corporate spread,2014-02,93.74794734000001
+IL_CORP_SPREAD,Israel corporate spread,2014-03,81.22592278
+IL_CORP_SPREAD,Israel corporate spread,2014-04,98.28833805000001
+IL_CORP_SPREAD,Israel corporate spread,2014-05,91.46743112
+IL_CORP_SPREAD,Israel corporate spread,2014-06,100.92869732
+IL_CORP_SPREAD,Israel corporate spread,2014-07,117.31179069999999
+IL_CORP_SPREAD,Israel corporate spread,2014-08,108.00687585
+IL_CORP_SPREAD,Israel corporate spread,2014-09,112.91622615000001
+IL_CORP_SPREAD,Israel corporate spread,2014-10,130.34877522
+IL_CORP_SPREAD,Israel corporate spread,2014-11,124.83334885999999
+IL_CORP_SPREAD,Israel corporate spread,2014-12,153.31845783
+IL_CORP_SPREAD,Israel corporate spread,2015-01,153.1926871
+IL_CORP_SPREAD,Israel corporate spread,2015-02,146.3250452
+IL_CORP_SPREAD,Israel corporate spread,2015-03,139.51800671
+IL_CORP_SPREAD,Israel corporate spread,2015-04,149.33525084
+IL_CORP_SPREAD,Israel corporate spread,2015-05,155.4871904
+IL_CORP_SPREAD,Israel corporate spread,2015-06,177.77231945
+IL_CORP_SPREAD,Israel corporate spread,2015-07,170.70992447999998
+IL_CORP_SPREAD,Israel corporate spread,2015-08,166.75801236
+IL_CORP_SPREAD,Israel corporate spread,2015-09,177.85705873
+IL_CORP_SPREAD,Israel corporate spread,2015-10,179.13542495000002
+IL_CORP_SPREAD,Israel corporate spread,2015-11,167.29799514
+IL_CORP_SPREAD,Israel corporate spread,2015-12,166.404453
+IL_CORP_SPREAD,Israel corporate spread,2016-01,163.312031
+IL_CORP_SPREAD,Israel corporate spread,2016-02,177.03170395
+IL_CORP_SPREAD,Israel corporate spread,2016-03,182.26449036
+IL_CORP_SPREAD,Israel corporate spread,2016-04,186.66513958
+IL_CORP_SPREAD,Israel corporate spread,2016-05,192.33017186
+IL_CORP_SPREAD,Israel corporate spread,2016-06,201.93719971
+IL_CORP_SPREAD,Israel corporate spread,2016-07,189.4293389
+IL_CORP_SPREAD,Israel corporate spread,2016-08,188.09981727000002
+IL_CORP_SPREAD,Israel corporate spread,2016-09,199.804981
+IL_CORP_SPREAD,Israel corporate spread,2016-10,200.62275092
+IL_CORP_SPREAD,Israel corporate spread,2016-11,207.81929691
+IL_CORP_SPREAD,Israel corporate spread,2016-12,200.91286638
+IL_CORP_SPREAD,Israel corporate spread,2017-01,187.46301039
+IL_CORP_SPREAD,Israel corporate spread,2017-02,176.5926219
+IL_CORP_SPREAD,Israel corporate spread,2017-03,170.07329014
+IL_CORP_SPREAD,Israel corporate spread,2017-04,167.47506988
+IL_CORP_SPREAD,Israel corporate spread,2017-05,164.90681737
+IL_CORP_SPREAD,Israel corporate spread,2017-06,177.713943
+IL_CORP_SPREAD,Israel corporate spread,2017-07,181.65327772999999
+IL_CORP_SPREAD,Israel corporate spread,2017-08,179.73416236
+IL_CORP_SPREAD,Israel corporate spread,2017-09,171.361462
+IL_CORP_SPREAD,Israel corporate spread,2017-10,159.27186767999999
+IL_CORP_SPREAD,Israel corporate spread,2017-11,164.93759355
+IL_CORP_SPREAD,Israel corporate spread,2017-12,164.95272733
+IL_CORP_SPREAD,Israel corporate spread,2018-01,144.21704548
+IL_CORP_SPREAD,Israel corporate spread,2018-02,170.01219275
+IL_CORP_SPREAD,Israel corporate spread,2018-03,187.85405255
+IL_CORP_SPREAD,Israel corporate spread,2018-04,189.48739005
+IL_CORP_SPREAD,Israel corporate spread,2018-05,212.30071864
+IL_CORP_SPREAD,Israel corporate spread,2018-06,215.23680829999998
+IL_CORP_SPREAD,Israel corporate spread,2018-07,235.44863195
+IL_CORP_SPREAD,Israel corporate spread,2018-08,231.49464527
+IL_CORP_SPREAD,Israel corporate spread,2018-09,215.46176131
+IL_CORP_SPREAD,Israel corporate spread,2018-10,223.05957524000002
+IL_CORP_SPREAD,Israel corporate spread,2018-11,230.02173043
+IL_CORP_SPREAD,Israel corporate spread,2018-12,295.94016436000004
+IL_CORP_SPREAD,Israel corporate spread,2019-01,310.79740621999997
+IL_CORP_SPREAD,Israel corporate spread,2019-02,305.62843384999996
+IL_CORP_SPREAD,Israel corporate spread,2019-03,274.1748598
+IL_CORP_SPREAD,Israel corporate spread,2019-04,253.20811390000003
+IL_CORP_SPREAD,Israel corporate spread,2019-05,246.85006685
+IL_CORP_SPREAD,Israel corporate spread,2019-06,223.8209015
+IL_CORP_SPREAD,Israel corporate spread,2019-07,211.04911513000002
+IL_CORP_SPREAD,Israel corporate spread,2019-08,233.75037955
+IL_CORP_SPREAD,Israel corporate spread,2019-09,224.08212784
+IL_CORP_SPREAD,Israel corporate spread,2019-10,217.77363838000002
+IL_CORP_SPREAD,Israel corporate spread,2019-11,206.25533635000002
+IL_CORP_SPREAD,Israel corporate spread,2019-12,206.30888965
+IL_CORP_SPREAD,Israel corporate spread,2020-01,181.61642959
+IL_CORP_SPREAD,Israel corporate spread,2020-02,188.77013309999998
+IL_CORP_SPREAD,Israel corporate spread,2020-03,520.77980981
+IL_CORP_SPREAD,Israel corporate spread,2020-04,470.42557981000004
+IL_CORP_SPREAD,Israel corporate spread,2020-05,372.6068567
+IL_CORP_SPREAD,Israel corporate spread,2020-06,359.6274909
+IL_CORP_SPREAD,Israel corporate spread,2020-07,327.72609514000004
+IL_CORP_SPREAD,Israel corporate spread,2020-08,270.37484900000004
+IL_CORP_SPREAD,Israel corporate spread,2020-09,280.25421268
+IL_CORP_SPREAD,Israel corporate spread,2020-10,262.91763057000003
+IL_CORP_SPREAD,Israel corporate spread,2020-11,223.29959595000003
+IL_CORP_SPREAD,Israel corporate spread,2020-12,198.15649839
+IL_CORP_SPREAD,Israel corporate spread,2021-01,187.07112729
+IL_CORP_SPREAD,Israel corporate spread,2021-02,184.93802005
+IL_CORP_SPREAD,Israel corporate spread,2021-03,197.21738205
+IL_CORP_SPREAD,Israel corporate spread,2021-04,173.61764247
+IL_CORP_SPREAD,Israel corporate spread,2021-05,157.71654619999998
+IL_CORP_SPREAD,Israel corporate spread,2021-06,143.70579909
+IL_CORP_SPREAD,Israel corporate spread,2021-07,145.69127225
+IL_CORP_SPREAD,Israel corporate spread,2021-08,146.14675117
+IL_CORP_SPREAD,Israel corporate spread,2021-09,145.07606338000002
+IL_CORP_SPREAD,Israel corporate spread,2021-10,137.01239814
+IL_CORP_SPREAD,Israel corporate spread,2021-11,136.86749836
+IL_CORP_SPREAD,Israel corporate spread,2021-12,140.98154036
+IL_CORP_SPREAD,Israel corporate spread,2022-01,134.11682441
+IL_CORP_SPREAD,Israel corporate spread,2022-02,142.4319563
+IL_CORP_SPREAD,Israel corporate spread,2022-03,152.53744258999998
+IL_CORP_SPREAD,Israel corporate spread,2022-04,143.57433953
+IL_CORP_SPREAD,Israel corporate spread,2022-05,178.840768
+IL_CORP_SPREAD,Israel corporate spread,2022-06,161.52773805
+IL_CORP_SPREAD,Israel corporate spread,2022-07,149.01261861999998
+IL_CORP_SPREAD,Israel corporate spread,2022-08,141.62037991
+IL_CORP_SPREAD,Israel corporate spread,2022-09,151.98862439
+IL_CORP_SPREAD,Israel corporate spread,2022-10,167.14669881
+IL_CORP_SPREAD,Israel corporate spread,2022-11,155.78531305
+IL_CORP_SPREAD,Israel corporate spread,2022-12,157.60058848
+IL_CORP_SPREAD,Israel corporate spread,2023-01,144.13419629999999
+IL_CORP_SPREAD,Israel corporate spread,2023-02,166.99944286
+IL_CORP_SPREAD,Israel corporate spread,2023-03,204.42365181
+IL_CORP_SPREAD,Israel corporate spread,2023-04,197.79022336
+IL_CORP_SPREAD,Israel corporate spread,2023-05,180.3857582
+IL_CORP_SPREAD,Israel corporate spread,2023-06,184.20885019
+IL_CORP_SPREAD,Israel corporate spread,2023-07,176.37649383000002
+IL_CORP_SPREAD,Israel corporate spread,2023-08,170.45928103
+IL_CORP_SPREAD,Israel corporate spread,2023-09,176.21637923
+IL_CORP_SPREAD,Israel corporate spread,2023-10,227.75778599
+IL_CORP_SPREAD,Israel corporate spread,2023-11,198.6621692
+IL_CORP_SPREAD,Israel corporate spread,2023-12,174.81542664
+IL_CORP_SPREAD,Israel corporate spread,2024-01,161.9032963
+IL_CORP_SPREAD,Israel corporate spread,2024-02,156.40693574
+IL_CORP_SPREAD,Israel corporate spread,2024-03,138.22850926
+IL_CORP_SPREAD,Israel corporate spread,2024-04,138.91074626
+IL_CORP_SPREAD,Israel corporate spread,2024-05,132.22898175
+IL_CORP_SPREAD,Israel corporate spread,2024-06,146.34396784
+IL_CORP_SPREAD,Israel corporate spread,2024-07,142.47379886
+IL_CORP_SPREAD,Israel corporate spread,2024-08,149.36403694
+IL_CORP_SPREAD,Israel corporate spread,2024-09,152.03283416
+IL_CORP_SPREAD,Israel corporate spread,2024-10,138.87676148
+IL_CORP_SPREAD,Israel corporate spread,2024-11,119.03514265
+IL_CORP_SPREAD,Israel corporate spread,2024-12,113.74448298
+IL_CORP_SPREAD,Israel corporate spread,2025-01,103.66586394999999
+IL_CORP_SPREAD,Israel corporate spread,2025-02,106.2455396
+IL_CORP_SPREAD,Israel corporate spread,2025-03,125.45006022
+IL_CORP_SPREAD,Israel corporate spread,2025-04,146.80440556000002
+IL_CORP_SPREAD,Israel corporate spread,2025-05,114.68393786
+IL_CORP_SPREAD,Israel corporate spread,2025-06,111.45350808
+IL_CORP_SPREAD,Israel corporate spread,2025-07,103.96635301999999
+IL_CORP_SPREAD,Israel corporate spread,2025-08,99.41471837
+IL_CORP_SPREAD,Israel corporate spread,2025-09,111.89872145
+IL_CORP_SPREAD,Israel corporate spread,2025-10,98.50908579
+IL_CORP_SPREAD,Israel corporate spread,2025-11,109.20338319
+IL_CORP_SPREAD,Israel corporate spread,2025-12,106.51004766000001
+IL_CORP_SPREAD,Israel corporate spread,2026-01,95.09309805000001
+IL_CORP_SPREAD,Israel corporate spread,2026-02,117.10930073000002
+IL_CORP_SPREAD,Israel corporate spread,2026-03,120.26069819
+IL_CORP_SPREAD,Israel corporate spread,2026-04,112.25359613
+IL_CORP_SPREAD,Israel corporate spread,2026-05,114.60476361
+IL_CORP_SPREAD,Israel corporate spread,2026-06,130.09377564
+IL_CORP_SPREAD,Israel corporate spread,2026-07,110.89390015000001
+IL_CORP_SPREAD,Israel corporate spread,2026-08,120.42671066999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-02,90.93591382
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-03,86.40571184
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-04,110.38896842000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-05,108.73324661
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-06,106.16421593000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-07,110.88027838000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-08,103.35119028
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-09,109.90772568
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-10,107.75774360000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-11,102.77109817
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2010-12,110.87296212999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-01,108.24403038999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-02,103.93377713000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-03,100.19852869999998
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-04,98.49396501
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-05,105.31518159
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-06,104.77410754
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-07,101.88106743
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-08,114.71802129999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-09,121.06171875
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-10,108.60574207
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-11,118.72328965000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2011-12,117.22542415999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-01,109.05071885
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-02,109.35063358999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-03,102.08646696000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-04,98.22616323999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-05,103.01951661
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-06,104.12944049999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-07,102.95490992
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-08,94.65248550000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-09,93.29985005
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-10,83.68600067
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-11,76.62599064
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2012-12,72.38977039
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-01,67.14690372999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-02,79.8091826
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-03,75.10201089
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-04,66.29563212000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-05,70.87111032
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-06,72.96470579
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-07,65.66099065
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-08,65.4253502
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-09,70.06677716
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-10,64.61600239
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-11,63.76383457
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2013-12,68.84656755
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-01,60.223484490000004
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-02,56.12214872
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-03,47.63755937
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-04,59.05249397
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-05,52.80479856
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-06,58.72017794
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-07,66.44257094
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-08,53.79368974
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-09,63.344185669999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-10,62.124656599999994
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-11,50.054430419999996
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2014-12,57.88459071
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-01,46.71492094
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-02,43.795375320000005
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-03,45.94188613
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-04,54.686121750000005
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-05,55.36567019
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-06,73.14614712000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-07,72.62048355
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-08,68.97400707999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-09,72.79579699
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-10,74.07651749
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-11,65.36801129
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2015-12,64.23964429
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-01,62.307757370000004
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-02,66.59692378
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-03,72.94994013
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-04,75.17775651000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-05,72.88668653
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-06,69.15594973
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-07,65.74359616
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-08,67.00950873
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-09,73.75833247
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-10,71.3880686
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-11,73.84731115
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2016-12,69.54625850000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-01,65.95533825999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-02,62.14800224
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-03,62.93131689
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-04,75.91936766
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-05,73.08917657
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-06,68.8893552
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-07,65.90046846
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-08,61.55166636
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-09,56.43348716
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-10,54.328298669999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-11,56.557813970000005
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2017-12,58.2504028
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-01,53.929075309999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-02,65.95216159
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-03,62.529849719999994
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-04,59.95052117
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-05,65.84224549
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-06,61.49380118
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-07,65.22606221000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-08,59.801775840000005
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-09,57.71715166
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-10,58.28347796
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-11,53.32644206
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2018-12,66.11555741000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-01,62.77431081
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-02,57.656215720000006
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-03,54.53117462
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-04,51.674083429999996
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-05,51.70897042
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-06,45.207666159999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-07,40.18863854
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-08,40.08547322
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-09,40.25335553
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-10,42.04692052
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-11,42.47638265
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2019-12,50.923868000000006
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-01,46.7115004
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-02,48.79437949
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-03,106.84017107
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-04,81.49698034000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-05,63.65139047
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-06,62.96413026
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-07,50.68629395999999
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-08,44.89840773
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-09,51.42369594
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-10,49.08335907
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-11,47.61902095
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2020-12,47.28799567
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-01,42.61407892
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-02,40.73052309
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-03,43.6817603
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-04,38.41712082
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-05,39.86525243
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-06,34.24150986
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-07,35.30092074
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-08,34.5405359
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-09,34.2862569
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-10,29.20112366
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-11,31.470407090000002
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2021-12,50.31535602
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-01,48.17097394
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-02,54.629869740000004
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-03,75.20747403
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-04,71.23390991000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-05,76.55922021
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-06,67.92436321000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-07,58.79162941
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-08,57.3584729
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-09,62.230258979999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-10,60.83445317
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-11,52.622807
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2022-12,49.72457053
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-01,38.05866686
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-02,53.495984809999996
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-03,64.66742905000001
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-04,52.362749050000005
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-05,45.9869243
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-06,48.869820759999996
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-07,46.33141816
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-08,47.74187627
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-09,50.1961312
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-10,65.30253365
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-11,50.9030303
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2023-12,43.456586359999996
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-01,46.67841036
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-02,48.21739056
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-03,38.8525507
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-04,37.50216844
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-05,42.64865157
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-06,42.67931106
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-07,39.340098229999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-08,41.10913495
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-09,46.371326159999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-10,40.208983069999995
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-11,33.99980568
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2024-12,38.91894144
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-01,33.388699700000004
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-02,34.86236828
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-03,41.7707096
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-04,48.49231505
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-05,44.338341390000004
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-06,43.18429141
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-07,42.5238116
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-08,48.935482609999994
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-09,55.85130126
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-10,48.45692349
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-11,43.63130239
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2025-12,42.42135218
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-01,43.03603683
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-02,48.35077014
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-03,45.60507567
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-04,46.74069601
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-05,45.784956030000004
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-06,52.62098261
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-07,47.4660236
+IL_CORP_SPREAD_FIN,Israel corporate spread — banks (bp),2026-08,52.410298479999994
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-02,423.51809913
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-03,383.81045244
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-04,480.09476049
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-05,608.62171772
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-06,535.8491071999999
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-07,544.63261901
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-08,480.53580972000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-09,455.8923494
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-10,410.18365941999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-11,410.39225645000005
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2010-12,516.35631627
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-01,397.52635448
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-02,389.21638656
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-03,474.19693346
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-04,456.57503453
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-05,519.42606738
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-06,574.67052873
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-07,954.60753358
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-08,891.583529
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-09,663.08509293
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-10,615.36100242
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-11,755.60829048
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2011-12,917.1657611800001
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-01,770.74747591
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-02,586.75916187
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-03,339.05728964
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-04,267.99773921
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-05,327.68656288
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-06,357.64474609
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-07,336.14416796
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-08,346.94594027
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-09,392.61943962000004
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-10,305.10740135000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-11,261.10283215
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2012-12,228.89964385
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-01,216.49634396000002
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-02,232.76410231
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-03,243.32822713
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-04,232.97061444999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-05,238.83763007000002
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-06,227.61760707000002
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-07,222.26795283
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-08,258.73818315
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-09,257.53057194
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-10,238.36514003999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-11,249.7256248
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2013-12,246.6675989
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-01,242.25660986
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-02,241.40462912
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-03,231.35964899
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-04,221.97157331000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-05,218.2011299
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-06,243.55536729999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-07,278.5421465
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-08,280.86404088
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-09,281.16471144999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-10,306.79749446
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-11,307.74387274000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2014-12,424.30571886999996
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-01,466.825611
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-02,459.82578452
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-03,427.16804370999995
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-04,424.13400723999996
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-05,431.40016742
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-06,427.37720171999996
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-07,417.21165986
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-08,415.76154288
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-09,440.24841684
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-10,440.63377380000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-11,400.42085376
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2015-12,399.6193088
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-01,391.68374245
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-02,417.52510041999994
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-03,409.24634456
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-04,398.47095087
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-05,383.2587274
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-06,401.04829758999995
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-07,377.32923999999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-08,357.82200337
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-09,369.10436523
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-10,376.21887571
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-11,382.36378129999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2016-12,354.74264834
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-01,329.77772169
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-02,309.24855002
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-03,292.73795065
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-04,288.28168136
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-05,276.27264686
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-06,289.81025769
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-07,305.98188626999996
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-08,313.86397022
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-09,313.85016143
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-10,291.58731251
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-11,287.35292192
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2017-12,283.04351106999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-01,245.11391318000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-02,277.51781244
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-03,316.37987954
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-04,322.31483281000004
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-05,345.40639947
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-06,334.88324445
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-07,365.27371753
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-08,371.78242938
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-09,350.09542638
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-10,362.12237262
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-11,389.0719867
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2018-12,528.2834183800001
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-01,559.80235375
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-02,546.99852963
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-03,476.64913398
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-04,439.15630701000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-05,449.12144424999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-06,447.68223894
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-07,415.50145345000004
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-08,431.17022106
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-09,400.74977670000004
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-10,394.89540406
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-11,379.83049297
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2019-12,382.81789209
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-01,343.71740295
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-02,345.07854668000004
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-03,812.5231981900001
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-04,714.86296812
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-05,617.72263294
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-06,674.85420309
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-07,623.47453921
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-08,520.95143988
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-09,533.1227676
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-10,491.07096082000004
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-11,435.53121366000005
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2020-12,451.35230143999996
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-01,365.26527647
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-02,355.88803905000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-03,386.73594604
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-04,344.26045933
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-05,312.01035786
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-06,288.43216372
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-07,287.63877717
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-08,294.9506898
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-09,295.01007942
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-10,278.31552978
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-11,272.88734988
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2021-12,266.78500246
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-01,251.08288057000001
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-02,255.52712853
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-03,265.64408937
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-04,251.10661723
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-05,300.93841879999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-06,293.23177567
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-07,273.98878728
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-08,262.71043032
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-09,270.04956507
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-10,313.44494100000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-11,311.11311518
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2022-12,313.26863188
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-01,290.53365929
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-02,316.71868544
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-03,397.3864127
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-04,421.00898788
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-05,377.85318852
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-06,365.30951468
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-07,340.60137791
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-08,356.49462069000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-09,363.01716972
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-10,446.78924316
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-11,435.54319881000004
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2023-12,388.1927149
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-01,333.36418931
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-02,311.85304557
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-03,279.86129984999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-04,277.04342104
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-05,261.18519134999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-06,281.35908617999996
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-07,261.68088877
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-08,257.29826712
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-09,254.11197993000002
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-10,218.41975023999998
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-11,186.36120887
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2024-12,181.2098242
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-01,160.27648448
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-02,163.98561598
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-03,205.44395334
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-04,243.06925349
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-05,216.96063460000002
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-06,221.42130028999998
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-07,243.52660149999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-08,216.59711354
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-09,240.66608241999998
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-10,232.63629774
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-11,249.63586524000002
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2025-12,257.29897332
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-01,249.14026811999997
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-02,297.11608791000003
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-03,328.65219737
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-04,326.76688516
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-05,318.00482546
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-06,336.58828417
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-07,275.91184608
+IL_CORP_SPREAD_RE,Israel corporate spread — real estate (bp),2026-08,288.7805532
 US_DXY,US Dollar Index (DXY),2025-02-21,106.61000061035156
 US_DXY,US Dollar Index (DXY),2025-02-24,106.5999984741211
 US_DXY,US Dollar Index (DXY),2025-02-25,106.30999755859375
@@ -35190,7 +35789,7 @@ US_DXY,US Dollar Index (DXY),2026-09-17,100.22000122070312
 US_DXY,US Dollar Index (DXY),2026-09-18,100.22000122070312
 US_DXY,US Dollar Index (DXY),2026-09-21,100.43000030517578
 US_DXY,US Dollar Index (DXY),2026-09-23,101.0999984741211
-US_DXY,US Dollar Index (DXY),2026-09-24,101.10299682617188
+US_DXY,US Dollar Index (DXY),2026-09-24,101.03399658203125
 US_WTI,WTI crude ($/bbl),2025-02-24,70.69999694824219
 US_WTI,WTI crude ($/bbl),2025-02-25,68.93000030517578
 US_WTI,WTI crude ($/bbl),2025-02-26,68.62000274658203
@@ -35590,7 +36189,7 @@ US_WTI,WTI crude ($/bbl),2026-09-18,100.30000305175781
 US_WTI,WTI crude ($/bbl),2026-09-21,95.77999877929688
 US_WTI,WTI crude ($/bbl),2026-09-22,94.58999633789062
 US_WTI,WTI crude ($/bbl),2026-09-23,92.16000366210938
-US_WTI,WTI crude ($/bbl),2026-09-24,92.68000030517578
+US_WTI,WTI crude ($/bbl),2026-09-24,92.26000213623047
 US_TERM_SPREAD,Term spread (10Y − 2Y),2025-02-18,26.0
 US_TERM_SPREAD,Term spread (10Y − 2Y),2025-02-19,25.0
 US_TERM_SPREAD,Term spread (10Y − 2Y),2025-02-20,22.0
