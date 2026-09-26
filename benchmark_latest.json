@@ -39,7 +39,6 @@
    "pct": -0.51,
    "asof": "2026-09-24",
    "history": [
-    71.87,
     71.91,
     71.73,
     71.9,
@@ -77,10 +76,11 @@
     71.47,
     71.2,
     71.4,
+    71.41,
     70.81,
     70.45
    ],
-   "hist_from": "2026-07-29",
+   "hist_from": "2026-07-30",
    "hist_to": "2026-09-24",
    "chg_1d": -0.36,
    "pct_1d": -0.51,
@@ -139,7 +139,6 @@
    "pct": -0.48,
    "asof": "2026-09-24",
    "history": [
-    96.87,
     96.94,
     96.7,
     96.92,
@@ -177,10 +176,11 @@
     96.33,
     95.96,
     96.21,
+    96.25,
     95.41,
     94.95
    ],
-   "hist_from": "2026-07-29",
+   "hist_from": "2026-07-30",
    "hist_to": "2026-09-24",
    "chg_1d": -0.46,
    "pct_1d": -0.48,
@@ -241,16 +241,15 @@
     "official_through": "2026-09-04",
     "provisional_source": "Yahoo",
     "provisional_from": "2026-09-08",
-    "provisional_days": 12
+    "provisional_days": 13
    },
-   "provisional_points": 12,
-   "value": 10.43,
+   "provisional_points": 13,
+   "value": 10.35,
    "prev": 10.43,
-   "change": 0.0,
-   "pct": 0.0,
+   "change": -0.08,
+   "pct": -0.77,
    "asof": "2026-09-24",
    "history": [
-    10.61,
     10.62,
     10.64,
     10.68,
@@ -288,17 +287,18 @@
     10.56,
     10.51,
     10.54,
+    10.54,
     10.43,
-    10.43
+    10.35
    ],
-   "hist_from": "2026-07-29",
+   "hist_from": "2026-07-30",
    "hist_to": "2026-09-24",
-   "chg_1d": 0.0,
-   "pct_1d": 0.0,
-   "chg_mtd": -0.26,
-   "pct_mtd": -2.43,
-   "chg_ytd": -0.17,
-   "pct_ytd": -1.61,
+   "chg_1d": -0.08,
+   "pct_1d": -0.77,
+   "chg_mtd": -0.34,
+   "pct_mtd": -3.18,
+   "chg_ytd": -0.25,
+   "pct_ytd": -2.37,
    "delta": "pct",
    "name": "PIMCO Income Fund (Institutional) \u2014 total return, distributions reinvested",
    "ticker": "PIMIX",
@@ -333,7 +333,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-09-24"
+     "to": "2026-09-25"
     }
    ],
    "coverage": {
@@ -350,7 +350,6 @@
    "pct": -0.02,
    "asof": "2026-09-24",
    "history": [
-    16373.81,
     16645.79,
     16763.42,
     17012.38,
@@ -388,10 +387,11 @@
     17125.69,
     17154.36,
     17411.86,
+    17411.8,
     17280.51,
     17276.46
    ],
-   "hist_from": "2026-07-29",
+   "hist_from": "2026-07-30",
    "hist_to": "2026-09-24",
    "chg_1d": -4.05,
    "pct_1d": -0.02,
