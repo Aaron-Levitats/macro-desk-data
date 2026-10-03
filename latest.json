@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T10:59:25Z",
+ "generated_at": "2026-10-03T01:37:55Z",
  "key_figures": [
   {
    "id": "IL_CORP_SPREAD",
@@ -49,7 +49,7 @@
      "prev": 3.88,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-30",
+     "asof": "2026-10-01",
      "history": [
       3.63,
       3.63,
@@ -76,7 +76,7 @@
       3.63,
       3.63,
       3.63,
-      3.63,
+      3.88,
       3.88,
       3.88,
       3.88,
@@ -94,18 +94,18 @@
      ],
      "chg_1d": 0.0,
      "pct_1d": 0.0,
-     "chg_mtd": 0.25,
-     "pct_mtd": 6.89,
+     "chg_mtd": 0.0,
+     "pct_mtd": 0.0,
      "chg_ytd": 0.24,
      "pct_ytd": 6.59,
-     "hist_from": "2026-08-22",
-     "hist_to": "2026-09-30",
+     "hist_from": "2026-08-23",
+     "hist_to": "2026-10-01",
      "delta": "bp",
      "target_lo": 3.75,
      "target_hi": 4.0,
      "target_kind": "target range",
      "next_decision": "2026-10-28",
-     "next_decision_days": 26,
+     "next_decision_days": 25,
      "next_decision_note": null
     },
     {
@@ -123,13 +123,12 @@
      "detail": "proxy: 1-year bill minus policy rate",
      "block": "",
      "status": "ok",
-     "value": 0.66,
-     "prev": 0.7,
-     "change": -0.04,
-     "pct": -5.71,
-     "asof": "2026-09-30",
+     "value": 0.56,
+     "prev": 0.66,
+     "change": -0.1,
+     "pct": -15.15,
+     "asof": "2026-10-01",
      "history": [
-      0.4,
       0.43,
       0.38,
       0.41,
@@ -168,16 +167,17 @@
       0.62,
       0.71,
       0.7,
-      0.66
+      0.66,
+      0.56
      ],
-     "chg_1d": -0.04,
-     "pct_1d": -5.71,
-     "chg_mtd": 0.13,
-     "pct_mtd": 24.53,
-     "chg_ytd": 0.82,
-     "pct_ytd": -512.5,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": -0.1,
+     "pct_1d": -15.15,
+     "chg_mtd": -0.1,
+     "pct_mtd": -15.15,
+     "chg_ytd": 0.72,
+     "pct_ytd": -450.0,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "pp",
      "subrow": true
     },
@@ -200,7 +200,7 @@
      "prev": 0.48,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-09-30",
+     "asof": "2026-10-01",
      "history": [
       0.23,
       0.23,
@@ -227,7 +227,7 @@
       0.23,
       0.23,
       0.23,
-      0.23,
+      0.48,
       0.48,
       0.48,
       0.48,
@@ -245,12 +245,12 @@
      ],
      "chg_1d": 0.0,
      "pct_1d": 0.0,
-     "chg_mtd": 0.25,
-     "pct_mtd": 107.07,
+     "chg_mtd": 0.0,
+     "pct_mtd": 0.0,
      "chg_ytd": -0.48,
      "pct_ytd": -49.79,
-     "hist_from": "2026-08-22",
-     "hist_to": "2026-09-30",
+     "hist_from": "2026-08-23",
+     "hist_to": "2026-10-01",
      "delta": "pp",
      "subrow": true
     },
@@ -269,13 +269,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 4.2,
-     "prev": 4.25,
-     "change": -0.05,
-     "pct": -1.18,
-     "asof": "2026-09-30",
+     "value": 4.17,
+     "prev": 4.2,
+     "change": -0.03,
+     "pct": -0.71,
+     "asof": "2026-10-01",
      "history": [
-      3.89,
       3.9,
       3.87,
       3.89,
@@ -314,16 +313,17 @@
       4.24,
       4.28,
       4.25,
-      4.2
+      4.2,
+      4.17
      ],
-     "chg_1d": -0.05,
-     "pct_1d": -1.18,
-     "chg_mtd": 0.29,
-     "pct_mtd": 7.42,
-     "chg_ytd": 0.53,
-     "pct_ytd": 14.44,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": -0.03,
+     "pct_1d": -0.71,
+     "chg_mtd": -0.03,
+     "pct_mtd": -0.71,
+     "chg_ytd": 0.5,
+     "pct_ytd": 13.62,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "bp"
     },
     {
@@ -341,13 +341,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 4.54,
-     "prev": 4.58,
-     "change": -0.04,
-     "pct": -0.87,
-     "asof": "2026-09-30",
+     "value": 4.44,
+     "prev": 4.54,
+     "change": -0.1,
+     "pct": -2.2,
+     "asof": "2026-10-01",
      "history": [
-      4.03,
       4.06,
       4.01,
       4.04,
@@ -386,16 +385,17 @@
       4.5,
       4.59,
       4.58,
-      4.54
+      4.54,
+      4.44
      ],
-     "chg_1d": -0.04,
-     "pct_1d": -0.87,
-     "chg_mtd": 0.38,
-     "pct_mtd": 9.13,
-     "chg_ytd": 1.06,
-     "pct_ytd": 30.46,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": -0.1,
+     "pct_1d": -2.2,
+     "chg_mtd": -0.1,
+     "pct_mtd": -2.2,
+     "chg_ytd": 0.96,
+     "pct_ytd": 27.59,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "bp"
     },
     {
@@ -413,13 +413,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 4.88,
-     "prev": 4.89,
-     "change": -0.01,
-     "pct": -0.2,
-     "asof": "2026-09-30",
+     "value": 4.78,
+     "prev": 4.88,
+     "change": -0.1,
+     "pct": -2.05,
+     "asof": "2026-10-01",
      "history": [
-      4.18,
       4.25,
       4.19,
       4.25,
@@ -458,16 +457,17 @@
       4.81,
       4.92,
       4.89,
-      4.88
+      4.88,
+      4.78
      ],
-     "chg_1d": -0.01,
-     "pct_1d": -0.2,
-     "chg_mtd": 0.54,
-     "pct_mtd": 12.44,
-     "chg_ytd": 1.41,
-     "pct_ytd": 40.63,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": -0.1,
+     "pct_1d": -2.05,
+     "chg_mtd": -0.1,
+     "pct_mtd": -2.05,
+     "chg_ytd": 1.31,
+     "pct_ytd": 37.75,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "bp"
     },
     {
@@ -485,13 +485,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 5.29,
-     "prev": 5.26,
-     "change": 0.03,
-     "pct": 0.57,
-     "asof": "2026-09-30",
+     "value": 5.24,
+     "prev": 5.29,
+     "change": -0.05,
+     "pct": -0.95,
+     "asof": "2026-10-01",
      "history": [
-      4.63,
       4.69,
       4.65,
       4.72,
@@ -530,16 +529,17 @@
       5.17,
       5.24,
       5.26,
-      5.29
+      5.29,
+      5.24
      ],
-     "chg_1d": 0.03,
-     "pct_1d": 0.57,
-     "chg_mtd": 0.54,
-     "pct_mtd": 11.37,
-     "chg_ytd": 1.11,
-     "pct_ytd": 26.56,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": -0.05,
+     "pct_1d": -0.95,
+     "chg_mtd": -0.05,
+     "pct_mtd": -0.95,
+     "chg_ytd": 1.06,
+     "pct_ytd": 25.36,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "bp"
     },
     {
@@ -557,13 +557,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 41.0,
-     "prev": 37.0,
-     "change": 4.0,
-     "pct": 10.81,
-     "asof": "2026-09-30",
+     "value": 46.0,
+     "prev": 41.0,
+     "change": 5.0,
+     "pct": 12.2,
+     "asof": "2026-10-01",
      "history": [
-      45.0,
       44.0,
       46.0,
       47.0,
@@ -602,16 +601,17 @@
       36.0,
       32.0,
       37.0,
-      41.0
+      41.0,
+      46.0
      ],
-     "chg_1d": 4.0,
-     "pct_1d": 10.81,
-     "chg_mtd": 0.0,
-     "pct_mtd": 0.0,
-     "chg_ytd": -30.0,
-     "pct_ytd": -42.25,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": 5.0,
+     "pct_1d": 12.2,
+     "chg_mtd": 5.0,
+     "pct_mtd": 12.2,
+     "chg_ytd": -25.0,
+     "pct_ytd": -35.21,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "bpraw",
      "subrow": true
     },
@@ -634,9 +634,8 @@
      "prev": 2.36,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-10-01",
+     "asof": "2026-10-02",
      "history": [
-      2.26,
       2.25,
       2.29,
       2.27,
@@ -675,6 +674,7 @@
       2.34,
       2.35,
       2.36,
+      2.36,
       2.36
      ],
      "chg_1d": 0.0,
@@ -683,11 +683,11 @@
      "pct_mtd": 0.0,
      "chg_ytd": 0.11,
      "pct_ytd": 4.89,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-10-01",
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-10-02",
      "delta": "bp",
      "subrow": true,
-     "display": "2.93% \u00b7 2.36%"
+     "display": "2.88% \u00b7 2.36%"
     },
     {
      "id": "US_CPI_YOY",
@@ -906,7 +906,7 @@
      "delta": "bp",
      "policy": true,
      "next_decision": "2026-10-21",
-     "next_decision_days": 19,
+     "next_decision_days": 18,
      "next_decision_note": null
     },
     {
@@ -1607,13 +1607,12 @@
      "detail": "policy \u00b7 3M \u00b7 10Y",
      "block": "",
      "status": "ok",
-     "value": 123.0,
-     "prev": 120.0,
-     "change": 3.0,
-     "pct": 2.5,
-     "asof": "2026-09-30",
+     "value": 118.0,
+     "prev": 123.0,
+     "change": -5.0,
+     "pct": -4.07,
+     "asof": "2026-10-01",
      "history": [
-      72.0,
       78.0,
       74.0,
       81.0,
@@ -1652,19 +1651,20 @@
       111.0,
       118.0,
       120.0,
-      123.0
+      123.0,
+      118.0
      ],
-     "chg_1d": 3.0,
-     "pct_1d": 2.5,
-     "chg_mtd": 39.0,
-     "pct_mtd": 45.68,
-     "chg_ytd": 109.0,
-     "pct_ytd": 778.64,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": -5.0,
+     "pct_1d": -4.07,
+     "chg_mtd": -5.0,
+     "pct_mtd": -4.07,
+     "chg_ytd": 104.0,
+     "pct_ytd": 742.89,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "bpraw",
      "subrow": true,
-     "display": "+63 \u00b7 +114 \u00b7 +123 bp"
+     "display": "+63 \u00b7 +113 \u00b7 +118 bp"
     },
     {
      "id": "HEDGE_ILS_USD",
@@ -1681,13 +1681,12 @@
      "detail": "implied from the 3-month rate differential; actual forward points not sourced",
      "block": "",
      "status": "ok",
-     "value": 1.14,
-     "prev": 1.18,
-     "change": -0.04,
-     "pct": -3.32,
-     "asof": "2026-09-30",
+     "value": 1.13,
+     "prev": 1.14,
+     "change": -0.02,
+     "pct": -1.64,
+     "asof": "2026-10-01",
      "history": [
-      0.59,
       0.6,
       0.58,
       0.56,
@@ -1726,16 +1725,17 @@
       1.24,
       1.2,
       1.18,
-      1.14
+      1.14,
+      1.13
      ],
-     "chg_1d": -0.04,
-     "pct_1d": -3.32,
-     "chg_mtd": 0.55,
-     "pct_mtd": 91.9,
-     "chg_ytd": 1.51,
-     "pct_ytd": -411.74,
-     "hist_from": "2026-08-05",
-     "hist_to": "2026-09-30",
+     "chg_1d": -0.02,
+     "pct_1d": -1.64,
+     "chg_mtd": -0.02,
+     "pct_mtd": -1.64,
+     "chg_ytd": 1.49,
+     "pct_ytd": -406.62,
+     "hist_from": "2026-08-06",
+     "hist_to": "2026-10-01",
      "delta": "pp",
      "subrow": true
     }
@@ -1759,13 +1759,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 84.0,
+     "value": 86.0,
      "prev": 84.0,
-     "change": 0.0,
-     "pct": 0.0,
-     "asof": "2026-09-30",
+     "change": 2.0,
+     "pct": 2.38,
+     "asof": "2026-10-01",
      "history": [
-      78.0,
       78.0,
       78.0,
       79.0,
@@ -1804,16 +1803,17 @@
       81.0,
       83.0,
       84.0,
-      84.0
+      84.0,
+      86.0
      ],
-     "chg_1d": 0.0,
-     "pct_1d": 0.0,
-     "chg_mtd": 4.0,
-     "pct_mtd": 5.0,
-     "chg_ytd": 5.0,
-     "pct_ytd": 6.33,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-09-30",
+     "chg_1d": 2.0,
+     "pct_1d": 2.38,
+     "chg_mtd": 2.0,
+     "pct_mtd": 2.38,
+     "chg_ytd": 7.0,
+     "pct_ytd": 8.86,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-10-01",
      "delta": "bpraw"
     },
     {
@@ -1831,13 +1831,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 312.0,
-     "prev": 308.0,
-     "change": 4.0,
-     "pct": 1.3,
-     "asof": "2026-09-30",
+     "value": 324.0,
+     "prev": 312.0,
+     "change": 12.0,
+     "pct": 3.85,
+     "asof": "2026-10-01",
      "history": [
-      271.0,
       270.0,
       270.0,
       272.0,
@@ -1876,16 +1875,17 @@
       293.0,
       302.0,
       308.0,
-      312.0
+      312.0,
+      324.0
      ],
-     "chg_1d": 4.0,
-     "pct_1d": 1.3,
-     "chg_mtd": 49.0,
-     "pct_mtd": 18.63,
-     "chg_ytd": 31.0,
-     "pct_ytd": 11.03,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-09-30",
+     "chg_1d": 12.0,
+     "pct_1d": 3.85,
+     "chg_mtd": 12.0,
+     "pct_mtd": 3.85,
+     "chg_ytd": 43.0,
+     "pct_ytd": 15.3,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-10-01",
      "delta": "bpraw"
     },
     {
@@ -1903,10 +1903,10 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 16.0,
+     "value": 15.3,
      "prev": 16.4,
-     "change": -0.4,
-     "pct": -2.56,
+     "change": -1.1,
+     "pct": -6.59,
      "asof": "2026-10-02",
      "history": [
       15.5,
@@ -1948,19 +1948,19 @@
       16.0,
       16.3,
       16.4,
-      16.0
+      15.3
      ],
-     "chg_1d": -0.4,
-     "pct_1d": -2.56,
-     "chg_mtd": -0.4,
-     "pct_mtd": -2.26,
-     "chg_ytd": 1.0,
-     "pct_ytd": 6.82,
+     "chg_1d": -1.1,
+     "pct_1d": -6.59,
+     "chg_mtd": -1.0,
+     "pct_mtd": -6.3,
+     "chg_ytd": 0.4,
+     "pct_ytd": 2.41,
      "hist_from": "2026-08-10",
      "hist_to": "2026-10-02",
      "delta": "pct",
      "subrow": true,
-     "display": "MOVE 108.1 \u00b7 VIX 16.0"
+     "display": "MOVE 107.3 \u00b7 VIX 15.3"
     },
     {
      "id": "IL_USD_SPREAD_10Y",
@@ -1977,10 +1977,10 @@
      "detail": "Israel USD 10-year minus US 10-year, in bp",
      "block": "",
      "status": "ok",
-     "value": 99.0,
+     "value": 104.0,
      "prev": 99.0,
-     "change": -1.0,
-     "pct": -0.6,
+     "change": 4.0,
+     "pct": 4.44,
      "asof": "2026-10-01",
      "history": [
       94.0,
@@ -2001,12 +2001,12 @@
       93.0,
       100.0,
       99.0,
-      99.0
+      104.0
      ],
-     "chg_1d": -1.0,
-     "pct_1d": -0.6,
-     "chg_mtd": -1.0,
-     "pct_mtd": -0.6,
+     "chg_1d": 4.0,
+     "pct_1d": 4.44,
+     "chg_mtd": 4.0,
+     "pct_mtd": 4.44,
      "chg_ytd": null,
      "pct_ytd": null,
      "hist_from": "2026-09-07",
@@ -2266,7 +2266,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2026-09-08",
-       "to": "2026-10-01"
+       "to": "2026-10-02"
       }
      ],
      "coverage": {
@@ -2366,7 +2366,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2009-01-02",
-       "to": "2026-10-01"
+       "to": "2026-10-02"
       }
      ],
      "coverage": {
@@ -2466,7 +2466,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2009-01-02",
-       "to": "2026-10-01"
+       "to": "2026-10-02"
       }
      ],
      "coverage": {
@@ -2562,9 +2562,9 @@
      "status": "ok",
      "value": 4.2,
      "prev": 4.21,
-     "change": -0.0,
-     "pct": -0.07,
-     "asof": "2026-10-02",
+     "change": -0.01,
+     "pct": -0.26,
+     "asof": "2026-10-01",
      "history": [
       4.31,
       4.32,
@@ -2607,14 +2607,14 @@
       4.21,
       4.2
      ],
-     "chg_1d": -0.0,
-     "pct_1d": -0.07,
-     "chg_mtd": -0.0,
-     "pct_mtd": -0.07,
+     "chg_1d": -0.01,
+     "pct_1d": -0.26,
+     "chg_mtd": -0.01,
+     "pct_mtd": -0.26,
      "chg_ytd": -0.28,
-     "pct_ytd": -6.17,
+     "pct_ytd": -6.35,
      "hist_from": "2026-08-06",
-     "hist_to": "2026-10-02",
+     "hist_to": "2026-10-01",
      "delta": "pct"
     },
     {
@@ -2636,9 +2636,8 @@
      "prev": 428.21,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-10-02",
+     "asof": "2026-10-03",
      "history": [
-      428.28,
       428.21,
       427.79,
       428.15,
@@ -2677,6 +2676,7 @@
       428.26,
       428.75,
       428.21,
+      428.21,
       428.21
      ],
      "chg_1d": 0.0,
@@ -2685,8 +2685,8 @@
      "pct_mtd": -0.13,
      "chg_ytd": 13.03,
      "pct_ytd": 3.14,
-     "hist_from": "2026-08-14",
-     "hist_to": "2026-10-02",
+     "hist_from": "2026-08-17",
+     "hist_to": "2026-10-03",
      "delta": "pct",
      "sources": [
       {
@@ -2702,7 +2702,7 @@
        "source": "TASE last rate",
        "what": "close",
        "from": "2026-09-05",
-       "to": "2026-10-02"
+       "to": "2026-10-03"
       }
      ],
      "coverage": {
@@ -2710,9 +2710,9 @@
       "official_through": "2026-09-04",
       "provisional_source": "TASE last rate",
       "provisional_from": "2026-09-05",
-      "provisional_days": 24
+      "provisional_days": 25
      },
-     "provisional_points": 24,
+     "provisional_points": 25,
      "footnote": "Tel Bond-60 CPI Linked: closing levels from TASE (market.tase.co.il); TASE last rate for the most recent days only."
     },
     {
@@ -2734,9 +2734,8 @@
      "prev": 462.93,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-10-02",
+     "asof": "2026-10-03",
      "history": [
-      465.42,
       465.4,
       465.14,
       465.48,
@@ -2775,6 +2774,7 @@
       462.43,
       463.08,
       462.93,
+      462.93,
       462.93
      ],
      "chg_1d": 0.0,
@@ -2783,8 +2783,8 @@
      "pct_mtd": -0.03,
      "chg_ytd": 13.08,
      "pct_ytd": 2.91,
-     "hist_from": "2026-08-17",
-     "hist_to": "2026-10-02",
+     "hist_from": "2026-08-18",
+     "hist_to": "2026-10-03",
      "delta": "pct"
     },
     {
@@ -2806,9 +2806,8 @@
      "prev": 529.84,
      "change": 0.0,
      "pct": 0.0,
-     "asof": "2026-10-02",
+     "asof": "2026-10-03",
      "history": [
-      536.3,
       536.46,
       535.54,
       536.92,
@@ -2847,6 +2846,7 @@
       530.05,
       530.83,
       529.84,
+      529.84,
       529.84
      ],
      "chg_1d": 0.0,
@@ -2855,8 +2855,8 @@
      "pct_mtd": -0.19,
      "chg_ytd": 10.84,
      "pct_ytd": 2.09,
-     "hist_from": "2026-08-17",
-     "hist_to": "2026-10-02",
+     "hist_from": "2026-08-18",
+     "hist_to": "2026-10-03",
      "delta": "pct"
     }
    ]
@@ -2885,7 +2885,7 @@
        "source": "Yahoo",
        "what": "close + distributions",
        "from": "2009-01-02",
-       "to": "2026-10-01"
+       "to": "2026-10-02"
       }
      ],
      "coverage": {
@@ -2979,13 +2979,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 26871.6,
-     "prev": 26861.06,
-     "change": 10.54,
-     "pct": 0.04,
-     "asof": "2026-10-01",
+     "value": 27190.86,
+     "prev": 26871.6,
+     "change": 319.26,
+     "pct": 1.19,
+     "asof": "2026-10-02",
      "history": [
-      26348.35,
       26690.62,
       26605.36,
       26445.45,
@@ -3024,16 +3023,17 @@
       26820.38,
       26797.54,
       26861.06,
-      26871.6
+      26871.6,
+      27190.86
      ],
-     "chg_1d": 10.54,
-     "pct_1d": 0.04,
-     "chg_mtd": 10.54,
-     "pct_mtd": 0.04,
-     "chg_ytd": 3629.61,
-     "pct_ytd": 15.62,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-10-01",
+     "chg_1d": 319.26,
+     "pct_1d": 1.19,
+     "chg_mtd": 329.8,
+     "pct_mtd": 1.23,
+     "chg_ytd": 3948.87,
+     "pct_ytd": 16.99,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-10-02",
      "delta": "pct"
     },
     {
@@ -3051,13 +3051,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 30501.56,
-     "prev": 30408.5,
-     "change": 93.06,
-     "pct": 0.31,
-     "asof": "2026-10-01",
+     "value": 30807.93,
+     "prev": 30501.56,
+     "change": 306.37,
+     "pct": 1.0,
+     "asof": "2026-10-02",
      "history": [
-      29373.33,
       29722.3,
       29621.8,
       29525.48,
@@ -3096,16 +3095,17 @@
       30276.81,
       30339.33,
       30408.5,
-      30501.56
+      30501.56,
+      30807.93
      ],
-     "chg_1d": 93.06,
-     "pct_1d": 0.31,
-     "chg_mtd": 93.06,
-     "pct_mtd": 0.31,
-     "chg_ytd": 5251.71,
-     "pct_ytd": 20.8,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-10-01",
+     "chg_1d": 306.37,
+     "pct_1d": 1.0,
+     "chg_mtd": 399.43,
+     "pct_mtd": 1.31,
+     "chg_ytd": 5558.08,
+     "pct_ytd": 22.01,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-10-02",
      "delta": "pct"
     },
     {
@@ -3123,13 +3123,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 50926.56,
-     "prev": 50906.05,
-     "change": 20.51,
-     "pct": 0.04,
-     "asof": "2026-10-01",
+     "value": 51176.96,
+     "prev": 50926.56,
+     "change": 250.4,
+     "pct": 0.49,
+     "asof": "2026-10-02",
      "history": [
-      53885.1,
       54036.93,
       53975.98,
       53791.85,
@@ -3168,16 +3167,17 @@
       51481.51,
       51349.92,
       50906.05,
-      50926.56
+      50926.56,
+      51176.96
      ],
-     "chg_1d": 20.51,
-     "pct_1d": 0.04,
-     "chg_mtd": 20.51,
-     "pct_mtd": 0.04,
-     "chg_ytd": 2863.27,
-     "pct_ytd": 5.96,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-10-01",
+     "chg_1d": 250.4,
+     "pct_1d": 0.49,
+     "chg_mtd": 270.91,
+     "pct_mtd": 0.53,
+     "chg_ytd": 3113.67,
+     "pct_ytd": 6.48,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-10-02",
      "delta": "pct"
     },
     {
@@ -3195,13 +3195,12 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 2806.63,
-     "prev": 2796.86,
-     "change": 9.77,
-     "pct": 0.35,
-     "asof": "2026-10-01",
+     "value": 2832.89,
+     "prev": 2806.63,
+     "change": 26.26,
+     "pct": 0.94,
+     "asof": "2026-10-02",
      "history": [
-      3001.55,
       3034.49,
       3017.4,
       3027.12,
@@ -3240,16 +3239,17 @@
       2817.91,
       2807.92,
       2796.86,
-      2806.63
+      2806.63,
+      2832.89
      ],
-     "chg_1d": 9.77,
-     "pct_1d": 0.35,
-     "chg_mtd": 9.77,
-     "pct_mtd": 0.35,
-     "chg_ytd": 324.72,
-     "pct_ytd": 13.08,
-     "hist_from": "2026-08-06",
-     "hist_to": "2026-10-01",
+     "chg_1d": 26.26,
+     "pct_1d": 0.94,
+     "chg_mtd": 36.03,
+     "pct_mtd": 1.29,
+     "chg_ytd": 350.98,
+     "pct_ytd": 14.14,
+     "hist_from": "2026-08-07",
+     "hist_to": "2026-10-02",
      "delta": "pct"
     },
     {
@@ -3514,10 +3514,10 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 102.01,
+     "value": 101.92,
      "prev": 102.1,
-     "change": -0.09,
-     "pct": -0.09,
+     "change": -0.18,
+     "pct": -0.17,
      "asof": "2026-10-02",
      "history": [
       99.6,
@@ -3559,14 +3559,14 @@
       101.37,
       101.45,
       102.1,
-      102.01
+      101.92
      ],
-     "chg_1d": -0.09,
-     "pct_1d": -0.09,
-     "chg_mtd": 0.56,
-     "pct_mtd": 0.55,
-     "chg_ytd": 3.73,
-     "pct_ytd": 3.79,
+     "chg_1d": -0.18,
+     "pct_1d": -0.17,
+     "chg_mtd": 0.47,
+     "pct_mtd": 0.47,
+     "chg_ytd": 3.64,
+     "pct_ytd": 3.71,
      "hist_from": "2026-08-07",
      "hist_to": "2026-10-02",
      "delta": "pct"
@@ -3586,10 +3586,10 @@
      "detail": "",
      "block": "",
      "status": "ok",
-     "value": 89.44,
+     "value": 91.26,
      "prev": 92.87,
-     "change": -3.43,
-     "pct": -3.69,
+     "change": -1.61,
+     "pct": -1.73,
      "asof": "2026-10-02",
      "history": [
       78.18,
@@ -3631,14 +3631,14 @@
       89.38,
       90.42,
       92.87,
-      89.44
+      91.26
      ],
-     "chg_1d": -3.43,
-     "pct_1d": -3.69,
-     "chg_mtd": -0.98,
-     "pct_mtd": -1.08,
-     "chg_ytd": 32.02,
-     "pct_ytd": 55.76,
+     "chg_1d": -1.61,
+     "pct_1d": -1.73,
+     "chg_mtd": 0.84,
+     "pct_mtd": 0.93,
+     "chg_ytd": 33.84,
+     "pct_ytd": 58.93,
      "hist_from": "2026-08-07",
      "hist_to": "2026-10-02",
      "delta": "pct"
@@ -4016,50 +4016,50 @@
      "points": [
       {
        "m": "1M",
-       "y": 4.02
+       "y": 4.06
       },
       {
        "m": "3M",
-       "y": 4.2
+       "y": 4.17
       },
       {
        "m": "6M",
-       "y": 4.33
+       "y": 4.27
       },
       {
        "m": "1Y",
-       "y": 4.54
+       "y": 4.44
       },
       {
        "m": "2Y",
-       "y": 4.88
+       "y": 4.78
       },
       {
        "m": "3Y",
-       "y": 5.0
+       "y": 4.91
       },
       {
        "m": "5Y",
-       "y": 5.09
+       "y": 5.01
       },
       {
        "m": "7Y",
-       "y": 5.19
+       "y": 5.12
       },
       {
        "m": "10Y",
-       "y": 5.29
+       "y": 5.24
       },
       {
        "m": "20Y",
-       "y": 5.68
+       "y": 5.64
       },
       {
        "m": "30Y",
-       "y": 5.64
+       "y": 5.61
       }
      ],
-     "asof": "2026-10-02",
+     "asof": "2026-10-03",
      "status": "ok",
      "note": "FRED constant-maturity Treasuries"
     },
@@ -4106,7 +4106,7 @@
        "y": 4.288
       }
      ],
-     "asof": "2026-10-02",
+     "asof": "2026-10-03",
      "status": "ok",
      "maxtenor": "15Y",
      "note": "BoI nominal zero-coupon (1Y-15Y); 1M/3M = daily Makam T-bill"
