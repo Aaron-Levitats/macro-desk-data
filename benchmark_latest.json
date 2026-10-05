@@ -22,7 +22,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-02"
+     "to": "2026-10-05"
     }
    ],
    "coverage": {
@@ -122,7 +122,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-02"
+     "to": "2026-10-05"
     }
    ],
    "coverage": {
@@ -223,82 +223,76 @@
      "source": "PIMCO",
      "what": "NAV + distributions",
      "from": "2009-01-01",
-     "to": "2026-09-04",
+     "to": "2026-10-02",
      "files": [
-      "Historical_Nav_Chart_20260907.xlsx",
-      "Distribution_Chart_20260907.xlsx"
+      "Historical_Nav_Chart_20261005.xlsx",
+      "Distribution_Chart_20261005.xlsx"
      ]
-    },
-    {
-     "source": "Yahoo",
-     "what": "close + distributions",
-     "from": "2026-09-08",
-     "to": "2026-10-02"
     }
    ],
    "coverage": {
     "official_source": "PIMCO",
-    "official_through": "2026-09-04",
-    "provisional_source": "Yahoo",
-    "provisional_from": "2026-09-08",
-    "provisional_days": 18
+    "official_through": "2026-10-01",
+    "provisional_source": null,
+    "provisional_from": null,
+    "provisional_days": null
    },
-   "provisional_points": 18,
+   "provisional_points": 0,
    "value": 10.3,
    "prev": 10.29,
    "change": 0.01,
    "pct": 0.1,
    "asof": "2026-10-01",
    "history": [
-    10.7,
-    10.72,
-    10.68,
-    10.68,
-    10.69,
-    10.73,
-    10.7,
-    10.68,
     10.67,
-    10.72,
-    10.69,
+    10.63,
+    10.63,
+    10.64,
     10.68,
-    10.69,
-    10.74,
-    10.72,
-    10.71,
-    10.66,
-    10.69,
-    10.66,
+    10.65,
+    10.63,
+    10.62,
     10.67,
-    10.71,
-    10.7,
-    10.7,
+    10.64,
+    10.63,
+    10.64,
+    10.69,
+    10.67,
     10.66,
-    10.57,
-    10.55,
+    10.61,
+    10.64,
+    10.61,
+    10.62,
+    10.66,
+    10.65,
+    10.65,
+    10.65,
+    10.61,
     10.52,
-    10.51,
     10.5,
-    10.56,
+    10.47,
+    10.46,
+    10.45,
     10.51,
-    10.54,
-    10.54,
-    10.43,
-    10.35,
+    10.46,
+    10.49,
+    10.49,
     10.38,
-    10.31,
-    10.31,
+    10.3,
+    10.33,
+    10.26,
+    10.26,
     10.29,
     10.3
    ],
-   "hist_from": "2026-08-06",
+   "hist_from": "2026-08-07",
    "hist_to": "2026-10-01",
    "chg_1d": 0.01,
    "pct_1d": 0.1,
    "chg_mtd": 0.01,
    "pct_mtd": 0.1,
-   "chg_ytd": -0.3,
-   "pct_ytd": -2.84,
+   "chg_ytd": -0.25,
+   "pct_ytd": -2.39,
    "delta": "pct",
    "name": "PIMCO Income Fund (Institutional) \u2014 total return, distributions reinvested",
    "ticker": "PIMIX",
@@ -310,7 +304,7 @@
    "vsuppressed": 0,
    "vfrom": "2023-02-01",
    "vhistorical": 1,
-   "ndist": 225
+   "ndist": 226
   },
   {
    "id": "BENCH_TR_SP500TR",
@@ -333,7 +327,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-02"
+     "to": "2026-10-05"
     }
    ],
    "coverage": {

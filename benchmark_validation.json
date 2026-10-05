@@ -16,7 +16,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-02"
+     "to": "2026-10-05"
     }
    ],
    "sponsor": null,
@@ -37,21 +37,21 @@
      {
       "month": "2012-11",
       "ours_pct": 0.2696,
-      "yahoo_pct": 0.0588,
-      "diff_bp": 21.08,
+      "yahoo_pct": 0.059,
+      "diff_bp": 21.07,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2012-12",
       "ours_pct": -0.1767,
-      "yahoo_pct": -0.8764,
-      "diff_bp": 69.97,
+      "yahoo_pct": -0.8765,
+      "diff_bp": 69.98,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2017-07",
       "ours_pct": 0.4041,
-      "yahoo_pct": 0.6123,
+      "yahoo_pct": 0.6124,
       "diff_bp": -20.82,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
@@ -59,14 +59,14 @@
       "month": "2017-08",
       "ours_pct": 0.8564,
       "yahoo_pct": 1.068,
-      "diff_bp": -21.16,
+      "diff_bp": -21.15,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2018-06",
       "ours_pct": -0.0443,
       "yahoo_pct": 0.1885,
-      "diff_bp": -23.27,
+      "diff_bp": -23.28,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      }
     ],
@@ -98,7 +98,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-02"
+     "to": "2026-10-05"
     }
    ],
    "sponsor": null,
@@ -152,32 +152,26 @@
      "source": "PIMCO",
      "what": "NAV + distributions",
      "from": "2009-01-01",
-     "to": "2026-09-04",
+     "to": "2026-10-02",
      "files": [
-      "Historical_Nav_Chart_20260907.xlsx",
-      "Distribution_Chart_20260907.xlsx"
+      "Historical_Nav_Chart_20261005.xlsx",
+      "Distribution_Chart_20261005.xlsx"
      ]
-    },
-    {
-     "source": "Yahoo",
-     "what": "close + distributions",
-     "from": "2026-09-08",
-     "to": "2026-10-02"
     }
    ],
    "sponsor": {
     "name": "PIMCO",
     "url": "https://www.pimco.com/us/en/investments/mutual-fund/pimco-income-fund/inst-usd",
     "kind": "fund",
-    "nav_file": "Historical_Nav_Chart_20260907.xlsx",
-    "dist_file": "Distribution_Chart_20260907.xlsx",
-    "last": "2026-09-04"
+    "nav_file": "Historical_Nav_Chart_20261005.xlsx",
+    "dist_file": "Distribution_Chart_20261005.xlsx",
+    "last": "2026-10-02"
    },
    "coverage": {
     "official_source": "PIMCO",
-    "official_through": "2026-09-04",
-    "provisional_source": "Yahoo",
-    "provisional_from": "2026-09-08",
+    "official_through": "2026-10-01",
+    "provisional_source": null,
+    "provisional_from": null,
     "provisional_days": null
    },
    "level_vs_feed": null,
@@ -191,14 +185,14 @@
      {
       "month": "2010-01",
       "ours_pct": 2.9573,
-      "yahoo_pct": 3.0131,
-      "diff_bp": -5.58,
+      "yahoo_pct": 3.013,
+      "diff_bp": -5.57,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2010-04",
       "ours_pct": 3.046,
-      "yahoo_pct": 2.6448,
+      "yahoo_pct": 2.6449,
       "diff_bp": 40.12,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
@@ -212,8 +206,8 @@
      {
       "month": "2010-12",
       "ours_pct": 0.0386,
-      "yahoo_pct": -0.487,
-      "diff_bp": 52.56,
+      "yahoo_pct": -0.4871,
+      "diff_bp": 52.57,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -234,7 +228,7 @@
       "month": "2012-08",
       "ours_pct": 2.1019,
       "yahoo_pct": 2.0671,
-      "diff_bp": 3.47,
+      "diff_bp": 3.48,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -254,8 +248,8 @@
      {
       "month": "2014-03",
       "ours_pct": 0.3646,
-      "yahoo_pct": 0.4034,
-      "diff_bp": -3.88,
+      "yahoo_pct": 0.4033,
+      "diff_bp": -3.87,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -268,8 +262,8 @@
      {
       "month": "2017-01",
       "ours_pct": 0.8748,
-      "yahoo_pct": 0.9651,
-      "diff_bp": -9.03,
+      "yahoo_pct": 0.9652,
+      "diff_bp": -9.04,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -298,6 +292,13 @@
       "ours_pct": 0.429,
       "yahoo_pct": 0.6221,
       "diff_bp": -19.31,
+      "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
+     },
+     {
+      "month": "2026-09",
+      "ours_pct": -3.2918,
+      "yahoo_pct": -3.7418,
+      "diff_bp": 45.0,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      }
     ]
@@ -342,7 +343,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-02"
+     "to": "2026-10-05"
     }
    ],
    "sponsor": null,
@@ -394,15 +395,15 @@
      "source": "TASE",
      "what": "closing index level",
      "from": "2009-01-01",
-     "to": "2026-09-04",
+     "to": "2026-10-01",
      "files": [
-      "indexhistoryeod_20260907.csv"
+      "indexhistoryeod_20261001.csv"
      ]
     },
     {
      "source": "Yahoo",
      "what": "close",
-     "from": "2026-09-07",
+     "from": "2026-10-05",
      "to": "2026-10-05"
     }
    ],
@@ -410,22 +411,22 @@
     "name": "TASE",
     "url": "https://market.tase.co.il/en/market_data/index/137/major_data",
     "kind": "index",
-    "nav_file": "indexhistoryeod_20260907.csv",
+    "nav_file": "indexhistoryeod_20261001.csv",
     "dist_file": null,
-    "last": "2026-09-04"
+    "last": "2026-10-01"
    },
    "coverage": {
     "official_source": "TASE",
-    "official_through": "2026-09-04",
-    "provisional_source": "Yahoo",
-    "provisional_from": "2026-09-07",
+    "official_through": "2026-10-01",
+    "provisional_source": null,
+    "provisional_from": null,
     "provisional_days": null
    },
    "level_vs_feed": {
     "source": "TASE",
     "feed": "Yahoo",
     "tolerance_pct": 0.1,
-    "compared": 3500,
+    "compared": 3515,
     "mismatches": 268,
     "worst_pct": 2.3766,
     "examples": [
@@ -543,15 +544,15 @@
      "source": "TASE",
      "what": "closing index level",
      "from": "2009-01-01",
-     "to": "2026-09-04",
+     "to": "2026-10-01",
      "files": [
-      "indexhistoryeod_20260907.csv"
+      "indexhistoryeod_20261001.csv"
      ]
     },
     {
      "source": "TASE last rate",
      "what": "close",
-     "from": "2026-09-05",
+     "from": "2026-10-02",
      "to": "2026-10-05"
     }
    ],
@@ -559,15 +560,15 @@
     "name": "TASE",
     "url": "https://market.tase.co.il/en/market_data/index/709/major_data",
     "kind": "index",
-    "nav_file": "indexhistoryeod_20260907.csv",
+    "nav_file": "indexhistoryeod_20261001.csv",
     "dist_file": null,
-    "last": "2026-09-04"
+    "last": "2026-10-01"
    },
    "coverage": {
     "official_source": "TASE",
-    "official_through": "2026-09-04",
-    "provisional_source": "TASE last rate",
-    "provisional_from": "2026-09-05",
+    "official_through": "2026-10-01",
+    "provisional_source": null,
+    "provisional_from": null,
     "provisional_days": null
    },
    "level_vs_feed": {
