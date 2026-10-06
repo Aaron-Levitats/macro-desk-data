@@ -22,7 +22,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-05"
+     "to": "2026-10-06"
     }
    ],
    "coverage": {
@@ -122,7 +122,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-05"
+     "to": "2026-10-06"
     }
    ],
    "coverage": {
@@ -333,7 +333,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-05"
+     "to": "2026-10-06"
     }
    ],
    "coverage": {
