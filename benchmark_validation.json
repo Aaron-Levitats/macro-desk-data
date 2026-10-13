@@ -1,5 +1,5 @@
 {
- "as_of": "2026-10-09",
+ "as_of": "2026-10-12",
  "validation_start": "2023-02-01",
  "status": "ok",
  "tickers": {
@@ -9,7 +9,7 @@
    "label": "BND",
    "status": "ok",
    "basis": "total_return",
-   "as_of": "2026-10-09",
+   "as_of": "2026-10-12",
    "basis_source": null,
    "sources": [
     {
@@ -22,7 +22,7 @@
    "sponsor": null,
    "coverage": {
     "official_source": "Yahoo",
-    "official_through": "2026-10-09",
+    "official_through": "2026-10-12",
     "provisional_source": null,
     "provisional_from": null,
     "provisional_days": null
@@ -38,7 +38,7 @@
       "month": "2012-11",
       "ours_pct": 0.2696,
       "yahoo_pct": 0.059,
-      "diff_bp": 21.07,
+      "diff_bp": 21.06,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
@@ -51,22 +51,22 @@
      {
       "month": "2017-07",
       "ours_pct": 0.4041,
-      "yahoo_pct": 0.6125,
-      "diff_bp": -20.83,
+      "yahoo_pct": 0.6123,
+      "diff_bp": -20.82,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2017-08",
       "ours_pct": 0.8564,
-      "yahoo_pct": 1.068,
-      "diff_bp": -21.15,
+      "yahoo_pct": 1.0681,
+      "diff_bp": -21.16,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      },
      {
       "month": "2018-06",
       "ours_pct": -0.0443,
       "yahoo_pct": 0.1885,
-      "diff_bp": -23.27,
+      "diff_bp": -23.28,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      }
     ],
@@ -91,7 +91,7 @@
    "label": "AGG",
    "status": "ok",
    "basis": "total_return",
-   "as_of": "2026-10-09",
+   "as_of": "2026-10-12",
    "basis_source": null,
    "sources": [
     {
@@ -104,7 +104,7 @@
    "sponsor": null,
    "coverage": {
     "official_source": "Yahoo",
-    "official_through": "2026-10-09",
+    "official_through": "2026-10-12",
     "provisional_source": null,
     "provisional_from": null,
     "provisional_days": null
@@ -119,7 +119,7 @@
      {
       "month": "2018-11",
       "ours_pct": 0.5238,
-      "yahoo_pct": 0.7715,
+      "yahoo_pct": 0.7716,
       "diff_bp": -24.78,
       "reason": "a distribution override applies in this month \u2014 we corrected Yahoo here on purpose"
      }
@@ -145,7 +145,7 @@
    "label": "PIMIX",
    "status": "ok",
    "basis": "total_return",
-   "as_of": "2026-10-09",
+   "as_of": "2026-10-12",
    "basis_source": null,
    "sources": [
     {
@@ -162,7 +162,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2026-10-05",
-     "to": "2026-10-09"
+     "to": "2026-10-12"
     }
    ],
    "sponsor": {
@@ -198,15 +198,15 @@
      {
       "month": "2010-04",
       "ours_pct": 3.046,
-      "yahoo_pct": 2.6447,
-      "diff_bp": 40.13,
+      "yahoo_pct": 2.6449,
+      "diff_bp": 40.11,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2010-05",
       "ours_pct": -0.074,
-      "yahoo_pct": -0.5312,
-      "diff_bp": 45.71,
+      "yahoo_pct": -0.5313,
+      "diff_bp": 45.73,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -226,28 +226,28 @@
      {
       "month": "2012-01",
       "ours_pct": 2.6083,
-      "yahoo_pct": 2.6391,
-      "diff_bp": -3.08,
+      "yahoo_pct": 2.639,
+      "diff_bp": -3.07,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2012-08",
       "ours_pct": 2.1019,
-      "yahoo_pct": 2.067,
-      "diff_bp": 3.49,
+      "yahoo_pct": 2.0671,
+      "diff_bp": 3.48,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2012-09",
       "ours_pct": 3.4162,
       "yahoo_pct": 3.4566,
-      "diff_bp": -4.04,
+      "diff_bp": -4.05,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2013-09",
       "ours_pct": 1.781,
-      "yahoo_pct": 1.8123,
+      "yahoo_pct": 1.8122,
       "diff_bp": -3.13,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
@@ -283,14 +283,14 @@
       "month": "2023-03",
       "ours_pct": 1.1068,
       "yahoo_pct": 1.2086,
-      "diff_bp": -10.17,
+      "diff_bp": -10.18,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
       "month": "2024-05",
       "ours_pct": 1.7857,
       "yahoo_pct": 1.5955,
-      "diff_bp": 19.02,
+      "diff_bp": 19.03,
       "reason": "built from PIMCO's published NAV and distributions \u2014 Yahoo differs here, and the sponsor record is the reference (scored by Check B)"
      },
      {
@@ -336,7 +336,7 @@
    "label": "S&P 500 total return",
    "status": "ok",
    "basis": "total_return",
-   "as_of": "2026-10-09",
+   "as_of": "2026-10-12",
    "basis_source": {
     "provider": "S&P Dow Jones Indices",
     "document": "S&P 500 Total Return index (published TR level)",
@@ -355,7 +355,7 @@
    "sponsor": null,
    "coverage": {
     "official_source": "Yahoo",
-    "official_through": "2026-10-09",
+    "official_through": "2026-10-12",
     "provisional_source": null,
     "provisional_from": null,
     "provisional_days": null
@@ -388,7 +388,7 @@
    "label": "TA-125",
    "status": "ok",
    "basis": "gross_total_return",
-   "as_of": "2026-10-09",
+   "as_of": "2026-10-12",
    "basis_source": {
     "provider": "TASE",
     "document": "TASE Ltd, Board of Directors' explanations, interim report for the period ended June 30, 2025 (footnote to the index returns table)",
@@ -537,7 +537,7 @@
    "label": "Tel Bond 60",
    "status": "ok",
    "basis": "gross_total_return",
-   "as_of": "2026-10-09",
+   "as_of": "2026-10-12",
    "basis_source": {
     "provider": "TASE",
     "document": "TASE index methodology \u2014 Tel Bond-60 index page, Index Calculation Method",
@@ -559,7 +559,7 @@
      "source": "TASE last rate",
      "what": "close",
      "from": "2026-10-02",
-     "to": "2026-10-12"
+     "to": "2026-10-13"
     }
    ],
    "sponsor": {
