@@ -22,7 +22,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-26"
+     "to": "2026-10-27"
     }
    ],
    "coverage": {
@@ -122,7 +122,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-26"
+     "to": "2026-10-27"
     }
    ],
    "coverage": {
@@ -233,7 +233,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2026-10-05",
-     "to": "2026-10-26"
+     "to": "2026-10-27"
     }
    ],
    "coverage": {
@@ -244,10 +244,10 @@
     "provisional_days": 16
    },
    "provisional_points": 16,
-   "value": 10.46,
+   "value": 10.43,
    "prev": 10.46,
-   "change": 0.0,
-   "pct": 0.0,
+   "change": -0.03,
+   "pct": -0.29,
    "asof": "2026-10-26",
    "history": [
     10.61,
@@ -289,16 +289,16 @@
     10.39,
     10.47,
     10.46,
-    10.46
+    10.43
    ],
    "hist_from": "2026-09-01",
    "hist_to": "2026-10-26",
-   "chg_1d": 0.0,
-   "pct_1d": 0.0,
-   "chg_mtd": 0.17,
-   "pct_mtd": 1.65,
-   "chg_ytd": -0.09,
-   "pct_ytd": -0.87,
+   "chg_1d": -0.03,
+   "pct_1d": -0.29,
+   "chg_mtd": 0.14,
+   "pct_mtd": 1.36,
+   "chg_ytd": -0.12,
+   "pct_ytd": -1.15,
    "delta": "pct",
    "name": "PIMCO Income Fund (Institutional) \u2014 total return, distributions reinvested",
    "ticker": "PIMIX",
@@ -333,7 +333,7 @@
      "source": "Yahoo",
      "what": "close + distributions",
      "from": "2009-01-02",
-     "to": "2026-10-26"
+     "to": "2026-10-27"
     }
    ],
    "coverage": {
