@@ -1081,90 +1081,6 @@ IL_CPI_YOY,Israel CPI (YoY),2026-06,1.6488845780795458
 IL_CPI_YOY,Israel CPI (YoY),2026-07,1.5458937198067568
 IL_CPI_YOY,Israel CPI (YoY),2026-08,1.5355086372360827
 IL_CPI_YOY,Israel CPI (YoY),2026-09,1.6409266409266543
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-01,1.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-02,1.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-03,1.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-04,1.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-05,2.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-06,2.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-07,2.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-08,1.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-09,0.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-10,-0.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-11,0.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2000-12,0.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-01,-0.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-02,0.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-03,0.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-04,1.2
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-05,0.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-06,0.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-07,0.8
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-08,1.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-09,2.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-10,2.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-11,1.4
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2001-12,1.4
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-01,3.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-02,4.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-03,4.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-04,5.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-05,5.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-06,6.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-07,6.9
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-08,6.2
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-09,6.4
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-10,6.9
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-11,6.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2002-12,6.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-01,5.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-02,5.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-03,4.8
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-04,3.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-05,1.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-06,-0.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-07,-1.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-08,-1.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-09,-1.9
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-10,-2.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-11,-2.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2003-12,-1.9
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-01,-2.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-02,-2.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-03,-2.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-04,-1.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-05,-0.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-06,0.0
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-07,0.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-08,0.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-09,0.8
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-10,0.8
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-11,0.9
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2004-12,1.2
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-01,0.8
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-02,0.8
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-03,0.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-04,0.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-05,0.2
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-06,0.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-07,1.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-08,1.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-09,1.9
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-10,2.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-11,2.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2005-12,2.4
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-01,2.7
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-02,3.1
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-03,3.6
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-04,3.8
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-05,3.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-06,3.5
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-07,2.4
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-08,2.2
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-09,1.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-10,-0.2
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-11,-0.3
-IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2006-12,-0.1
 IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2007-01,0.1
 IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2007-02,-0.8
 IL_CPI_CONTRIB,"CPI drivers (contributions, pp)",2007-03,-0.9
@@ -3227,6 +3143,35 @@ IL_CPI_ELEC_YOY,CPI household electricity (YoY),2026-06,1.2
 IL_CPI_ELEC_YOY,CPI household electricity (YoY),2026-07,0.4
 IL_CPI_ELEC_YOY,CPI household electricity (YoY),2026-08,0.4
 IL_CPI_ELEC_YOY,CPI household electricity (YoY),2026-09,0.4
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-01,36.5
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-02,34.4
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-03,25.5
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-04,26.7
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-05,29.0
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-06,40.0
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-07,36.3
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-08,15.7
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-09,-3.2
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-10,-0.6
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-11,4.9
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1991-12,16.9
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-01,10.9
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-02,13.2
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-03,18.1
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-04,10.5
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-05,11.2
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-06,9.7
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-07,12.4
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-08,9.4
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-09,10.2
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-10,11.7
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-11,8.2
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1992-12,9.1
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-01,7.7
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-02,6.1
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-03,8.4
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-04,11.0
+IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-05,10.5
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-06,3.2
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-07,-0.7
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1993-08,3.4
@@ -3294,102 +3239,6 @@ IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1998-09,1.3
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1998-10,2.0
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1998-11,4.9
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1998-12,3.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-01,6.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-02,6.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-03,6.5
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-04,8.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-05,9.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-06,9.5
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-07,10.5
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-08,15.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-09,17.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-10,18.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-11,13.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),1999-12,18.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-01,15.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-02,15.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-03,20.2
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-04,16.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-05,14.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-06,21.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-07,22.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-08,8.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-09,9.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-10,5.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-11,9.2
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2000-12,3.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-01,-2.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-02,2.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-03,-1.5
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-04,-1.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-05,3.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-06,-2.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-07,-9.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-08,-2.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-09,-3.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-10,-3.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-11,-9.2
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2001-12,-8.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-01,-1.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-02,-3.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-03,-4.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-04,3.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-05,1.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-06,3.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-07,11.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-08,12.2
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-09,9.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-10,15.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-11,16.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2002-12,17.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-01,22.5
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-02,23.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-03,27.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-04,12.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-05,6.6
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-06,3.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-07,1.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-08,2.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-09,6.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-10,-2.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-11,2.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2003-12,4.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-01,-1.6
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-02,-0.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-03,-3.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-04,4.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-05,10.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-06,14.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-07,10.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-08,11.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-09,7.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-10,17.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-11,16.4
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2004-12,12.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-01,5.9
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-02,8.5
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-03,8.6
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-04,11.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-05,10.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-06,2.1
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-07,13.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-08,11.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-09,17.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-10,19.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-11,6.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2005-12,6.6
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-01,15.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-02,15.3
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-03,13.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-04,12.2
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-05,15.7
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-06,20.5
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-07,12.6
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-08,14.6
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-09,2.0
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-10,-10.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-11,-1.8
-IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2006-12,2.2
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2007-01,0.2
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2007-02,-8.5
 IL_CPI_FUEL_YOY,CPI vehicle fuel (YoY),2007-03,-2.1
@@ -4026,7 +3875,7 @@ IL_BRENT,Brent crude ($),2026-11-03,103.5999984741211
 IL_BRENT,Brent crude ($),2026-11-04,94.62000274658203
 IL_BRENT,Brent crude ($),2026-11-05,98.29000091552734
 IL_BRENT,Brent crude ($),2026-11-06,98.31999969482422
-IL_BRENT,Brent crude ($),2026-11-09,96.81999969482422
+IL_BRENT,Brent crude ($),2026-11-09,93.98999786376953
 IL_TTF,European natural gas TTF (€/MWh),2025-04-09,33.66600036621094
 IL_TTF,European natural gas TTF (€/MWh),2025-04-10,33.292999267578125
 IL_TTF,European natural gas TTF (€/MWh),2025-04-11,33.4630012512207
@@ -4426,7 +4275,7 @@ IL_TTF,European natural gas TTF (€/MWh),2026-11-03,91.60199737548828
 IL_TTF,European natural gas TTF (€/MWh),2026-11-04,88.08200073242188
 IL_TTF,European natural gas TTF (€/MWh),2026-11-05,90.67900085449219
 IL_TTF,European natural gas TTF (€/MWh),2026-11-06,85.58799743652344
-IL_TTF,European natural gas TTF (€/MWh),2026-11-09,87.01000213623047
+IL_TTF,European natural gas TTF (€/MWh),2026-11-09,83.3499984741211
 IL_FUEL95_EXREF,"95 octane, ex-refinery (ILS/kl)",2020-01,1621.47
 IL_FUEL95_EXREF,"95 octane, ex-refinery (ILS/kl)",2020-02,1486.26
 IL_FUEL95_EXREF,"95 octane, ex-refinery (ILS/kl)",2020-03,1428.78
@@ -6510,90 +6359,6 @@ IL_CPI_GASHOME_YOY,CPI household gas (YoY),2026-06,3.8
 IL_CPI_GASHOME_YOY,CPI household gas (YoY),2026-07,4.9
 IL_CPI_GASHOME_YOY,CPI household gas (YoY),2026-08,3.7
 IL_CPI_GASHOME_YOY,CPI household gas (YoY),2026-09,3.3
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-01,-0.06666666666666665
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-02,0.15555555555555553
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-03,-0.1333333333333333
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-04,-0.08888888888888888
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-05,0.1333333333333333
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-06,0.06666666666666665
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-07,-0.3777777777777777
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-08,-0.9333333333333332
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-09,-1.3999999999999997
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-10,-1.333333333333333
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-11,-0.9999999999999998
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2000-12,-0.5333333333333332
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-01,-0.23833333333333337
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-02,0.23833333333333337
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-03,0.8883333333333333
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-04,1.04
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-05,0.47666666666666674
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-06,0.325
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-07,0.9316666666666666
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-08,1.235
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-09,1.3216666666666665
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-10,1.4516666666666667
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-11,1.1916666666666667
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2001-12,1.1266666666666667
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-01,1.9361702127659577
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-02,2.5319148936170217
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-03,2.4893617021276597
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-04,2.8085106382978724
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-05,3.212765957446809
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-06,3.5957446808510642
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-07,2.8510638297872344
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-08,1.9787234042553197
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-09,2.0638297872340425
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-10,2.276595744680851
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-11,2.021276595744681
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2002-12,1.7446808510638299
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-01,1.2850467289719625
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-02,0.7009345794392523
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-03,0.23364485981308408
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-04,-0.6775700934579438
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-05,-1.5420560747663548
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-06,-2.5467289719626165
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-07,-2.476635514018691
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-08,-1.5654205607476634
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-09,-1.5420560747663548
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-10,-1.939252336448598
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-11,-1.5887850467289717
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2003-12,-1.5654205607476634
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-01,-1.8409090909090908
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-02,-1.9318181818181817
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-03,-1.7045454545454546
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-04,-1.0227272727272727
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-05,-0.3181818181818182
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-06,0.2727272727272727
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-07,0.3409090909090909
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-08,0.18181818181818182
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-09,0.0
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-10,-0.20454545454545453
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-11,-0.38636363636363635
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2004-12,-0.5681818181818181
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-01,-0.4754716981132075
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-02,-0.45849056603773586
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-03,-0.6283018867924528
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-04,-0.7471698113207548
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-05,-0.8320754716981132
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-06,-0.5943396226415094
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-07,-0.06792452830188679
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-08,-0.05094339622641509
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-09,-0.06792452830188679
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-10,0.22075471698113208
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-11,0.6452830188679245
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2005-12,1.0018867924528303
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-01,1.1861111111111107
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-02,1.1277777777777775
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-03,1.458333333333333
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-04,1.3416666666666663
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-05,0.8361111111111108
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-06,0.4666666666666665
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-07,0.03888888888888888
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-08,-0.13611111111111107
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-09,-0.23333333333333325
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-10,-0.6999999999999998
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-11,-1.1277777777777775
-IL_CONTRIB_HOUSING,Contribution: housing (pp),2006-12,-1.1861111111111107
 IL_CONTRIB_HOUSING,Contribution: housing (pp),2007-01,-1.189189189189189
 IL_CONTRIB_HOUSING,Contribution: housing (pp),2007-02,-1.189189189189189
 IL_CONTRIB_HOUSING,Contribution: housing (pp),2007-03,-1.4270270270270269
@@ -6831,90 +6596,6 @@ IL_CONTRIB_HOUSING,Contribution: housing (pp),2026-06,1.0888888888888888
 IL_CONTRIB_HOUSING,Contribution: housing (pp),2026-07,1.011111111111111
 IL_CONTRIB_HOUSING,Contribution: housing (pp),2026-08,0.985185185185185
 IL_CONTRIB_HOUSING,Contribution: housing (pp),2026-09,0.985185185185185
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-01,0.3996
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-02,0.3256
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-03,0.3256
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-04,0.22199999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-05,0.35519999999999996
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-06,0.3848
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-07,0.44399999999999995
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-08,0.44399999999999995
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-09,0.48839999999999995
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-10,0.5623999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-11,0.5476
-IL_CONTRIB_FOOD,Contribution: food (pp),2000-12,0.48839999999999995
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-01,0.5032
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-02,0.4588
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-03,0.44399999999999995
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-04,0.5327999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-05,0.4588
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-06,0.4736
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-07,0.37
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-08,0.3256
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-09,0.26639999999999997
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-10,0.1924
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-11,0.1924
-IL_CONTRIB_FOOD,Contribution: food (pp),2001-12,0.1628
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-01,0.10359999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-02,0.1184
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-03,0.13319999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-04,0.13319999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-05,0.044399999999999995
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-06,0.2368
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-07,0.41439999999999994
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-08,0.5623999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-09,0.6364
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-10,0.74
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-11,0.7103999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2002-12,0.7252000000000001
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-01,0.6956
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-02,0.6512
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-03,0.7252000000000001
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-04,0.7547999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-05,0.7103999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-06,0.5327999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-07,0.3996
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-08,0.2368
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-09,0.17759999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-10,0.0
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-11,0.0148
-IL_CONTRIB_FOOD,Contribution: food (pp),2003-12,0.044399999999999995
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-01,0.13319999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-02,0.22199999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-03,0.1924
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-04,0.148
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-05,0.17759999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-06,0.1184
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-07,0.13319999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-08,0.1628
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-09,0.1628
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-10,0.22199999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-11,0.2516
-IL_CONTRIB_FOOD,Contribution: food (pp),2004-12,0.26639999999999997
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-01,0.1628
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-02,0.17759999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-03,0.1924
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-04,0.17759999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-05,0.20719999999999997
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-06,0.1628
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-07,0.1628
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-08,0.17759999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-09,0.2516
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-10,0.22199999999999998
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-11,0.3404
-IL_CONTRIB_FOOD,Contribution: food (pp),2005-12,0.296
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-01,0.5032
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-02,0.5623999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-03,0.6512
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-04,0.7103999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-05,0.6659999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-06,0.7992
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-07,0.7696
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-08,0.7547999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-09,0.6808
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-10,0.7103999999999999
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-11,0.518
-IL_CONTRIB_FOOD,Contribution: food (pp),2006-12,0.5327999999999999
 IL_CONTRIB_FOOD,Contribution: food (pp),2007-01,0.44399999999999995
 IL_CONTRIB_FOOD,Contribution: food (pp),2007-02,0.41439999999999994
 IL_CONTRIB_FOOD,Contribution: food (pp),2007-03,0.3848
@@ -7152,90 +6833,6 @@ IL_CONTRIB_FOOD,Contribution: food (pp),2026-06,0.22199999999999998
 IL_CONTRIB_FOOD,Contribution: food (pp),2026-07,0.22199999999999998
 IL_CONTRIB_FOOD,Contribution: food (pp),2026-08,0.148
 IL_CONTRIB_FOOD,Contribution: food (pp),2026-09,0.1628
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-01,0.03999999999999999
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-02,0.1466666666666666
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-03,0.2355555555555555
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-04,-0.11555555555555552
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-05,0.16888888888888884
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-06,-0.18222222222222215
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-07,-0.08444444444444442
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-08,0.04888888888888888
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-09,0.053333333333333316
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-10,0.07555555555555553
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-11,0.18222222222222215
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2000-12,-0.2622222222222222
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-01,-0.17894736842105258
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-02,-0.22807017543859642
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-03,-0.19649122807017538
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-04,0.14736842105263154
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-05,0.017543859649122803
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-06,0.24210526315789468
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-07,0.17543859649122803
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-08,0.2526315789473684
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-09,0.3719298245614034
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-10,0.21052631578947362
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-11,0.11228070175438594
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2001-12,0.24210526315789468
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-01,0.4415730337078649
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-02,0.41797752808988736
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-03,0.34719101123595486
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-04,0.3303370786516852
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-05,0.030337078651685376
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-06,-0.06404494382022467
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-07,-0.057303370786516816
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-08,-0.006741573033707861
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-09,0.18539325842696616
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-10,0.07415730337078648
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-11,0.026966292134831444
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2002-12,-0.04044943820224716
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-01,-0.16257668711656442
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-02,-0.00920245398773006
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-03,0.19938650306748465
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-04,0.03680981595092024
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-05,0.4294478527607362
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-06,0.4754601226993865
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-07,0.25153374233128833
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-08,0.021472392638036807
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-09,-0.22392638036809814
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-10,-0.042944785276073615
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-11,0.09202453987730061
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2003-12,0.12883435582822086
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-01,0.21333333333333335
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-02,0.05333333333333334
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-03,-0.20190476190476192
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-04,-0.1866666666666667
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-05,-0.4990476190476191
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-06,-0.6590476190476191
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-07,-0.5066666666666667
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-08,-0.3657142857142857
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-09,-0.2780952380952381
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-10,-0.3504761904761905
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-11,-0.2666666666666667
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2004-12,0.2285714285714286
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-01,0.1250000000000001
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-02,0.14642857142857155
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-03,0.017857142857142873
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-04,-0.03571428571428575
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-05,0.021428571428571446
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-06,0.1142857142857144
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-07,0.1250000000000001
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-08,0.1857142857142859
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-09,0.26428571428571457
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-10,0.335714285714286
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-11,0.31785714285714317
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2005-12,-0.34285714285714314
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-01,-0.17931034482758595
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-02,-0.1310344827586205
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-03,0.09310344827586194
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-04,0.3241379310344823
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-05,0.3999999999999994
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-06,0.41379310344827525
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-07,0.46551724137930967
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-08,0.3206896551724134
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-09,0.14482758620689634
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-10,0.12413793103448259
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-11,0.1931034482758618
-IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2006-12,0.41379310344827525
 IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2007-01,0.5833333333333333
 IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2007-02,0.3541666666666666
 IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2007-03,0.1958333333333333
@@ -7473,90 +7070,6 @@ IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2026-06,0.07741935483870956
 IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2026-07,0.01612903225806449
 IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2026-08,0.029032258064516085
 IL_CONTRIB_FNV,Contribution: fruit & veg (pp),2026-09,0.13548387096774173
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-01,0.47590000000000005
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-02,0.5703
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-03,0.7307
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-04,0.5865
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-05,0.46820000000000006
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-06,0.7127000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-07,0.8013999999999999
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-08,0.3769
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-09,0.35020000000000007
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-10,0.22860000000000003
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-11,0.3243
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2000-12,0.1745
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-01,-0.028700000000000003
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-02,0.028199999999999996
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-03,-0.0964
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-04,-0.06180000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-05,0.1418
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-06,-0.06269999999999999
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-07,-0.3492
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-08,-0.13240000000000002
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-09,-0.1193
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-10,-0.13090000000000002
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-11,-0.2714
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2001-12,-0.262
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-01,-0.0036999999999999984
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-02,-0.03660000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-03,0.0363
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-04,0.2596
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-05,0.28890000000000005
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-06,0.4045
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-07,0.9198999999999999
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-08,0.9771000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-09,0.873
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-10,1.0325
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-11,1.0436999999999999
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2002-12,1.0594000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-01,1.2758000000000003
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-02,1.3898000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-03,1.4455
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-04,0.9414
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-05,0.6077
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-06,0.42760000000000004
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-07,0.0746
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-08,0.02430000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-09,0.13450000000000004
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-10,-0.1439
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-11,0.07830000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2003-12,0.16219999999999998
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-01,-0.07170000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-02,-0.1197
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-03,-0.26949999999999996
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-04,0.05449999999999999
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-05,0.32630000000000003
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-06,0.5464
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-07,0.49260000000000004
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-08,0.5785
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-09,0.4538
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-10,0.7583
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-11,0.7148
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2004-12,0.6081000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-01,0.3919
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-02,0.46730000000000005
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-03,0.49319999999999997
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-04,0.514
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-05,0.4625
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-06,0.1828
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-07,0.4985
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-08,0.4405
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-09,0.6609
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-10,0.7552000000000001
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-11,0.32830000000000004
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2005-12,0.2995
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-01,0.44210000000000005
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-02,0.42760000000000004
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-03,0.3517
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-04,0.3147
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-05,0.39089999999999997
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-06,0.5232
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-07,0.2734
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-08,0.33140000000000003
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-09,-0.08229999999999998
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-10,-0.49950000000000006
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-11,-0.2661
-IL_CONTRIB_ENERGY,Contribution: energy (pp),2006-12,-0.1501
 IL_CONTRIB_ENERGY,Contribution: energy (pp),2007-01,-0.07930000000000001
 IL_CONTRIB_ENERGY,Contribution: energy (pp),2007-02,-0.3316
 IL_CONTRIB_ENERGY,Contribution: energy (pp),2007-03,-0.1368
@@ -7794,90 +7307,6 @@ IL_CONTRIB_ENERGY,Contribution: energy (pp),2026-06,0.26539999999999997
 IL_CONTRIB_ENERGY,Contribution: energy (pp),2026-07,0.1223
 IL_CONTRIB_ENERGY,Contribution: energy (pp),2026-08,0.3688
 IL_CONTRIB_ENERGY,Contribution: energy (pp),2026-09,0.2673
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-01,0.4511666666666667
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-02,0.401877777777778
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-03,0.34147777777777777
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-04,1.0959444444444444
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-05,0.974377777777778
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-06,1.1180555555555554
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-07,1.3168222222222223
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-08,1.0635444444444444
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-09,0.5080666666666663
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-10,0.36677777777777765
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-11,0.045877777777777656
-IL_CONTRIB_REST,Contribution: everything else (pp),2000-12,0.13265555555555547
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-01,-0.157219298245614
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-02,-0.19726315789473697
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-03,-0.33944210526315777
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-04,-0.45836842105263154
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-05,-0.3948105263157895
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-06,-0.27800526315789453
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-07,-0.3279052631578947
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-08,0.019168421052631723
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-09,0.6593035087719301
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-10,0.2763070175438598
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-11,0.17505263157894735
-IL_CONTRIB_REST,Contribution: everything else (pp),2001-12,0.13042807017543856
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-01,0.6223567535261774
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-02,0.968307578293091
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-03,1.293947286636385
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-04,1.4683522830504425
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-05,1.9235969639015056
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-06,2.42700026296916
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-07,2.7719395409992824
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-08,2.6885181687783883
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-09,2.641376954338992
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-10,2.776746951948363
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-11,2.897657112120488
-IL_CONTRIB_REST,Contribution: everything else (pp),2002-12,3.011168587138417
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-01,2.5061299581446015
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-02,2.367267874548477
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-03,2.196268637119431
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-04,2.0445602775070237
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-05,1.3945082220056186
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-06,0.8108688492632301
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-07,0.15090177168740282
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-08,0.18284816810962634
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-09,-0.446117544865547
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-10,-0.47390287827532873
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-11,-0.5963394931483288
-IL_CONTRIB_REST,Contribution: everything else (pp),2003-12,-0.6700137950805571
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-01,-0.7339242424242423
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-02,-0.7238151515151514
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-03,-0.7164497835497834
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-04,-0.49310606060606066
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-05,-0.28667056277056263
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-06,-0.27847965367965366
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-07,0.0399575757575758
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-08,-0.05740389610389607
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-09,0.4614952380952382
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-10,0.37472164502164507
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-11,0.5866303030303032
-IL_CONTRIB_REST,Contribution: everything else (pp),2004-12,0.6651103896103895
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-01,0.5957716981132074
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-02,0.46716199460916435
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-03,0.6248447439353099
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-04,0.3912840970350404
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-05,0.34094690026954183
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-06,0.434453908355795
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-07,0.8816245283018868
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-08,0.8471291105121292
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-09,0.7911388140161721
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-10,1.166330997304582
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-11,1.0681598382749327
-IL_CONTRIB_REST,Contribution: everything else (pp),2005-12,1.1454703504043127
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-01,0.7478992337164754
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-02,1.113256704980843
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-03,1.0456632183908048
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-04,1.109095402298851
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-05,1.20698888888889
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-06,1.2971402298850583
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-07,0.8525938697318016
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-08,0.929221455938698
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-09,0.7900057471264369
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-10,0.16496206896551735
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-11,0.38277432950191576
-IL_CONTRIB_REST,Contribution: everything else (pp),2006-12,0.2896180076628354
 IL_CONTRIB_REST,Contribution: everything else (pp),2007-01,0.34115585585585584
 IL_CONTRIB_REST,Contribution: everything else (pp),2007-02,-0.047777477477477404
 IL_CONTRIB_REST,Contribution: everything else (pp),2007-03,0.08319369369369345
@@ -9284,7 +8713,6 @@ US_FEDFUNDS,US Fed Funds (effective),2026-11-02,3.88
 US_FEDFUNDS,US Fed Funds (effective),2026-11-03,3.88
 US_FEDFUNDS,US Fed Funds (effective),2026-11-04,3.88
 US_FEDFUNDS,US Fed Funds (effective),2026-11-05,3.88
-US_FEDTARGET,US Fed Funds (target range),2025-10-05,4.25
 US_FEDTARGET,US Fed Funds (target range),2025-10-06,4.25
 US_FEDTARGET,US Fed Funds (target range),2025-10-07,4.25
 US_FEDTARGET,US Fed Funds (target range),2025-10-08,4.25
@@ -9684,6 +9112,7 @@ US_FEDTARGET,US Fed Funds (target range),2026-11-05,4.0
 US_FEDTARGET,US Fed Funds (target range),2026-11-06,4.0
 US_FEDTARGET,US Fed Funds (target range),2026-11-07,4.0
 US_FEDTARGET,US Fed Funds (target range),2026-11-08,4.0
+US_FEDTARGET,US Fed Funds (target range),2026-11-09,4.0
 IL_BOI_RATE,Bank of Israel rate,2025-10-06,4.5
 IL_BOI_RATE,Bank of Israel rate,2025-10-07,4.5
 IL_BOI_RATE,Bank of Israel rate,2025-10-08,4.5
@@ -11283,7 +10712,7 @@ IL_BRENT_ILS,Brent in ILS (₪),2026-11-03,327.0651951828003
 IL_BRENT_ILS,Brent in ILS (₪),2026-11-04,298.7153486709595
 IL_BRENT_ILS,Brent in ILS (₪),2026-11-05,311.28443289947506
 IL_BRENT_ILS,Brent in ILS (₪),2026-11-06,314.03407902526857
-IL_BRENT_ILS,Brent in ILS (₪),2026-11-09,309.24307902526857
+IL_BRENT_ILS,Brent in ILS (₪),2026-11-09,300.2040531768799
 EUR_ILS,EUR / ILS,2025-03-19,4.0056
 EUR_ILS,EUR / ILS,2025-03-20,3.9805
 EUR_ILS,EUR / ILS,2025-03-21,4.0036
@@ -35822,7 +35251,7 @@ IL_2Y,Israel 2Y,2026-11-03,3.38000011444092
 IL_2Y,Israel 2Y,2026-11-04,3.40599989891052
 IL_2Y,Israel 2Y,2026-11-05,3.4210000038147
 IL_2Y,Israel 2Y,2026-11-06,3.43400001525879
-IL_2Y,Israel 2Y,2026-11-09,3.40100002288818
+IL_2Y,Israel 2Y,2026-11-09,3.37700009346008
 IL_10Y,Israel 10Y,2002-04-10,5.64938116073608
 IL_10Y,Israel 10Y,2002-04-11,5.64038276672363
 IL_10Y,Israel 10Y,2002-04-14,5.63652896881104
@@ -41838,7 +41267,7 @@ IL_10Y,Israel 10Y,2026-11-03,4.16200017929077
 IL_10Y,Israel 10Y,2026-11-04,4.15500020980835
 IL_10Y,Israel 10Y,2026-11-05,4.15700006484985
 IL_10Y,Israel 10Y,2026-11-06,4.17000007629395
-IL_10Y,Israel 10Y,2026-11-09,4.17199993133545
+IL_10Y,Israel 10Y,2026-11-09,4.13500022888184
 IL_2Y_BOI_M,BoI zero-coupon 2Y (monthly avg),2008-01,5.1086582426
 IL_2Y_BOI_M,BoI zero-coupon 2Y (monthly avg),2008-02,4.6347212201
 IL_2Y_BOI_M,BoI zero-coupon 2Y (monthly avg),2008-03,4.1191864475
@@ -44710,7 +44139,7 @@ IL_TA125,TA-125,2026-11-03,3922.18
 IL_TA125,TA-125,2026-11-04,3849.08
 IL_TA125,TA-125,2026-11-05,3719.05
 IL_TA125,TA-125,2026-11-06,3823.6298828125
-IL_TA125,TA-125,2026-11-09,3831.4599609375
+IL_TA125,TA-125,2026-11-09,3878.47998046875
 IL_TA35,TA-35,2025-01-07,2458.110107421875
 IL_TA35,TA-35,2025-01-08,2439.97998046875
 IL_TA35,TA-35,2025-01-09,2450.22998046875
@@ -45110,7 +44539,7 @@ IL_TA35,TA-35,2026-11-03,4048.93994140625
 IL_TA35,TA-35,2026-11-04,3969.530029296875
 IL_TA35,TA-35,2026-11-05,3823.179931640625
 IL_TA35,TA-35,2026-11-06,3941.139892578125
-IL_TA35,TA-35,2026-11-09,3949.909912109375
+IL_TA35,TA-35,2026-11-09,3994.02001953125
 IL_TA90,TA-90,2025-01-07,2698.969970703125
 IL_TA90,TA-90,2025-01-08,2671.090087890625
 IL_TA90,TA-90,2025-01-09,2671.919921875
@@ -45510,7 +44939,7 @@ IL_TA90,TA-90,2026-11-03,3552.31005859375
 IL_TA90,TA-90,2026-11-04,3484.820068359375
 IL_TA90,TA-90,2026-11-05,3407.169921875
 IL_TA90,TA-90,2026-11-06,3469.840087890625
-IL_TA90,TA-90,2026-11-09,3476.9599609375
+IL_TA90,TA-90,2026-11-09,3533.800048828125
 GLOBAL_AGG,Global Aggregate (AGGG.L),2025-04-10,4.3495001792907715
 GLOBAL_AGG,Global Aggregate (AGGG.L),2025-04-11,4.3404998779296875
 GLOBAL_AGG,Global Aggregate (AGGG.L),2025-04-14,4.375999927520752
@@ -45910,7 +45339,7 @@ GLOBAL_AGG,Global Aggregate (AGGG.L),2026-11-03,4.266499996185303
 GLOBAL_AGG,Global Aggregate (AGGG.L),2026-11-04,4.276500225067139
 GLOBAL_AGG,Global Aggregate (AGGG.L),2026-11-05,4.293499946594238
 GLOBAL_AGG,Global Aggregate (AGGG.L),2026-11-06,4.281499862670898
-GLOBAL_AGG,Global Aggregate (AGGG.L),2026-11-09,4.284999847412109
+GLOBAL_AGG,Global Aggregate (AGGG.L),2026-11-09,4.289899826049805
 TELBOND60,Tel Bond-60 CPI Linked,2009-01-01,190.22
 TELBOND60,Tel Bond-60 CPI Linked,2009-01-04,190.69
 TELBOND60,Tel Bond-60 CPI Linked,2009-01-05,188.96
@@ -50287,7 +49716,7 @@ TELBOND60,Tel Bond-60 CPI Linked,2026-11-04,427.5
 TELBOND60,Tel Bond-60 CPI Linked,2026-11-05,426.48
 TELBOND60,Tel Bond-60 CPI Linked,2026-11-06,426.38
 TELBOND60,Tel Bond-60 CPI Linked,2026-11-07,426.38
-TELBOND60,Tel Bond-60 CPI Linked,2026-11-09,426.38
+TELBOND60,Tel Bond-60 CPI Linked,2026-11-09,426.64
 TELBOND_SHK,Tel Bond Shekel 100,2023-03-01,368.65
 TELBOND_SHK,Tel Bond Shekel 100,2023-03-02,367.38
 TELBOND_SHK,Tel Bond Shekel 100,2023-03-05,368.21
@@ -51221,7 +50650,7 @@ TELBOND_SHK,Tel Bond Shekel 100,2026-11-04,461.96
 TELBOND_SHK,Tel Bond Shekel 100,2026-11-05,461.44
 TELBOND_SHK,Tel Bond Shekel 100,2026-11-06,461.21
 TELBOND_SHK,Tel Bond Shekel 100,2026-11-07,461.21
-TELBOND_SHK,Tel Bond Shekel 100,2026-11-09,461.57
+TELBOND_SHK,Tel Bond Shekel 100,2026-11-09,462.04
 TELGOV_SHK,Tel Gov Shekel,2000-01-04,149.3
 TELGOV_SHK,Tel Gov Shekel,2000-01-05,149.2
 TELGOV_SHK,Tel Gov Shekel,2000-01-06,149.4
@@ -57810,7 +57239,7 @@ TELGOV_SHK,Tel Gov Shekel,2026-11-04,530.35
 TELGOV_SHK,Tel Gov Shekel,2026-11-05,530.4
 TELGOV_SHK,Tel Gov Shekel,2026-11-06,529.81
 TELGOV_SHK,Tel Gov Shekel,2026-11-07,529.81
-TELGOV_SHK,Tel Gov Shekel,2026-11-09,530.2
+TELGOV_SHK,Tel Gov Shekel,2026-11-09,531.32
 IL_FX_RESERVES,Israel FX reserves ($B),1996-01,9.177291681520002
 IL_FX_RESERVES,Israel FX reserves ($B),1996-02,10.02463981565
 IL_FX_RESERVES,Israel FX reserves ($B),1996-03,9.836658212689999
@@ -61954,7 +61383,7 @@ US_VIX,VIX,2026-11-03,20.829999923706055
 US_VIX,VIX,2026-11-04,16.610000610351562
 US_VIX,VIX,2026-11-05,28.18000030517578
 US_VIX,VIX,2026-11-06,25.639999389648438
-US_VIX,VIX,2026-11-09,23.760000228881836
+US_VIX,VIX,2026-11-09,23.260000228881836
 US_MOVE_VIX,MOVE · VIX,2025-04-10,40.720001220703125
 US_MOVE_VIX,MOVE · VIX,2025-04-11,37.560001373291016
 US_MOVE_VIX,MOVE · VIX,2025-04-14,30.889999389648438
@@ -62354,7 +61783,7 @@ US_MOVE_VIX,MOVE · VIX,2026-11-03,20.829999923706055
 US_MOVE_VIX,MOVE · VIX,2026-11-04,16.610000610351562
 US_MOVE_VIX,MOVE · VIX,2026-11-05,28.18000030517578
 US_MOVE_VIX,MOVE · VIX,2026-11-06,25.639999389648438
-US_MOVE_VIX,MOVE · VIX,2026-11-09,23.760000228881836
+US_MOVE_VIX,MOVE · VIX,2026-11-09,23.260000228881836
 IL_CORP_SPREAD,Israel corporate spread,2009-12,288.39090909
 IL_CORP_SPREAD,Israel corporate spread,2010-01,249.53809524000002
 IL_CORP_SPREAD,Israel corporate spread,2010-02,190.93157895
@@ -63359,7 +62788,7 @@ US_DXY,US Dollar Index (DXY),2026-11-03,101.87000274658203
 US_DXY,US Dollar Index (DXY),2026-11-04,101.51000213623047
 US_DXY,US Dollar Index (DXY),2026-11-05,101.55000305175781
 US_DXY,US Dollar Index (DXY),2026-11-06,102.30000305175781
-US_DXY,US Dollar Index (DXY),2026-11-09,101.8270034790039
+US_DXY,US Dollar Index (DXY),2026-11-09,101.84200286865234
 US_WTI,WTI crude ($/bbl),2025-04-09,62.349998474121094
 US_WTI,WTI crude ($/bbl),2025-04-10,60.06999969482422
 US_WTI,WTI crude ($/bbl),2025-04-11,61.5
@@ -63759,7 +63188,7 @@ US_WTI,WTI crude ($/bbl),2026-11-03,96.08999633789062
 US_WTI,WTI crude ($/bbl),2026-11-04,88.12000274658203
 US_WTI,WTI crude ($/bbl),2026-11-05,90.5199966430664
 US_WTI,WTI crude ($/bbl),2026-11-06,90.83000183105469
-US_WTI,WTI crude ($/bbl),2026-11-09,89.72000122070312
+US_WTI,WTI crude ($/bbl),2026-11-09,87.16999816894531
 US_TERM_SPREAD,Term spread (10Y − 2Y),2025-04-02,29.0
 US_TERM_SPREAD,Term spread (10Y − 2Y),2025-04-03,35.0
 US_TERM_SPREAD,Term spread (10Y − 2Y),2025-04-04,33.0
@@ -65633,7 +65062,7 @@ IL_TERM_SPREAD,Term spread (10Y − 2Y),2026-11-03,78.2
 IL_TERM_SPREAD,Term spread (10Y − 2Y),2026-11-04,74.9
 IL_TERM_SPREAD,Term spread (10Y − 2Y),2026-11-05,73.6
 IL_TERM_SPREAD,Term spread (10Y − 2Y),2026-11-06,73.6
-IL_TERM_SPREAD,Term spread (10Y − 2Y),2026-11-09,77.1
+IL_TERM_SPREAD,Term spread (10Y − 2Y),2026-11-09,75.8
 IL_BREAKEVEN10,Israel 10Y breakeven,2008-01,2.6189
 IL_BREAKEVEN10,Israel 10Y breakeven,2008-02,2.7004
 IL_BREAKEVEN10,Israel 10Y breakeven,2008-03,2.8072
