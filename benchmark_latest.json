@@ -344,9 +344,9 @@
     "provisional_days": null
    },
    "provisional_points": 0,
-   "value": 16135.8,
+   "value": 16135.75,
    "prev": 16176.48,
-   "change": -40.68,
+   "change": -40.73,
    "pct": -0.25,
    "asof": "2026-11-25",
    "history": [
@@ -389,15 +389,15 @@
     15522.21,
     16256.4,
     16176.48,
-    16135.8
+    16135.75
    ],
    "hist_from": "2026-10-01",
    "hist_to": "2026-11-25",
-   "chg_1d": -40.68,
+   "chg_1d": -40.73,
    "pct_1d": -0.25,
-   "chg_mtd": -875.34,
+   "chg_mtd": -875.39,
    "pct_mtd": -5.15,
-   "chg_ytd": 915.35,
+   "chg_ytd": 915.3,
    "pct_ytd": 6.01,
    "delta": "pct",
    "name": "S&P 500 Total Return Index \u2014 published total-return index level, passed through",
